@@ -3,14 +3,16 @@ import { useMemo } from "react";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
-import type { Song } from "@/src/types";
+import type { Song, SongLine } from "@/src/types";
+import { transposeChordLine } from "@/src/transpose";
 
 type Props = {
   song: Song;
   fontSize: number;
+  transposeSemis?: number;
 };
 
-export function SongContent({ song, fontSize }: Props) {
+export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
   const { colors } = useSettings();
   const styles = useMemo(() => makeStyles(colors), [colors]);
   const chordSize = Math.round(fontSize * 0.72);
@@ -20,23 +22,27 @@ export function SongContent({ song, fontSize }: Props) {
   return (
     <View style={styles.wrap}>
       {song.lines.map((line, i) => {
-        if (line.type === "chords") {
+        const displayLine: SongLine =
+          line.type === "chords" && transposeSemis
+            ? { ...line, text: transposeChordLine(line.text, transposeSemis) }
+            : line;
+        if (displayLine.type === "chords") {
           return (
             <Text
               key={i}
               style={[styles.chords, { fontSize: chordSize, lineHeight: chordSize * 1.35 }]}
             >
-              {line.text}
+              {displayLine.text}
             </Text>
           );
         }
-        if (line.type === "note") {
+        if (displayLine.type === "note") {
           return (
             <Text
               key={i}
               style={[styles.note, { fontSize: noteSize, lineHeight: noteSize * 1.4 }]}
             >
-              {line.text}
+              {displayLine.text}
             </Text>
           );
         }
@@ -45,7 +51,7 @@ export function SongContent({ song, fontSize }: Props) {
             key={i}
             style={[styles.lyrics, { fontSize: lyricSize, lineHeight: lyricSize * 1.55 }]}
           >
-            {line.text}
+            {displayLine.text}
           </Text>
         );
       })}

@@ -4,6 +4,7 @@ import { useRouter } from "expo-router";
 import { useMemo } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { HomeHeaderButton } from "@/components/HomeHeaderButton";
 import {
   FONT_MAX,
   FONT_MIN,
@@ -89,7 +90,7 @@ export default function ImpostazioniScreen() {
           <Text style={styles.backText}>Indietro</Text>
         </Pressable>
         <Text style={styles.title}>Impostazioni</Text>
-        <View style={{ width: 100 }} />
+        <HomeHeaderButton size={24} />
       </View>
 
       <ScrollView contentContainerStyle={styles.scroll}>

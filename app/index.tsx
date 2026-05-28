@@ -1,11 +1,12 @@
-import { Ionicons } from "@expo/vector-icons";
+import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import { useMemo } from "react";
 import { ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { HomeTile } from "@/components/HomeTile";
 import { SongCard } from "@/components/SongCard";
-import { getSong, SONGS } from "@/src/songs";
+import { useSongCatalog } from "@/src/SongCatalogContext";
+import { useSongEdits } from "@/src/SongEditsContext";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
@@ -13,18 +14,34 @@ import { spacing } from "@/src/theme";
 export default function HomeScreen() {
   const router = useRouter();
   const { recentIds, colors } = useSettings();
-  const recentSongs = recentIds.map((id) => getSong(id)).filter(Boolean);
+  const { getResolvedSong } = useSongEdits();
+  const { totalCount, songsAlphabetical } = useSongCatalog();
+  const recentSongs = recentIds.map((id) => getResolvedSong(id)).filter(Boolean);
+  const featuredSongs = useMemo(() => songsAlphabetical().slice(0, 4), [songsAlphabetical]);
   const styles = useMemo(() => makeStyles(colors), [colors]);
 
   return (
     <SafeAreaView style={styles.safe} edges={["top"]}>
       <ScrollView contentContainerStyle={styles.scroll}>
         <View style={styles.hero}>
-          <Text style={styles.heroEmoji}>🎸</Text>
-          <Text style={styles.heroTitle}>Canzoniere Facile</Text>
-          <Text style={styles.heroSub}>
-            Azione Cattolica Ticinese · {SONGS.length} canti
-          </Text>
+          <View style={styles.heroTitleRow}>
+            <MaterialCommunityIcons
+              name="guitar-acoustic"
+              size={44}
+              color={colors.primary}
+              style={styles.heroGuitar}
+            />
+            <View style={styles.heroTextCol}>
+              <Text style={styles.heroTitle}>Canzoniere Facile</Text>
+              <Text style={styles.heroSub}>{totalCount} canti</Text>
+            </View>
+            <MaterialCommunityIcons
+              name="guitar-electric"
+              size={44}
+              color={colors.accent}
+              style={styles.heroGuitar}
+            />
+          </View>
         </View>
 
         <View style={styles.grid}>
@@ -57,6 +74,27 @@ export default function HomeScreen() {
             onPress={() => router.push("/temi")}
           />
           <HomeTile
+            title="Preferiti"
+            subtitle="Canti a portata di mano"
+            icon="star"
+            color="#FFC107"
+            onPress={() => router.push("/preferiti")}
+          />
+          <HomeTile
+            title="Scalette"
+            subtitle="Domenica, feriale…"
+            icon="list"
+            color={colors.primary}
+            onPress={() => router.push("/scalette")}
+          />
+          <HomeTile
+            title="Aggiungi canto"
+            subtitle="Incolla o importa file"
+            icon="add-circle-outline"
+            color={colors.success}
+            onPress={() => router.push("/aggiungi-canto")}
+          />
+          <HomeTile
             title="Impostazioni"
             subtitle="Tema, colori, testo"
             icon="settings-outline"
@@ -82,7 +120,7 @@ export default function HomeScreen() {
 
         <View style={styles.section}>
           <Text style={styles.sectionTitle}>In evidenza</Text>
-          {SONGS.slice(0, 4).map((song) => (
+          {featuredSongs.map((song) => (
             <SongCard
               key={song.id}
               song={song}
@@ -104,19 +142,29 @@ function makeStyles(colors: AppColors) {
       paddingVertical: spacing.lg,
       marginBottom: spacing.md,
     },
-    heroEmoji: { fontSize: 48, marginBottom: spacing.sm },
+    heroTitleRow: {
+      flexDirection: "row",
+      alignItems: "center",
+      justifyContent: "center",
+      gap: spacing.md,
+      width: "100%",
+    },
+    heroGuitar: { flexShrink: 0 },
+    heroTextCol: { flex: 1, alignItems: "center", minWidth: 0 },
     heroTitle: {
       color: colors.text,
-      fontSize: 32,
+      fontSize: 30,
       fontWeight: "900",
       letterSpacing: -0.5,
+      textAlign: "center",
     },
-    heroSub: { color: colors.textMuted, fontSize: 15, marginTop: 6 },
+    heroSub: { color: colors.textMuted, fontSize: 15, marginTop: 6, textAlign: "center" },
     grid: {
       flexDirection: "row",
       flexWrap: "wrap",
       justifyContent: "space-between",
-      gap: spacing.sm,
+      rowGap: spacing.sm,
+      columnGap: spacing.sm,
       marginBottom: spacing.lg,
     },
     section: { marginTop: spacing.sm },

@@ -3,7 +3,7 @@ import { useLayoutEffect, useMemo } from "react";
 import { FlatList, StyleSheet } from "react-native";
 import { SongCard } from "@/components/SongCard";
 import { getSection } from "@/src/sections";
-import { songsBySection } from "@/src/songs";
+import { useSongCatalog } from "@/src/SongCatalogContext";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
@@ -14,6 +14,7 @@ export default function SezioneScreen() {
   const router = useRouter();
   const navigation = useNavigation();
   const { colors } = useSettings();
+  const { songsBySection } = useSongCatalog();
   const section = getSection(id ?? "");
   const songs = songsBySection(id ?? "").sort((a, b) =>
     a.code.localeCompare(b.code, undefined, { numeric: true }),

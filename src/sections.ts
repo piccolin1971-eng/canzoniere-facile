@@ -13,6 +13,7 @@ export const SECTIONS: Section[] = [
   { id: "M", name: "Canti a Maria", emoji: "💙", color: "#5C6BC0" },
   { id: "N", name: "Avvento e Natale", emoji: "⭐", color: "#29B6F6" },
   { id: "P", name: "Quaresima e Pasqua", emoji: "✝️", color: "#8D6E63" },
+  { id: "Z", name: "Miei canti", emoji: "✏️", color: "#9C27B0" },
 ];
 
 export function getSection(id: string): Section | undefined {

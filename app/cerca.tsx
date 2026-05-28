@@ -2,7 +2,7 @@ import { useRouter } from "expo-router";
 import { useMemo, useState } from "react";
 import { FlatList, StyleSheet, Text, TextInput, View } from "react-native";
 import { SongCard } from "@/components/SongCard";
-import { searchSongs } from "@/src/songs";
+import { useSongCatalog } from "@/src/SongCatalogContext";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
@@ -10,8 +10,9 @@ import { spacing } from "@/src/theme";
 export default function CercaScreen() {
   const router = useRouter();
   const { colors } = useSettings();
+  const { searchSongs } = useSongCatalog();
   const [query, setQuery] = useState("");
-  const results = useMemo(() => searchSongs(query), [query]);
+  const results = useMemo(() => searchSongs(query), [query, searchSongs]);
   const styles = useMemo(() => makeStyles(colors), [colors]);
 
   return (

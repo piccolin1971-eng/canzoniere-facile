@@ -2,7 +2,7 @@ import { useRouter } from "expo-router";
 import { useMemo } from "react";
 import { FlatList, StyleSheet } from "react-native";
 import { SongCard } from "@/components/SongCard";
-import { songsAlphabetical } from "@/src/songs";
+import { useSongCatalog } from "@/src/SongCatalogContext";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
@@ -10,6 +10,7 @@ import { spacing } from "@/src/theme";
 export default function AlfabetoScreen() {
   const router = useRouter();
   const { colors } = useSettings();
+  const { songsAlphabetical } = useSongCatalog();
   const songs = songsAlphabetical();
   const styles = useMemo(() => makeStyles(colors), [colors]);
 

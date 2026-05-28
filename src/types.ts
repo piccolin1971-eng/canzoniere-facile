@@ -13,6 +13,8 @@ export interface Song {
   themes?: string[];
   subtitle?: string;
   lines: SongLine[];
+  /** Canto aggiunto dall'utente sul tablet. */
+  isCustom?: boolean;
 }
 
 export interface Section {

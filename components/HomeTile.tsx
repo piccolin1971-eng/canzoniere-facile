@@ -23,10 +23,16 @@ export function HomeTile({ title, subtitle, icon, color, onPress }: Props) {
       style={({ pressed }) => [styles.tile, { borderColor: color + "44" }, pressed && styles.pressed]}
     >
       <View style={[styles.iconWrap, { backgroundColor: color + "22" }]}>
-        <Ionicons name={icon} size={28} color={color} />
+        <Ionicons name={icon} size={31} color={color} />
       </View>
-      <Text style={styles.title}>{title}</Text>
-      <Text style={styles.subtitle}>{subtitle}</Text>
+      <View style={styles.textCol}>
+        <Text style={styles.title} numberOfLines={1}>
+          {title}
+        </Text>
+        <Text style={styles.subtitle} numberOfLines={2}>
+          {subtitle}
+        </Text>
+      </View>
     </Pressable>
   );
 }
@@ -34,24 +40,28 @@ export function HomeTile({ title, subtitle, icon, color, onPress }: Props) {
 function makeStyles(colors: AppColors) {
   return StyleSheet.create({
     tile: {
+      flexDirection: "row",
+      alignItems: "center",
       flex: 1,
       minWidth: "46%",
       backgroundColor: colors.bgCard,
-      borderRadius: 20,
-      padding: spacing.md,
+      borderRadius: 18,
+      paddingVertical: spacing.md,
+      paddingHorizontal: spacing.md,
       borderWidth: 1.5,
-      marginBottom: spacing.sm,
+      gap: spacing.md,
     },
     pressed: { opacity: 0.9 },
     iconWrap: {
-      width: 48,
-      height: 48,
-      borderRadius: 14,
+      width: 52,
+      height: 52,
+      borderRadius: 16,
       alignItems: "center",
       justifyContent: "center",
-      marginBottom: spacing.sm,
+      flexShrink: 0,
     },
-    title: { color: colors.text, fontSize: 17, fontWeight: "800" },
-    subtitle: { color: colors.textMuted, fontSize: 13, marginTop: 4, lineHeight: 18 },
+    textCol: { flex: 1, minWidth: 0 },
+    title: { color: colors.text, fontSize: 20, fontWeight: "800" },
+    subtitle: { color: colors.textMuted, fontSize: 16, marginTop: 3, lineHeight: 21 },
   });
 }

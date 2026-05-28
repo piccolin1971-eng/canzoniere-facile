@@ -2,7 +2,7 @@ import { useLocalSearchParams, useNavigation, useRouter } from "expo-router";
 import { useLayoutEffect, useMemo } from "react";
 import { FlatList, StyleSheet } from "react-native";
 import { SongCard } from "@/components/SongCard";
-import { getSongsByTheme } from "@/src/songs";
+import { useSongCatalog } from "@/src/SongCatalogContext";
 import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
@@ -13,6 +13,7 @@ export default function TemaScreen() {
   const router = useRouter();
   const navigation = useNavigation();
   const { colors } = useSettings();
+  const { getSongsByTheme } = useSongCatalog();
   const label = decodeURIComponent(slug ?? "");
   const songs = getSongsByTheme(label);
   const title = label.charAt(0).toUpperCase() + label.slice(1);
