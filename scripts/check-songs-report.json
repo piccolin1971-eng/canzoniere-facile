@@ -1,0 +1,5909 @@
+{
+  "totalSongs": 933,
+  "duplicateIds": [],
+  "duplicateTitles": [
+    {
+      "normalizedTitle": "kyrie eleison",
+      "songs": [
+        {
+          "id": "a3",
+          "code": "A3",
+          "title": "Kyrie Eleison",
+          "lineCount": 6
+        },
+        {
+          "id": "a4",
+          "code": "A4",
+          "title": "Kyrie Eleison",
+          "lineCount": 13
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "signore pieta",
+      "songs": [
+        {
+          "id": "a6",
+          "code": "A6",
+          "title": "Signore pietà",
+          "lineCount": 14
+        },
+        {
+          "id": "a8",
+          "code": "A8",
+          "title": "Signore pietà",
+          "lineCount": 9
+        },
+        {
+          "id": "a11",
+          "code": "A11",
+          "title": "Signore pietà",
+          "lineCount": 14
+        },
+        {
+          "id": "signore-pieta-f-buttazzo",
+          "code": "SP001",
+          "title": "Signore pietà",
+          "lineCount": 19
+        },
+        {
+          "id": "signore-pieta-gen-rosso-dove-tu-sei-in-do",
+          "code": "SP002",
+          "title": "Signore pietà",
+          "lineCount": 12
+        },
+        {
+          "id": "signore-pieta-gen-rosso-dove-tu-sei-in-re",
+          "code": "SP003",
+          "title": "Signore pietà",
+          "lineCount": 51
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "scusa signore",
+      "songs": [
+        {
+          "id": "a7",
+          "code": "A7",
+          "title": "Scusa Signore",
+          "lineCount": 13
+        },
+        {
+          "id": "scusa-signore-biagioli-in-sol",
+          "code": "SP085",
+          "title": "Scusa Signore",
+          "lineCount": 34
+        },
+        {
+          "id": "scusa-signore-biagioli-in-re",
+          "code": "SP086",
+          "title": "Scusa Signore",
+          "lineCount": 35
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gloria a dio",
+      "songs": [
+        {
+          "id": "b5",
+          "code": "B5",
+          "title": "Gloria a Dio",
+          "lineCount": 12
+        },
+        {
+          "id": "b5mi",
+          "code": "B5",
+          "title": "Gloria a Dio",
+          "lineCount": 8
+        },
+        {
+          "id": "b6",
+          "code": "B6",
+          "title": "Gloria a Dio",
+          "lineCount": 15
+        },
+        {
+          "id": "gloria-a-dio-l-mariano",
+          "code": "SP005",
+          "title": "Gloria a Dio",
+          "lineCount": 31
+        },
+        {
+          "id": "gloria-a-dio",
+          "code": "SP009",
+          "title": "Gloria a Dio",
+          "lineCount": 77
+        },
+        {
+          "id": "gloria-a-dio-f-buittazzo-d-scarpa",
+          "code": "SP013",
+          "title": "Gloria a Dio",
+          "lineCount": 72
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gloria",
+      "songs": [
+        {
+          "id": "b7",
+          "code": "B7",
+          "title": "Gloria",
+          "lineCount": 13
+        },
+        {
+          "id": "b9",
+          "code": "B9",
+          "title": "Gloria",
+          "lineCount": 11
+        },
+        {
+          "id": "gloria-f-buttazzo-sorgente-di-unita-in-sol",
+          "code": "SP006",
+          "title": "Gloria",
+          "lineCount": 38
+        },
+        {
+          "id": "gloria-f-buttazzo-vita-nuova-con-te-in-sol",
+          "code": "SP007",
+          "title": "Gloria",
+          "lineCount": 36
+        },
+        {
+          "id": "gloria-f-buttazzo-vita-n-con-te-in-fa",
+          "code": "SP008",
+          "title": "Gloria",
+          "lineCount": 34
+        },
+        {
+          "id": "gloria-p-rita-k-arguello",
+          "code": "SP010",
+          "title": "Gloria",
+          "lineCount": 35
+        },
+        {
+          "id": "gloria-gen-verde",
+          "code": "SP011",
+          "title": "Gloria",
+          "lineCount": 32
+        },
+        {
+          "id": "gloria-m-frisina",
+          "code": "SP012",
+          "title": "Gloria",
+          "lineCount": 31
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "acclamate al signore",
+      "songs": [
+        {
+          "id": "acclamate-al-signore",
+          "code": "LA2",
+          "title": "ACCLAMATE AL SIGNORE",
+          "lineCount": 20
+        },
+        {
+          "id": "acclamate-al-signore-m-frisina-in-do",
+          "code": "SP060",
+          "title": "Acclamate al Signore",
+          "lineCount": 129
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "agnello di dio",
+      "songs": [
+        {
+          "id": "agnello-di-dio-abbi-pieta",
+          "code": "LA5",
+          "title": "AGNELLO DI DIO",
+          "lineCount": 13
+        },
+        {
+          "id": "agnello-di-dio-rns-ad-una-voce",
+          "code": "SP055",
+          "title": "Agnello di Dio",
+          "lineCount": 9
+        },
+        {
+          "id": "agnello-di-dio-rns-in-re",
+          "code": "SP056",
+          "title": "Agnello di Dio",
+          "lineCount": 19
+        },
+        {
+          "id": "agnello-di-dio-gen-r-dove-tu-sei",
+          "code": "SP057",
+          "title": "Agnello di Dio",
+          "lineCount": 12
+        },
+        {
+          "id": "agnello-di-dio-messa-bambini",
+          "code": "SP058",
+          "title": "Agnello di Dio",
+          "lineCount": 35
+        },
+        {
+          "id": "agnello-di-dio",
+          "code": "DG003",
+          "title": "Agnello di Dio",
+          "lineCount": 12
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "alleluia",
+      "songs": [
+        {
+          "id": "alleluia",
+          "code": "LA9",
+          "title": "ALLELUIA",
+          "lineCount": 71
+        },
+        {
+          "id": "alleluia-m-balduzzi-verbum-panis",
+          "code": "SP017",
+          "title": "Alleluia",
+          "lineCount": 58
+        },
+        {
+          "id": "alleluia-gen-verde",
+          "code": "SP019",
+          "title": "Alleluia",
+          "lineCount": 6
+        },
+        {
+          "id": "alleluia-cantate-al-signore",
+          "code": "DG005",
+          "title": "Alleluia",
+          "lineCount": 20
+        },
+        {
+          "id": "alleluia-canto-per-cristo",
+          "code": "DG006",
+          "title": "Alleluia",
+          "lineCount": 17
+        },
+        {
+          "id": "alleluia-chiama-ed-io",
+          "code": "DG007",
+          "title": "Alleluia",
+          "lineCount": 19
+        },
+        {
+          "id": "alleluia-ed-oggi-ancora-2",
+          "code": "DG008",
+          "title": "Alleluia",
+          "lineCount": 10
+        },
+        {
+          "id": "alleluia-la-nostra-festa",
+          "code": "DG009",
+          "title": "Alleluia",
+          "lineCount": 17
+        },
+        {
+          "id": "alleluia-passeranno-i-cieli-2",
+          "code": "DG010",
+          "title": "Alleluia",
+          "lineCount": 16
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "annunceremo che tu",
+      "songs": [
+        {
+          "id": "annunceremo-che-tu",
+          "code": "LA20",
+          "title": "ANNUNCEREMO CHE TU",
+          "lineCount": 22
+        },
+        {
+          "id": "annunceremo-che-tu-p-auricchio",
+          "code": "SP177",
+          "title": "Annunceremo che Tu",
+          "lineCount": 112
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "amatevi fratelli",
+      "songs": [
+        {
+          "id": "amatevi-fratelli",
+          "code": "LA22",
+          "title": "AMATEVI FRATELLI",
+          "lineCount": 12
+        },
+        {
+          "id": "amatevi-fratelli-in-fa",
+          "code": "SP124",
+          "title": "Amatevi fratelli",
+          "lineCount": 18
+        },
+        {
+          "id": "amatevi-fratelli-in-sol",
+          "code": "SP125",
+          "title": "Amatevi fratelli",
+          "lineCount": 18
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "andate per le strade",
+      "songs": [
+        {
+          "id": "andate-per-le-strade",
+          "code": "LA24",
+          "title": "ANDATE PER LE STRADE",
+          "lineCount": 57
+        },
+        {
+          "id": "andate-per-le-strade-a-roncari",
+          "code": "SP169",
+          "title": "Andate per le strade",
+          "lineCount": 115
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "antica eterna danza",
+      "songs": [
+        {
+          "id": "antica-eterna-danza",
+          "code": "LA26",
+          "title": "ANTICA, ETERNA DANZA",
+          "lineCount": 15
+        },
+        {
+          "id": "antica-eterna-danza-m-t-henderson-j-belamide-gen",
+          "code": "SP101",
+          "title": "Antica, eterna danza",
+          "lineCount": 65
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "astro del ciel",
+      "songs": [
+        {
+          "id": "astro-del-ciel",
+          "code": "LA29",
+          "title": "ASTRO DEL CIEL",
+          "lineCount": 14
+        },
+        {
+          "id": "astro-del-ciel-in-la-e-sol",
+          "code": "SP199",
+          "title": "Astro del ciel",
+          "lineCount": 34
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "ave maria",
+      "songs": [
+        {
+          "id": "ave-maria",
+          "code": "LA30",
+          "title": "AVE MARIA",
+          "lineCount": 15
+        },
+        {
+          "id": "ave-maria-m-balduzzi-c-casucci-verbum-panis",
+          "code": "SP231",
+          "title": "Ave Maria",
+          "lineCount": 188
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "canta alleluia",
+      "songs": [
+        {
+          "id": "canta-alleluia",
+          "code": "LA32",
+          "title": "CANTA ALLELUIA",
+          "lineCount": 8
+        },
+        {
+          "id": "canta-alleluia-rns",
+          "code": "SP027",
+          "title": "Canta alleluia",
+          "lineCount": 104
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "benedetto sei tu",
+      "songs": [
+        {
+          "id": "benedetto-sei-tu",
+          "code": "LA35",
+          "title": "BENEDETTO SEI TU",
+          "lineCount": 17
+        },
+        {
+          "id": "benedetto-sei-tu-lit-gen-verde",
+          "code": "SP112",
+          "title": "Benedetto sei Tu",
+          "lineCount": 133
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "benedici o signore",
+      "songs": [
+        {
+          "id": "benedici-o-signore",
+          "code": "LA39",
+          "title": "BENEDICI, O SIGNORE",
+          "lineCount": 24
+        },
+        {
+          "id": "benedici-o-signore-gen-r-in-la",
+          "code": "SP105",
+          "title": "Benedici, o Signore",
+          "lineCount": 84
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "canto dei tre giovani",
+      "songs": [
+        {
+          "id": "canto-dei-tre-giovani",
+          "code": "LA47",
+          "title": "CANTO DEI TRE GIOVANI",
+          "lineCount": 34
+        },
+        {
+          "id": "canto-dei-tre-giovani-rns",
+          "code": "SP061",
+          "title": "Canto dei tre giovani",
+          "lineCount": 88
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "come fuoco vivo",
+      "songs": [
+        {
+          "id": "come-fuoco-vivo",
+          "code": "LA48",
+          "title": "COME FUOCO VIVO",
+          "lineCount": 22
+        },
+        {
+          "id": "come-fuoco-vivo-gen-v-gen-r-in-do",
+          "code": "SP158",
+          "title": "Come fuoco vivo",
+          "lineCount": 65
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "come l aurora verrai",
+      "songs": [
+        {
+          "id": "come-l-aurora-verrai",
+          "code": "LA51",
+          "title": "COME L’AURORA VERRAI",
+          "lineCount": 24
+        },
+        {
+          "id": "come-l-aurora-verrai-gen-verde",
+          "code": "SP191",
+          "title": "Come l’aurora verrai",
+          "lineCount": 452
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "chi ci separera",
+      "songs": [
+        {
+          "id": "chi-ci-separera",
+          "code": "LA53",
+          "title": "CHI CI SEPARERA’",
+          "lineCount": 20
+        },
+        {
+          "id": "chi-ci-separera-rm-8-31-39-m-frisina-chi-ci-sepa",
+          "code": "SP272",
+          "title": "Chi ci separerà",
+          "lineCount": 183
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "custodiscimi",
+      "songs": [
+        {
+          "id": "custodiscimi",
+          "code": "LA56",
+          "title": "CUSTODISCIMI",
+          "lineCount": 50
+        },
+        {
+          "id": "custodiscimi-rns-in-mi",
+          "code": "SP265",
+          "title": "Custodiscimi",
+          "lineCount": 20
+        },
+        {
+          "id": "custodiscimi-rns-in-re",
+          "code": "SP266",
+          "title": "Custodiscimi",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "come e grande",
+      "songs": [
+        {
+          "id": "come-e-grande",
+          "code": "LA58",
+          "title": "COME E’ GRANDE",
+          "lineCount": 19
+        },
+        {
+          "id": "come-e-grande-r-grotti-in-si",
+          "code": "SP282",
+          "title": "Come è grande",
+          "lineCount": 218
+        },
+        {
+          "id": "come-e-grande-r-grotti-in-re",
+          "code": "SP285",
+          "title": "Come è grande",
+          "lineCount": 32
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "dall aurora al tramonto",
+      "songs": [
+        {
+          "id": "dall-aurora-al-tramonto",
+          "code": "LA66",
+          "title": "DALL’AURORA AL TRAMONTO",
+          "lineCount": 26
+        },
+        {
+          "id": "dall-aurora-al-tramonto-in-si",
+          "code": "SP171",
+          "title": "Dall’aurora al tramonto",
+          "lineCount": 28
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "dove tu sei",
+      "songs": [
+        {
+          "id": "dove-tu-sei",
+          "code": "LA69",
+          "title": "DOVE TU SEI",
+          "lineCount": 12
+        },
+        {
+          "id": "dove-tu-sei-gen-rosso-in-re-e-do",
+          "code": "SP133",
+          "title": "Dove Tu sei",
+          "lineCount": 68
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "effondero il mio spirito",
+      "songs": [
+        {
+          "id": "effondero-il-mio-spirito",
+          "code": "LA70",
+          "title": "EFFONDERO’ IL MIO SPIRITO",
+          "lineCount": 14
+        },
+        {
+          "id": "effondero-il-mio-spirito-m-frisina",
+          "code": "SP217",
+          "title": "Effonderò il mio Spirito",
+          "lineCount": 155
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "ecco quel che abbiamo",
+      "songs": [
+        {
+          "id": "ecco-quel-che-abbiamo",
+          "code": "LA81",
+          "title": "ECCO QUEL CHE ABBIAMO",
+          "lineCount": 31
+        },
+        {
+          "id": "ecco-quel-che-abbiamo-gen-v-in-do",
+          "code": "SP111",
+          "title": "Ecco quel che abbiamo",
+          "lineCount": 200
+        },
+        {
+          "id": "ecco-quel-che-abbiamo-il-miracolo-del-pane",
+          "code": "DG036",
+          "title": "Ecco quel che abbiamo",
+          "lineCount": 43
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "emmanuel",
+      "songs": [
+        {
+          "id": "emmanuel-gmg-2000",
+          "code": "LA86",
+          "title": "EMMANUEL",
+          "lineCount": 64
+        },
+        {
+          "id": "emmanuel-m-brusati-m-labellarte-m-mammoli-m-vers",
+          "code": "SP161",
+          "title": "Emmanuel",
+          "lineCount": 56
+        },
+        {
+          "id": "emmanuel-g-difatta-v-avveduto-m-corallo",
+          "code": "SP201",
+          "title": "Emmanuel",
+          "lineCount": 73
+        },
+        {
+          "id": "emmanuel",
+          "code": "DG037",
+          "title": "Emmanuel",
+          "lineCount": 194
+        },
+        {
+          "id": "emmanuel-re",
+          "code": "DG111",
+          "title": "Emmanuel",
+          "lineCount": 41
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "figlia di sion",
+      "songs": [
+        {
+          "id": "figlia-di-sion",
+          "code": "LA87",
+          "title": "FIGLIA DI SION",
+          "lineCount": 33
+        },
+        {
+          "id": "figlia-di-sion-v-nadalin",
+          "code": "SP262",
+          "title": "Figlia di Sion",
+          "lineCount": 51
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gioisci figlia di sion",
+      "songs": [
+        {
+          "id": "gioisci-figlia-di-sion",
+          "code": "LA93",
+          "title": "GIOISCI FIGLIA DI SION",
+          "lineCount": 46
+        },
+        {
+          "id": "gioisci-figlia-di-sion-gen-v-in-sib",
+          "code": "SP247",
+          "title": "Gioisci figlia di Sion",
+          "lineCount": 38
+        },
+        {
+          "id": "gioisci-figlia-di-sion-in-mi",
+          "code": "SP248",
+          "title": "Gioisci figlia di Sion",
+          "lineCount": 295
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "i cieli narrano",
+      "songs": [
+        {
+          "id": "i-cieli-narrano",
+          "code": "LA100",
+          "title": "I CIELI NARRANO",
+          "lineCount": 26
+        },
+        {
+          "id": "i-cieli-narrano-m-frisina-in-do",
+          "code": "SP064",
+          "title": "I cieli narrano",
+          "lineCount": 38
+        },
+        {
+          "id": "i-cieli-narrano-m-frisina-in-la",
+          "code": "SP065",
+          "title": "I cieli narrano",
+          "lineCount": 38
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "giovane donna",
+      "songs": [
+        {
+          "id": "giovane-donna",
+          "code": "LA103",
+          "title": "GIOVANE DONNA",
+          "lineCount": 20
+        },
+        {
+          "id": "giovane-donna-l-scaglianti-l-bancolini",
+          "code": "SP251",
+          "title": "Giovane donna",
+          "lineCount": 28
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "grandi cose",
+      "songs": [
+        {
+          "id": "grandi-cose",
+          "code": "LA112",
+          "title": "GRANDI COSE",
+          "lineCount": 16
+        },
+        {
+          "id": "grandi-cose-gen-rosso-se-siamo-uniti",
+          "code": "SP073",
+          "title": "Grandi cose",
+          "lineCount": 29
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "io ti offro",
+      "songs": [
+        {
+          "id": "io-ti-offro",
+          "code": "LA128",
+          "title": "IO TI OFFRO",
+          "lineCount": 10
+        },
+        {
+          "id": "io-ti-offro-cd-cloninger-d-moen-in-fa",
+          "code": "SP103",
+          "title": "Io ti offro",
+          "lineCount": 28
+        },
+        {
+          "id": "io-ti-offro-cd-cloninger-d-moen-in-re",
+          "code": "SP104",
+          "title": "Io ti offro",
+          "lineCount": 127
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "io saro con te",
+      "songs": [
+        {
+          "id": "io-saro-con-te",
+          "code": "LA137",
+          "title": "IO SARO’ CON TE",
+          "lineCount": 22
+        },
+        {
+          "id": "io-saro-con-te-p-cori",
+          "code": "SP183",
+          "title": "Io sarò con te",
+          "lineCount": 48
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "l acqua viva",
+      "songs": [
+        {
+          "id": "l-acqua-viva",
+          "code": "LA140",
+          "title": "L’ACQUA VIVA",
+          "lineCount": 24
+        },
+        {
+          "id": "l-acqua-viva-m-frisina-in-do",
+          "code": "SP275",
+          "title": "L’acqua viva",
+          "lineCount": 40
+        },
+        {
+          "id": "l-acqua-viva-m-frisina-in-re",
+          "code": "SP276",
+          "title": "L’acqua viva",
+          "lineCount": 76
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "laudato sii o mi signore",
+      "songs": [
+        {
+          "id": "laudato-sii-o-mi-signore-agape",
+          "code": "LA142",
+          "title": "LAUDATO SII, O MI’ SIGNORE",
+          "lineCount": 18
+        },
+        {
+          "id": "laudato-sii-o-mi-signore",
+          "code": "DG050",
+          "title": "Laudato sii, o mi Signore",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "lodate il signore dai cieli",
+      "songs": [
+        {
+          "id": "lodate-il-signore-dai-cieli-frisina",
+          "code": "LA154",
+          "title": "LODATE IL SIGNORE DAI CIELI",
+          "lineCount": 16
+        },
+        {
+          "id": "lodate-il-signore-dai-cieli-in-do",
+          "code": "SP063",
+          "title": "Lodate il Signore dai cieli",
+          "lineCount": 37
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "non temere",
+      "songs": [
+        {
+          "id": "non-temere",
+          "code": "LA156",
+          "title": "NON TEMERE",
+          "lineCount": 14
+        },
+        {
+          "id": "non-temere-m-frisina",
+          "code": "SP274",
+          "title": "Non temere",
+          "lineCount": 36
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "le tue meraviglie",
+      "songs": [
+        {
+          "id": "le-tue-meraviglie",
+          "code": "LA158",
+          "title": "LE TUE MERAVIGLIE",
+          "lineCount": 21
+        },
+        {
+          "id": "le-tue-meraviglie-in-fa",
+          "code": "SP173",
+          "title": "Le tue meraviglie",
+          "lineCount": 38
+        },
+        {
+          "id": "le-tue-meraviglie-in-re",
+          "code": "SP174",
+          "title": "Le tue meraviglie",
+          "lineCount": 40
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "magnificat",
+      "songs": [
+        {
+          "id": "magnificat",
+          "code": "LA164",
+          "title": "MAGNIFICAT",
+          "lineCount": 25
+        },
+        {
+          "id": "magnificat-gen-verde",
+          "code": "SP239",
+          "title": "Magnificat",
+          "lineCount": 25
+        },
+        {
+          "id": "magnificat-com-taize-in-sol-e-re",
+          "code": "SP260",
+          "title": "Magnificat",
+          "lineCount": 123
+        },
+        {
+          "id": "magnificat-ciardella",
+          "code": "DG056",
+          "title": "Magnificat",
+          "lineCount": 28
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "o signore nostro dio",
+      "songs": [
+        {
+          "id": "o-signore-nostro-dio",
+          "code": "LA177",
+          "title": "O SIGNORE NOSTRO DIO",
+          "lineCount": 28
+        },
+        {
+          "id": "o-signore-nostro-dio-m-frisina",
+          "code": "SP286",
+          "title": "O Signore, nostro Dio",
+          "lineCount": 156
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "pace sia pace a voi",
+      "songs": [
+        {
+          "id": "pace-sia-pace-a-voi",
+          "code": "LA179",
+          "title": "PACE SIA, PACE A VOI",
+          "lineCount": 29
+        },
+        {
+          "id": "pace-sia-pace-a-voi-gen-v-gen-r",
+          "code": "SP096",
+          "title": "Pace sia, pace a voi",
+          "lineCount": 37
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "padre nostro",
+      "songs": [
+        {
+          "id": "padre-nostro-frisina",
+          "code": "LA183",
+          "title": "PADRE NOSTRO",
+          "lineCount": 28
+        },
+        {
+          "id": "padre-nostro-m-giombini-in-la",
+          "code": "SP053",
+          "title": "Padre nostro",
+          "lineCount": 28
+        },
+        {
+          "id": "padre-nostro-m-giombini-in-do",
+          "code": "SP054",
+          "title": "Padre nostro",
+          "lineCount": 47
+        },
+        {
+          "id": "padre-nostro-gregoriano",
+          "code": "DG066",
+          "title": "Padre nostro",
+          "lineCount": 32
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "pane del cielo",
+      "songs": [
+        {
+          "id": "pane-del-cielo",
+          "code": "LA190",
+          "title": "PANE DEL CIELO",
+          "lineCount": 20
+        },
+        {
+          "id": "pane-del-cielo-gen-rosso-in-do",
+          "code": "SP137",
+          "title": "Pane del cielo",
+          "lineCount": 36
+        },
+        {
+          "id": "pane-del-cielo-gen-rosso-in-re",
+          "code": "SP138",
+          "title": "Pane del cielo",
+          "lineCount": 122
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "pane di vita nuova",
+      "songs": [
+        {
+          "id": "pane-di-vita-nuova-frisina",
+          "code": "LA194",
+          "title": "PANE DI VITA NUOVA",
+          "lineCount": 32
+        },
+        {
+          "id": "pane-di-vita-nuova",
+          "code": "DG067",
+          "title": "Pane di vita nuova",
+          "lineCount": 76
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "popoli tutti acclamate",
+      "songs": [
+        {
+          "id": "popoli-tutti-acclamate",
+          "code": "LA205",
+          "title": "POPOLI TUTTI ACCLAMATE",
+          "lineCount": 22
+        },
+        {
+          "id": "popoli-tutti-acclamate-in-la-sl-98-d-zschech-rns",
+          "code": "SP059",
+          "title": "Popoli tutti acclamate",
+          "lineCount": 93
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "resta accanto a me",
+      "songs": [
+        {
+          "id": "resta-accanto-a-me",
+          "code": "LA207",
+          "title": "RESTA ACCANTO A ME",
+          "lineCount": 24
+        },
+        {
+          "id": "resta-accanto-a-me-gen-verde",
+          "code": "SP175",
+          "title": "Resta accanto a me",
+          "lineCount": 105
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "salve regina",
+      "songs": [
+        {
+          "id": "salve-regina-greg",
+          "code": "LA208",
+          "title": "SALVE REGINA",
+          "lineCount": 18
+        },
+        {
+          "id": "salve-regina-gen-v-e-bello-lodarti",
+          "code": "SP235",
+          "title": "Salve Regina",
+          "lineCount": 26
+        },
+        {
+          "id": "salve-regina",
+          "code": "DG079",
+          "title": "Salve Regina",
+          "lineCount": 5
+        },
+        {
+          "id": "salve-regina-latino",
+          "code": "DG080",
+          "title": "Salve Regina",
+          "lineCount": 24
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo",
+      "songs": [
+        {
+          "id": "santo-iii-lit-eucaristica",
+          "code": "LA211",
+          "title": "SANTO",
+          "lineCount": 9
+        },
+        {
+          "id": "santo",
+          "code": "DG081",
+          "title": "Santo",
+          "lineCount": 30
+        },
+        {
+          "id": "santo-bonfitto",
+          "code": "DG082",
+          "title": "Santo",
+          "lineCount": 16
+        },
+        {
+          "id": "santo-due-voci",
+          "code": "DG083",
+          "title": "Santo",
+          "lineCount": 26
+        },
+        {
+          "id": "santo-gen-verde",
+          "code": "DG084",
+          "title": "Santo",
+          "lineCount": 26
+        },
+        {
+          "id": "santo-osanna-nelle-altezze",
+          "code": "DG085",
+          "title": "Santo",
+          "lineCount": 12
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo il signore",
+      "songs": [
+        {
+          "id": "santo-il-signore-marcia-f",
+          "code": "LA216",
+          "title": "SANTO IL SIGNORE",
+          "lineCount": 16
+        },
+        {
+          "id": "santo-il-signore-g-tranchida",
+          "code": "SP046",
+          "title": "Santo il Signore",
+          "lineCount": 40
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "symbolum 77",
+      "songs": [
+        {
+          "id": "symbolum-77",
+          "code": "LA226",
+          "title": "SYMBOLUM 77",
+          "lineCount": 30
+        },
+        {
+          "id": "symbolum-77-pa-sequeri",
+          "code": "SP127",
+          "title": "Symbolum ‘77",
+          "lineCount": 155
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "resta qui con noi",
+      "songs": [
+        {
+          "id": "resta-qui-con-noi",
+          "code": "LA235",
+          "title": "RESTA QUI CON NOI",
+          "lineCount": 30
+        },
+        {
+          "id": "resta-qui-con-noi-gen-rosso-in-re",
+          "code": "SP167",
+          "title": "Resta qui con noi",
+          "lineCount": 42
+        },
+        {
+          "id": "resta-qui-con-noi-gen-r-in-do",
+          "code": "SP168",
+          "title": "Resta qui con noi",
+          "lineCount": 85
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "servo per amore",
+      "songs": [
+        {
+          "id": "servo-per-amore",
+          "code": "LA237",
+          "title": "SERVO PER AMORE",
+          "lineCount": 31
+        },
+        {
+          "id": "servo-per-amore-in-mi",
+          "code": "SP106",
+          "title": "Servo per amore",
+          "lineCount": 33
+        },
+        {
+          "id": "servo-per-amore-in-si",
+          "code": "SP107",
+          "title": "Servo per amore",
+          "lineCount": 91
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "se m accogli",
+      "songs": [
+        {
+          "id": "se-m-accogli",
+          "code": "LA240",
+          "title": "SE M’ACCOGLI",
+          "lineCount": 20
+        },
+        {
+          "id": "se-m-accogli-pa-sequeri-in-do",
+          "code": "SP108",
+          "title": "Se m’accogli",
+          "lineCount": 31
+        },
+        {
+          "id": "se-m-accogli-pa-sequeri-in-la",
+          "code": "SP109",
+          "title": "Se m’accogli",
+          "lineCount": 156
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "symbolum 80",
+      "songs": [
+        {
+          "id": "symbolum-80",
+          "code": "LA241",
+          "title": "SYMBOLUM 80",
+          "lineCount": 37
+        },
+        {
+          "id": "symbolum-80-pa-sequeri-in-re",
+          "code": "SP131",
+          "title": "Symbolum ‘80",
+          "lineCount": 56
+        },
+        {
+          "id": "symbolum-80-pa-sequeri-in-mi",
+          "code": "SP132",
+          "title": "Symbolum ‘80",
+          "lineCount": 56
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "su ali d aquila",
+      "songs": [
+        {
+          "id": "su-ali-d-aquila",
+          "code": "LA249",
+          "title": "SU ALI D’AQUILA",
+          "lineCount": 31
+        },
+        {
+          "id": "su-ali-d-aquila-m-joncas-in-si",
+          "code": "SP268",
+          "title": "Su ali d’aquila",
+          "lineCount": 43
+        },
+        {
+          "id": "su-ali-d-aquila-m-joncas-in-re7",
+          "code": "SP270",
+          "title": "Su ali d’aquila",
+          "lineCount": 105
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "viaggio nella vita",
+      "songs": [
+        {
+          "id": "viaggio-nella-vita",
+          "code": "LA265",
+          "title": "VIAGGIO NELLA VITA",
+          "lineCount": 28
+        },
+        {
+          "id": "viaggio-nella-vita-g-cento",
+          "code": "SP190",
+          "title": "Viaggio nella vita",
+          "lineCount": 143
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vieni con me",
+      "songs": [
+        {
+          "id": "vieni-con-me",
+          "code": "LA266",
+          "title": "VIENI CON ME",
+          "lineCount": 30
+        },
+        {
+          "id": "vieni-con-me-g-cento",
+          "code": "SP172",
+          "title": "Vieni con me",
+          "lineCount": 282
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "verbum panis",
+      "songs": [
+        {
+          "id": "verbum-panis",
+          "code": "LA268",
+          "title": "VERBUM PANIS",
+          "lineCount": 29
+        },
+        {
+          "id": "verbum-panis-m-balduzzi-c-casucci",
+          "code": "SP202",
+          "title": "Verbum panis",
+          "lineCount": 161
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "venite applaudiamo al signore",
+      "songs": [
+        {
+          "id": "venite-applaudiamo-al-signore",
+          "code": "LA269",
+          "title": "VENITE APPLAUDIAMO AL SIGNORE",
+          "lineCount": 29
+        },
+        {
+          "id": "venite-applaudiamo-al-signore-sal-94-in-sol",
+          "code": "SP067",
+          "title": "Venite, applaudiamo al Signore",
+          "lineCount": 82
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vocazione",
+      "songs": [
+        {
+          "id": "vocazione",
+          "code": "LA270",
+          "title": "VOCAZIONE",
+          "lineCount": 38
+        },
+        {
+          "id": "vocazione-pa-sequeri-in-cerca-d-autore",
+          "code": "SP188",
+          "title": "Vocazione",
+          "lineCount": 48
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "te deum",
+      "songs": [
+        {
+          "id": "te-deum",
+          "code": "LA273",
+          "title": "TE DEUM",
+          "lineCount": 45
+        },
+        {
+          "id": "te-deum-rns",
+          "code": "SP071",
+          "title": "Te Deum",
+          "lineCount": 43
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vivere la vita",
+      "songs": [
+        {
+          "id": "vivere-la-vita",
+          "code": "LA280",
+          "title": "VIVERE LA VITA",
+          "lineCount": 33
+        },
+        {
+          "id": "vivere-la-vita-gen-verde",
+          "code": "SP163",
+          "title": "Vivere la vita",
+          "lineCount": 52
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vieni e seguimi",
+      "songs": [
+        {
+          "id": "vieni-e-seguimi",
+          "code": "LA281",
+          "title": "VIENI E SEGUIMI",
+          "lineCount": 29
+        },
+        {
+          "id": "vieni-e-seguimi-gen-r-se-siamo-uniti",
+          "code": "SP280",
+          "title": "Vieni e seguimi",
+          "lineCount": 71
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vieni nasci ancora",
+      "songs": [
+        {
+          "id": "vieni-nasci-ancora",
+          "code": "LA286",
+          "title": "VIENI NASCI ANCORA",
+          "lineCount": 33
+        },
+        {
+          "id": "vieni-nasci-ancora-d-ricci",
+          "code": "SP208",
+          "title": "Vieni, nasci ancora",
+          "lineCount": 282
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "alleluia lode cosmica",
+      "songs": [
+        {
+          "id": "alleluia-lode-cosmica",
+          "code": "LA293",
+          "title": "ALLELUIA : LODE COSMICA",
+          "lineCount": 28
+        },
+        {
+          "id": "alleluia-lode-cosmica-s-muti",
+          "code": "SP025",
+          "title": "Alleluia - lode cosmica",
+          "lineCount": 37
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "come tu mi vuoi",
+      "songs": [
+        {
+          "id": "come-tu-mi-vuoi",
+          "code": "LA294",
+          "title": "COME TU MI VUOI",
+          "lineCount": 38
+        },
+        {
+          "id": "come-tu-mi-vuoi-d-branca-rns",
+          "code": "SP166",
+          "title": "Come Tu mi vuoi",
+          "lineCount": 61
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "meraviglie in te",
+      "songs": [
+        {
+          "id": "meraviglie-in-te",
+          "code": "LA306",
+          "title": "MERAVIGLIE IN TE",
+          "lineCount": 32
+        },
+        {
+          "id": "meraviglie-in-te-in-do",
+          "code": "SP245",
+          "title": "Meraviglie in Te",
+          "lineCount": 42
+        },
+        {
+          "id": "meraviglie-in-te-in-la",
+          "code": "SP246",
+          "title": "Meraviglie in Te",
+          "lineCount": 118
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "alleluia e lui per noi",
+      "songs": [
+        {
+          "id": "alleluia-e-lui-per-noi",
+          "code": "LA316",
+          "title": "ALLELUIA: E’ LUI PER NOI",
+          "lineCount": 10
+        },
+        {
+          "id": "alleluia-e-lui-per-noi-pa-sequeri",
+          "code": "SP018",
+          "title": "Alleluia - è Lui per noi",
+          "lineCount": 50
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "su tutte le strade del mondo",
+      "songs": [
+        {
+          "id": "su-tutte-le-strade-del-mondo",
+          "code": "LA321",
+          "title": "SU TUTTE LE STRADE DEL MONDO",
+          "lineCount": 42
+        },
+        {
+          "id": "su-tutte-le-strade-del-mondo-g-cento",
+          "code": "SP193",
+          "title": "Su tutte le strade del mondo",
+          "lineCount": 121
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "preghiera",
+      "songs": [
+        {
+          "id": "preghiera",
+          "code": "LA332",
+          "title": "PREGHIERA",
+          "lineCount": 27
+        },
+        {
+          "id": "preghiera-p-fanelli",
+          "code": "SP182",
+          "title": "Preghiera",
+          "lineCount": 32
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "venite a me",
+      "songs": [
+        {
+          "id": "venite-a-me",
+          "code": "LA336",
+          "title": "VENITE A ME",
+          "lineCount": 19
+        },
+        {
+          "id": "venite-a-me-l-mariano",
+          "code": "SP082",
+          "title": "Venite a Me",
+          "lineCount": 240
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "vieni al signor",
+      "songs": [
+        {
+          "id": "vieni-al-signor",
+          "code": "003",
+          "title": "Vieni al Signor",
+          "lineCount": 26
+        },
+        {
+          "id": "vieni-al-signor-rns",
+          "code": "SP087",
+          "title": "Vieni al Signor",
+          "lineCount": 77
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "e bello lodarti",
+      "songs": [
+        {
+          "id": "e-bello-lodarti",
+          "code": "010",
+          "title": "E’ bello lodarti",
+          "lineCount": 20
+        },
+        {
+          "id": "e-bello-lodarti-gen-verde",
+          "code": "SP121",
+          "title": "È bello lodarti",
+          "lineCount": 28
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "solo in dio",
+      "songs": [
+        {
+          "id": "solo-in-dio",
+          "code": "024",
+          "title": "Solo in Dio",
+          "lineCount": 14
+        },
+        {
+          "id": "solo-in-dio-rns",
+          "code": "SP284",
+          "title": "Solo in Dio",
+          "lineCount": 177
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "dov e carita e amore",
+      "songs": [
+        {
+          "id": "dov-e-carita-e-amore",
+          "code": "086",
+          "title": "Dov’è carità e amore",
+          "lineCount": 26
+        },
+        {
+          "id": "dov-e-carita-e-amore-in-si7",
+          "code": "SP128",
+          "title": "Dov’è carità e amore",
+          "lineCount": 83
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "spirito di dio",
+      "songs": [
+        {
+          "id": "spirito-di-dio",
+          "code": "145",
+          "title": "Spirito di Dio",
+          "lineCount": 14
+        },
+        {
+          "id": "spirito-di-dio-riempici",
+          "code": "DG090",
+          "title": "Spirito di Dio",
+          "lineCount": 24
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "signore sei venuto",
+      "songs": [
+        {
+          "id": "signore-sei-venuto",
+          "code": "161",
+          "title": "Signore sei venuto",
+          "lineCount": 20
+        },
+        {
+          "id": "signore-sei-venuto-l-scaglianti",
+          "code": "SP206",
+          "title": "Signore sei venuto",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "dio s e fatto come noi",
+      "songs": [
+        {
+          "id": "dio-s-e-fatto-come-noi",
+          "code": "169",
+          "title": "Dio s’è fatto come noi",
+          "lineCount": 24
+        },
+        {
+          "id": "dio-s-e-fatto-come-noi-in-do-e-re",
+          "code": "SP197",
+          "title": "Dio s’è fatto come noi",
+          "lineCount": 37
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "lodate dio",
+      "songs": [
+        {
+          "id": "lodate-dio",
+          "code": "220",
+          "title": "Lodate Dio",
+          "lineCount": 14
+        },
+        {
+          "id": "lodate-dio-gen-rosso-dove-tu-sei",
+          "code": "SP080",
+          "title": "Lodate Dio",
+          "lineCount": 14
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "cerco la tua voce",
+      "songs": [
+        {
+          "id": "cerco-la-tua-voce-gen-rosso",
+          "code": "246",
+          "title": "Cerco la Tua voce",
+          "lineCount": 44
+        },
+        {
+          "id": "cerco-la-tua-voce",
+          "code": "DG021",
+          "title": "Cerco la tua voce",
+          "lineCount": 42
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "cristo e risorto",
+      "songs": [
+        {
+          "id": "cristo-e-risorto",
+          "code": "286",
+          "title": "Cristo è risorto",
+          "lineCount": 32
+        },
+        {
+          "id": "cristo-e-risorto-rns-in-do",
+          "code": "SP214",
+          "title": "Cristo è risorto",
+          "lineCount": 40
+        },
+        {
+          "id": "cristo-e-risorto-rns-in-fa",
+          "code": "SP215",
+          "title": "Cristo è risorto",
+          "lineCount": 40
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "hai dato un cibo",
+      "songs": [
+        {
+          "id": "hai-dato-un-cibo",
+          "code": "297",
+          "title": "Hai dato un cibo",
+          "lineCount": 14
+        },
+        {
+          "id": "hai-dato-un-cibo-in-re-e-do",
+          "code": "SP149",
+          "title": "Hai dato un cibo",
+          "lineCount": 158
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "canto a te maria",
+      "songs": [
+        {
+          "id": "canto-a-te-maria",
+          "code": "314",
+          "title": "Canto a Te Maria",
+          "lineCount": 20
+        },
+        {
+          "id": "canto-a-te-maria-gen-v-in-re",
+          "code": "SP237",
+          "title": "Canto a te, Maria",
+          "lineCount": 20
+        },
+        {
+          "id": "canto-a-te-maria-gen-v-in-mi",
+          "code": "SP238",
+          "title": "Canto a te, Maria",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "popoli tutti",
+      "songs": [
+        {
+          "id": "popoli-tutti",
+          "code": "324",
+          "title": "Popoli tutti",
+          "lineCount": 35
+        },
+        {
+          "id": "popoli-tutti-p-cori-noi-tuo-popolo",
+          "code": "SP062",
+          "title": "Popoli tutti",
+          "lineCount": 99
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "spirito santo vieni",
+      "songs": [
+        {
+          "id": "spirito-santo-vieni",
+          "code": "343",
+          "title": "Spirito Santo vieni",
+          "lineCount": 29
+        },
+        {
+          "id": "spirito-santo-vieni-c-recalcati",
+          "code": "SP221",
+          "title": "Spirito santo vieni",
+          "lineCount": 36
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "io non sono degno",
+      "songs": [
+        {
+          "id": "io-non-sono-degno-claudio-chieffo",
+          "code": "346",
+          "title": "Io non sono degno",
+          "lineCount": 22
+        },
+        {
+          "id": "io-non-sono-degno-c-chieffo",
+          "code": "SP091",
+          "title": "Io non sono degno",
+          "lineCount": 89
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "venimus adorare eum",
+      "songs": [
+        {
+          "id": "venimus-adorare-eum-inno-della-xx-gmg",
+          "code": "357",
+          "title": "Venimus adorare Eum",
+          "lineCount": 22
+        },
+        {
+          "id": "venimus-adorare-eum",
+          "code": "DG104",
+          "title": "Venimus adorare eum",
+          "lineCount": 17
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "luce",
+      "songs": [
+        {
+          "id": "luce-alessandro-gallo",
+          "code": "360",
+          "title": "Luce",
+          "lineCount": 42
+        },
+        {
+          "id": "luce",
+          "code": "DG053",
+          "title": "Luce",
+          "lineCount": 48
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "rallegriamoci",
+      "songs": [
+        {
+          "id": "rallegriamoci-don-paolo-auricchio",
+          "code": "362",
+          "title": "Rallegriamoci",
+          "lineCount": 29
+        },
+        {
+          "id": "rallegriamoci",
+          "code": "DG112",
+          "title": "Rallegriamoci",
+          "lineCount": 18
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "cosa offrirti",
+      "songs": [
+        {
+          "id": "cosa-offrirti",
+          "code": "406",
+          "title": "Cosa offrirti",
+          "lineCount": 24
+        },
+        {
+          "id": "cosa-offrirti-rns",
+          "code": "SP110",
+          "title": "Cosa offrirti",
+          "lineCount": 70
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "lode al nome tuo",
+      "songs": [
+        {
+          "id": "lode-al-nome-tuo-rns",
+          "code": "412",
+          "title": "Lode al nome Tuo",
+          "lineCount": 56
+        },
+        {
+          "id": "lode-al-nome-tuo",
+          "code": "DG052",
+          "title": "Lode al nome tuo",
+          "lineCount": 37
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "re dei re",
+      "songs": [
+        {
+          "id": "re-dei-re-rns",
+          "code": "415",
+          "title": "Re dei Re",
+          "lineCount": 57
+        },
+        {
+          "id": "re-dei-re",
+          "code": "DG074",
+          "title": "Re dei Re",
+          "lineCount": 24
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo 2",
+      "songs": [
+        {
+          "id": "santo-2-m-bonfitto-in-re",
+          "code": "SP031",
+          "title": "Santo 2",
+          "lineCount": 12
+        },
+        {
+          "id": "santo-2-m-bonfitto-in-fa",
+          "code": "SP032",
+          "title": "Santo 2",
+          "lineCount": 12
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo 3",
+      "songs": [
+        {
+          "id": "santo-3-gen-rosso-in-la",
+          "code": "SP033",
+          "title": "Santo 3",
+          "lineCount": 11
+        },
+        {
+          "id": "santo-3-gen-rosso-in-sol",
+          "code": "SP034",
+          "title": "Santo 3",
+          "lineCount": 11
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo 6",
+      "songs": [
+        {
+          "id": "santo-6-in-fa",
+          "code": "SP036",
+          "title": "Santo 6",
+          "lineCount": 18
+        },
+        {
+          "id": "santo-6-in-mi",
+          "code": "SP037",
+          "title": "Santo 6",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo 9",
+      "songs": [
+        {
+          "id": "santo-9-f-buttazzo-2-in-la",
+          "code": "SP041",
+          "title": "Santo 9",
+          "lineCount": 14
+        },
+        {
+          "id": "santo-9-f-buttazzo-2-in-sol",
+          "code": "SP042",
+          "title": "Santo 9",
+          "lineCount": 14
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "santo zaire",
+      "songs": [
+        {
+          "id": "santo-zaire-in-sol",
+          "code": "SP043",
+          "title": "Santo - zaire",
+          "lineCount": 12
+        },
+        {
+          "id": "santo-zaire-in-mi",
+          "code": "SP044",
+          "title": "Santo - zaire",
+          "lineCount": 12
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "benediro il signore",
+      "songs": [
+        {
+          "id": "benediro-il-signore-in-re",
+          "code": "SP069",
+          "title": "Benedirò il Signore",
+          "lineCount": 28
+        },
+        {
+          "id": "benediro-il-signore-in-do",
+          "code": "SP070",
+          "title": "Benedirò il Signore",
+          "lineCount": 32
+        },
+        {
+          "id": "benediro-il-signore",
+          "code": "DG017",
+          "title": "Benedirò il Signore",
+          "lineCount": 9
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "eccomi gesu",
+      "songs": [
+        {
+          "id": "eccomi-gesu-gen-verde-in-re",
+          "code": "SP076",
+          "title": "Eccomi Gesù",
+          "lineCount": 29
+        },
+        {
+          "id": "eccomi-gesu-gen-verde-in-mi",
+          "code": "SP077",
+          "title": "Eccomi Gesù",
+          "lineCount": 68
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "pace a te",
+      "songs": [
+        {
+          "id": "pace-a-te-m-giombini",
+          "code": "SP093",
+          "title": "Pace a te",
+          "lineCount": 14
+        },
+        {
+          "id": "pace-a-te",
+          "code": "DG065",
+          "title": "Pace a te",
+          "lineCount": 16
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "speranze di pace",
+      "songs": [
+        {
+          "id": "speranze-di-pace-gen-rosso-in-mi",
+          "code": "SP094",
+          "title": "Speranze di pace",
+          "lineCount": 24
+        },
+        {
+          "id": "speranze-di-pace-gen-rosso-in-re",
+          "code": "SP095",
+          "title": "Speranze di pace",
+          "lineCount": 43
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "donaci te stesso",
+      "songs": [
+        {
+          "id": "donaci-te-stesso-p-migani-in-mi",
+          "code": "SP114",
+          "title": "Donaci Te stesso",
+          "lineCount": 43
+        },
+        {
+          "id": "donaci-te-stesso-p-migani-in-re",
+          "code": "SP115",
+          "title": "Donaci Te stesso",
+          "lineCount": 89
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "sei dio",
+      "songs": [
+        {
+          "id": "sei-dio-gen-r-dove-tu-sei-in-re",
+          "code": "SP116",
+          "title": "Sei Dio",
+          "lineCount": 20
+        },
+        {
+          "id": "sei-dio-gen-rosso-in-do",
+          "code": "SP117",
+          "title": "Sei Dio",
+          "lineCount": 120
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "venite dal profondo",
+      "songs": [
+        {
+          "id": "venite-dal-profondo-rns",
+          "code": "SP120",
+          "title": "Venite dal profondo",
+          "lineCount": 97
+        },
+        {
+          "id": "venite-dal-profondo",
+          "code": "DG103",
+          "title": "Venite dal profondo",
+          "lineCount": 21
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "davanti al re",
+      "songs": [
+        {
+          "id": "davanti-al-re-rns-in-sol",
+          "code": "SP122",
+          "title": "Davanti al Re",
+          "lineCount": 8
+        },
+        {
+          "id": "davanti-al-re-rns-in-fa",
+          "code": "SP123",
+          "title": "Davanti al Re",
+          "lineCount": 8
+        },
+        {
+          "id": "davanti-al-re",
+          "code": "DG029",
+          "title": "Davanti al Re",
+          "lineCount": 8
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "passa questo mondo",
+      "songs": [
+        {
+          "id": "passa-questo-mondo-in-re",
+          "code": "SP129",
+          "title": "Passa questo mondo",
+          "lineCount": 20
+        },
+        {
+          "id": "passa-questo-mondo-in-fa",
+          "code": "SP130",
+          "title": "Passa questo mondo",
+          "lineCount": 72
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "adoro te",
+      "songs": [
+        {
+          "id": "adoro-te-rns-in-re-e-do",
+          "code": "SP135",
+          "title": "Adoro Te",
+          "lineCount": 48
+        },
+        {
+          "id": "adoro-te",
+          "code": "DG002",
+          "title": "Adoro Te",
+          "lineCount": 20
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "nel mistero",
+      "songs": [
+        {
+          "id": "nel-mistero-in-re-mi",
+          "code": "SP146",
+          "title": "Nel mistero",
+          "lineCount": 22
+        },
+        {
+          "id": "nel-mistero-in-fa-sol",
+          "code": "SP147",
+          "title": "Nel mistero",
+          "lineCount": 53
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "cerco solo te",
+      "songs": [
+        {
+          "id": "cerco-solo-te-rns-in-do",
+          "code": "SP164",
+          "title": "Cerco solo Te",
+          "lineCount": 22
+        },
+        {
+          "id": "cerco-solo-te-rns-in-si",
+          "code": "SP165",
+          "title": "Cerco solo Te",
+          "lineCount": 24
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gente di tutto il mondo",
+      "songs": [
+        {
+          "id": "gente-di-tutto-il-mondo-in-sol",
+          "code": "SP211",
+          "title": "Gente di tutto il mondo",
+          "lineCount": 26
+        },
+        {
+          "id": "gente-di-tutto-il-mondo-in-mi",
+          "code": "SP212",
+          "title": "Gente di tutto il mondo",
+          "lineCount": 361
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "invochiamo la tua presenza",
+      "songs": [
+        {
+          "id": "invochiamo-la-tua-presenza-rns",
+          "code": "SP220",
+          "title": "Invochiamo la tua presenza",
+          "lineCount": 32
+        },
+        {
+          "id": "invochiamo-la-tua-presenza",
+          "code": "DG048",
+          "title": "Invochiamo la tua presenza",
+          "lineCount": 195
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "e piena la terra",
+      "songs": [
+        {
+          "id": "e-piena-la-terra-sal-103-in-fa",
+          "code": "SP222",
+          "title": "è piena la terra",
+          "lineCount": 31
+        },
+        {
+          "id": "e-piena-la-terra-sal-103-in-re",
+          "code": "SP223",
+          "title": "è piena la terra",
+          "lineCount": 24
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "litanie a maria",
+      "songs": [
+        {
+          "id": "litanie-a-maria-g-cento-in-fa",
+          "code": "SP228",
+          "title": "Litanie a Maria",
+          "lineCount": 53
+        },
+        {
+          "id": "litanie-a-maria-g-cento-in-re",
+          "code": "SP229",
+          "title": "Litanie a Maria",
+          "lineCount": 60
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "maria quando l amor",
+      "songs": [
+        {
+          "id": "maria-quando-l-amor-gen-r",
+          "code": "SP232",
+          "title": "Maria quando l’Amor",
+          "lineCount": 32
+        },
+        {
+          "id": "maria-quando-l-amor-in-mi",
+          "code": "SP233",
+          "title": "Maria quando l’Amor",
+          "lineCount": 32
+        },
+        {
+          "id": "maria-quando-l-amor-in-sol",
+          "code": "SP234",
+          "title": "Maria quando l’Amor",
+          "lineCount": 53
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "in me cose grandi",
+      "songs": [
+        {
+          "id": "in-me-cose-grandi-rns-in-fa",
+          "code": "SP241",
+          "title": "in me cose grandi",
+          "lineCount": 31
+        },
+        {
+          "id": "in-me-cose-grandi-rns-in-re",
+          "code": "SP242",
+          "title": "in me cose grandi",
+          "lineCount": 110
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gioisci regina",
+      "songs": [
+        {
+          "id": "gioisci-regina-in-mi",
+          "code": "SP243",
+          "title": "Gioisci Regina",
+          "lineCount": 24
+        },
+        {
+          "id": "gioisci-regina-in-do",
+          "code": "SP244",
+          "title": "Gioisci regina",
+          "lineCount": 52
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "maria tu sei",
+      "songs": [
+        {
+          "id": "maria-tu-sei-gen-rosso",
+          "code": "SP258",
+          "title": "Maria tu sei",
+          "lineCount": 32
+        },
+        {
+          "id": "maria-tu-sei",
+          "code": "DG060",
+          "title": "Maria tu sei",
+          "lineCount": 28
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "gesu e la samaritana",
+      "songs": [
+        {
+          "id": "gesu-e-la-samaritana-rns-in-si",
+          "code": "SP263",
+          "title": "Gesù e la Samaritana",
+          "lineCount": 15
+        },
+        {
+          "id": "gesu-e-la-samaritana-in-do",
+          "code": "SP264",
+          "title": "Gesù e la Samaritana",
+          "lineCount": 15
+        },
+        {
+          "id": "gesu-e-la-samaritana",
+          "code": "DG041",
+          "title": "Gesù e la samaritana",
+          "lineCount": 18
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "silenzio",
+      "songs": [
+        {
+          "id": "silenzio-sir-p-cori-in-do",
+          "code": "SP278",
+          "title": "Silenzio",
+          "lineCount": 14
+        },
+        {
+          "id": "silenzio-sir-p-cori-in-la",
+          "code": "SP279",
+          "title": "Silenzio",
+          "lineCount": 171
+        }
+      ]
+    },
+    {
+      "normalizedTitle": "omnipotens",
+      "songs": [
+        {
+          "id": "omnipotens-franc-as-g-difatta-in-mi",
+          "code": "SP289",
+          "title": "Omnipotens",
+          "lineCount": 28
+        },
+        {
+          "id": "omnipotens-franc-as-g-difatta-in-re",
+          "code": "SP290",
+          "title": "Omnipotens",
+          "lineCount": 28
+        }
+      ]
+    }
+  ],
+  "duplicateContentHash": [],
+  "duplicateLyricsFingerprint": [],
+  "nearDuplicateTitles": [
+    {
+      "distance": 1,
+      "a": {
+        "id": "francesco-vai",
+        "code": "LA83",
+        "title": "FRANCESCO VAI",
+        "lines": 30
+      },
+      "b": {
+        "id": "francesco-va",
+        "code": "DG040",
+        "title": "Francesco và",
+        "lines": 40
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "perfetta-letizia",
+        "code": "LA203",
+        "title": "PERFETTA LETIZIA",
+        "lines": 63
+      },
+      "b": {
+        "id": "perfetta-letitia",
+        "code": "DG070",
+        "title": "Perfetta letitia",
+        "lines": 36
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "symbolum-77",
+        "code": "LA226",
+        "title": "SYMBOLUM 77",
+        "lines": 30
+      },
+      "b": {
+        "id": "symbolum-78",
+        "code": "LA244",
+        "title": "SYMBOLUM 78",
+        "lines": 32
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "symbolum-78",
+        "code": "LA244",
+        "title": "SYMBOLUM 78",
+        "lines": 32
+      },
+      "b": {
+        "id": "symbolum-77-pa-sequeri",
+        "code": "SP127",
+        "title": "Symbolum ‘77",
+        "lines": 155
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "un-giorno-tra-le-mie-mani",
+        "code": "LA267",
+        "title": "UN GIORNO TRA LE MIE MANI",
+        "lines": 37
+      },
+      "b": {
+        "id": "un-giorno-fra-le-mie-mani",
+        "code": "219",
+        "title": "Un giorno fra le mie mani",
+        "lines": 45
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "hopes-of-peace",
+        "code": "LA343",
+        "title": "HOPES OF PEACE",
+        "lines": 38
+      },
+      "b": {
+        "id": "hope-of-peace",
+        "code": "DG045",
+        "title": "Hope of peace",
+        "lines": 44
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "dio-s-e-fatto-come-noi",
+        "code": "169",
+        "title": "Dio s’è fatto come noi",
+        "lines": 24
+      },
+      "b": {
+        "id": "dio-si-e-fatto-come-noi",
+        "code": "DG032",
+        "title": "Dio si è fatto come noi",
+        "lines": 22
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "tu-chi-sei",
+        "code": "227",
+        "title": "Tu chi sei",
+        "lines": 33
+      },
+      "b": {
+        "id": "tu-ci-sei-s-tommasi-in-mi-e-si",
+        "code": "SP170",
+        "title": "Tu ci Sei",
+        "lines": 88
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "dio-s-e-fatto-come-noi-in-do-e-re",
+        "code": "SP197",
+        "title": "Dio s’è fatto come noi",
+        "lines": 37
+      },
+      "b": {
+        "id": "dio-si-e-fatto-come-noi",
+        "code": "DG032",
+        "title": "Dio si è fatto come noi",
+        "lines": 22
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "venite-fedeli-a-in-re",
+        "code": "SP203",
+        "title": "Venite fedeli / A",
+        "lines": 22
+      },
+      "b": {
+        "id": "venite-fedeli-b-in-sol",
+        "code": "SP204",
+        "title": "Venite fedeli / B",
+        "lines": 55
+      }
+    },
+    {
+      "distance": 1,
+      "a": {
+        "id": "manda-il-tuo-spirito-1-rns",
+        "code": "SP219",
+        "title": "Manda il tuo Spirito / 1",
+        "lines": 73
+      },
+      "b": {
+        "id": "manda-il-tuo-spirito-2",
+        "code": "SP224",
+        "title": "Manda il tuo Spirito / 2",
+        "lines": 61
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici-il-signore",
+        "code": "LA33",
+        "title": "BENEDICI IL SIGNORE",
+        "lines": 32
+      },
+      "b": {
+        "id": "benedici-o-signore",
+        "code": "LA39",
+        "title": "BENEDICI, O SIGNORE",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici-il-signore",
+        "code": "LA33",
+        "title": "BENEDICI IL SIGNORE",
+        "lines": 32
+      },
+      "b": {
+        "id": "benediro-il-signore-in-re",
+        "code": "SP069",
+        "title": "Benedirò il Signore",
+        "lines": 28
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici-il-signore",
+        "code": "LA33",
+        "title": "BENEDICI IL SIGNORE",
+        "lines": 32
+      },
+      "b": {
+        "id": "benediro-il-signore-in-do",
+        "code": "SP070",
+        "title": "Benedirò il Signore",
+        "lines": 32
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici-il-signore",
+        "code": "LA33",
+        "title": "BENEDICI IL SIGNORE",
+        "lines": 32
+      },
+      "b": {
+        "id": "benedici-o-signore-gen-r-in-la",
+        "code": "SP105",
+        "title": "Benedici, o Signore",
+        "lines": 84
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici-il-signore",
+        "code": "LA33",
+        "title": "BENEDICI IL SIGNORE",
+        "lines": 32
+      },
+      "b": {
+        "id": "benediro-il-signore",
+        "code": "DG017",
+        "title": "Benedirò il Signore",
+        "lines": 9
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "salve-dolce-vergine",
+        "code": "LA189",
+        "title": "SALVE DOLCE VERGINE",
+        "lines": 12
+      },
+      "b": {
+        "id": "salve-o-dolce-vergine-m-frisina",
+        "code": "SP230",
+        "title": "Salve, o dolce Vergine",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-77",
+        "code": "LA226",
+        "title": "SYMBOLUM 77",
+        "lines": 30
+      },
+      "b": {
+        "id": "symbolum-80",
+        "code": "LA241",
+        "title": "SYMBOLUM 80",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-77",
+        "code": "LA226",
+        "title": "SYMBOLUM 77",
+        "lines": 30
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-re",
+        "code": "SP131",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-77",
+        "code": "LA226",
+        "title": "SYMBOLUM 77",
+        "lines": 30
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-mi",
+        "code": "SP132",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-80",
+        "code": "LA241",
+        "title": "SYMBOLUM 80",
+        "lines": 37
+      },
+      "b": {
+        "id": "symbolum-78",
+        "code": "LA244",
+        "title": "SYMBOLUM 78",
+        "lines": 32
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-80",
+        "code": "LA241",
+        "title": "SYMBOLUM 80",
+        "lines": 37
+      },
+      "b": {
+        "id": "symbolum-77-pa-sequeri",
+        "code": "SP127",
+        "title": "Symbolum ‘77",
+        "lines": 155
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-78",
+        "code": "LA244",
+        "title": "SYMBOLUM 78",
+        "lines": 32
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-re",
+        "code": "SP131",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-78",
+        "code": "LA244",
+        "title": "SYMBOLUM 78",
+        "lines": 32
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-mi",
+        "code": "SP132",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "svegliati-sion",
+        "code": "LA246",
+        "title": "SVEGLIATI SION!",
+        "lines": 12
+      },
+      "b": {
+        "id": "svegliati-o-sion",
+        "code": "DG095",
+        "title": "Svegliati o Sion",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "isaia-62",
+        "code": "LA313",
+        "title": "ISAIA 62",
+        "lines": 40
+      },
+      "b": {
+        "id": "isaia-43-rns",
+        "code": "SP136",
+        "title": "Isaia 43",
+        "lines": 115
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "isaia-62",
+        "code": "LA313",
+        "title": "ISAIA 62",
+        "lines": 40
+      },
+      "b": {
+        "id": "isaia-11-rns",
+        "code": "SP192",
+        "title": "Isaia 11",
+        "lines": 75
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "cantiamo-a-te",
+        "code": "011",
+        "title": "Cantiamo a Te",
+        "lines": 18
+      },
+      "b": {
+        "id": "cantiamo-te",
+        "code": "DG019",
+        "title": "Cantiamo Te",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "salmo-120",
+        "code": "037",
+        "title": "Salmo 120",
+        "lines": 25
+      },
+      "b": {
+        "id": "salmo-118",
+        "code": "271",
+        "title": "Salmo 118",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "benedici",
+        "code": "062",
+        "title": "Benedici",
+        "lines": 33
+      },
+      "b": {
+        "id": "benediro",
+        "code": "132",
+        "title": "Benedirò",
+        "lines": 33
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "il-mistero",
+        "code": "109",
+        "title": "Il mistero",
+        "lines": 28
+      },
+      "b": {
+        "id": "nel-mistero-in-re-mi",
+        "code": "SP146",
+        "title": "Nel mistero",
+        "lines": 22
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "il-mistero",
+        "code": "109",
+        "title": "Il mistero",
+        "lines": 28
+      },
+      "b": {
+        "id": "nel-mistero-in-fa-sol",
+        "code": "SP147",
+        "title": "Nel mistero",
+        "lines": 53
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "venite-fedeli",
+        "code": "166",
+        "title": "Venite fedeli",
+        "lines": 15
+      },
+      "b": {
+        "id": "venite-fedeli-a-in-re",
+        "code": "SP203",
+        "title": "Venite fedeli / A",
+        "lines": 22
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "venite-fedeli",
+        "code": "166",
+        "title": "Venite fedeli",
+        "lines": 15
+      },
+      "b": {
+        "id": "venite-fedeli-b-in-sol",
+        "code": "SP204",
+        "title": "Venite fedeli / B",
+        "lines": 55
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "maria-vogliamo-amarti",
+        "code": "201",
+        "title": "Maria, vogliamo amarti",
+        "lines": 28
+      },
+      "b": {
+        "id": "maria-voglio-amarti",
+        "code": "DG061",
+        "title": "Maria, voglio amarti",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "salmo-118",
+        "code": "271",
+        "title": "Salmo 118",
+        "lines": 24
+      },
+      "b": {
+        "id": "salmo-8",
+        "code": "DG078",
+        "title": "Salmo 8",
+        "lines": 27
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-77-pa-sequeri",
+        "code": "SP127",
+        "title": "Symbolum ‘77",
+        "lines": 155
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-re",
+        "code": "SP131",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "symbolum-77-pa-sequeri",
+        "code": "SP127",
+        "title": "Symbolum ‘77",
+        "lines": 155
+      },
+      "b": {
+        "id": "symbolum-80-pa-sequeri-in-mi",
+        "code": "SP132",
+        "title": "Symbolum ‘80",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "isaia-43-rns",
+        "code": "SP136",
+        "title": "Isaia 43",
+        "lines": 115
+      },
+      "b": {
+        "id": "isaia-11-rns",
+        "code": "SP192",
+        "title": "Isaia 11",
+        "lines": 75
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "manda-il-tuo-spirito-1-rns",
+        "code": "SP219",
+        "title": "Manda il tuo Spirito / 1",
+        "lines": 73
+      },
+      "b": {
+        "id": "manda-il-tuo-spirito",
+        "code": "DG059",
+        "title": "Manda il Tuo Spirito",
+        "lines": 19
+      }
+    },
+    {
+      "distance": 2,
+      "a": {
+        "id": "manda-il-tuo-spirito-2",
+        "code": "SP224",
+        "title": "Manda il tuo Spirito / 2",
+        "lines": 61
+      },
+      "b": {
+        "id": "manda-il-tuo-spirito",
+        "code": "DG059",
+        "title": "Manda il Tuo Spirito",
+        "lines": 19
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "ave-maria",
+        "code": "LA30",
+        "title": "AVE MARIA",
+        "lines": 15
+      },
+      "b": {
+        "id": "come-maria",
+        "code": "LA52",
+        "title": "COME MARIA",
+        "lines": 22
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "come-maria",
+        "code": "LA52",
+        "title": "COME MARIA",
+        "lines": 22
+      },
+      "b": {
+        "id": "ave-maria-m-balduzzi-c-casucci-verbum-panis",
+        "code": "SP231",
+        "title": "Ave Maria",
+        "lines": 188
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "emmanuel-gmg-2000",
+        "code": "LA86",
+        "title": "EMMANUEL",
+        "lines": 64
+      },
+      "b": {
+        "id": "l-emmanuel-roma-gmg-2000",
+        "code": "279",
+        "title": "L' Emmanuel",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "figlia-di-sion",
+        "code": "LA87",
+        "title": "FIGLIA DI SION",
+        "lines": 33
+      },
+      "b": {
+        "id": "figli-di-dio",
+        "code": "131",
+        "title": "Figli di Dio",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "il-canto-del-mare",
+        "code": "LA106",
+        "title": "IL CANTO DEL MARE",
+        "lines": 28
+      },
+      "b": {
+        "id": "il-canto-dell-amore",
+        "code": "LA290",
+        "title": "IL CANTO DELL’AMORE",
+        "lines": 33
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "il-pane-di-vita",
+        "code": "LA124",
+        "title": "IL PANE DI VITA",
+        "lines": 29
+      },
+      "b": {
+        "id": "pane-di-vita-rns",
+        "code": "LA195",
+        "title": "PANE DI VITA",
+        "lines": 27
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "la-fede",
+        "code": "LA126",
+        "title": "LA FEDE",
+        "lines": 19
+      },
+      "b": {
+        "id": "la-tenda-claudio-chieffo",
+        "code": "290",
+        "title": "La tenda",
+        "lines": 35
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "le-tue-mani",
+        "code": "LA146",
+        "title": "LE TUE MANI",
+        "lines": 20
+      },
+      "b": {
+        "id": "nelle-tue-mani",
+        "code": "LA169",
+        "title": "NELLE TUE MANI",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "ora-sei-qui",
+        "code": "LA166",
+        "title": "ORA SEI QUI",
+        "lines": 16
+      },
+      "b": {
+        "id": "ora-si-puo",
+        "code": "DG063",
+        "title": "Ora si può",
+        "lines": 62
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "saldo-e-il-mio-cuore-dio",
+        "code": "LA201",
+        "title": "SALDO E’ IL MIO CUORE, DIO",
+        "lines": 24
+      },
+      "b": {
+        "id": "saldo-e-il-mio-cuore-in-dio",
+        "code": "136",
+        "title": "Saldo è il mio cuore in Dio",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-iii-lit-eucaristica",
+        "code": "LA211",
+        "title": "SANTO",
+        "lines": 9
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-iii-lit-eucaristica",
+        "code": "LA211",
+        "title": "SANTO",
+        "lines": 9
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-iii-lit-eucaristica",
+        "code": "LA211",
+        "title": "SANTO",
+        "lines": 9
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-iii-lit-eucaristica",
+        "code": "LA211",
+        "title": "SANTO",
+        "lines": 9
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-iii-lit-eucaristica",
+        "code": "LA211",
+        "title": "SANTO",
+        "lines": 9
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "se-m-accogli",
+        "code": "LA240",
+        "title": "SE M’ACCOGLI",
+        "lines": 20
+      },
+      "b": {
+        "id": "se-tu-m-accogli",
+        "code": "173",
+        "title": "Se Tu m’accogli",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "tu-sei",
+        "code": "LA251",
+        "title": "TU SEI",
+        "lines": 23
+      },
+      "b": {
+        "id": "tu-ci-sei-s-tommasi-in-mi-e-si",
+        "code": "SP170",
+        "title": "Tu ci Sei",
+        "lines": 88
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "vieni-con-me",
+        "code": "LA266",
+        "title": "VIENI CON ME",
+        "lines": 30
+      },
+      "b": {
+        "id": "rimani-con-me",
+        "code": "364",
+        "title": "Rimani con me",
+        "lines": 27
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "noi-canteremo",
+        "code": "004",
+        "title": "Noi canteremo",
+        "lines": 32
+      },
+      "b": {
+        "id": "e-canteremo",
+        "code": "130",
+        "title": "E canteremo",
+        "lines": 31
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "cantiamo-a-te",
+        "code": "011",
+        "title": "Cantiamo a Te",
+        "lines": 18
+      },
+      "b": {
+        "id": "cantiamo-a-dio",
+        "code": "023",
+        "title": "Cantiamo a Dio",
+        "lines": 19
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "salmo-120",
+        "code": "037",
+        "title": "Salmo 120",
+        "lines": 25
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "salmo-120",
+        "code": "037",
+        "title": "Salmo 120",
+        "lines": 25
+      },
+      "b": {
+        "id": "salmo-8",
+        "code": "DG078",
+        "title": "Salmo 8",
+        "lines": 27
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-1-c-rossi-m-emberti-gialloreti",
+        "code": "SP030",
+        "title": "Santo 1",
+        "lines": 20
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-2-m-bonfitto-in-re",
+        "code": "SP031",
+        "title": "Santo 2",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-2-m-bonfitto-in-fa",
+        "code": "SP032",
+        "title": "Santo 2",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-3-gen-rosso-in-la",
+        "code": "SP033",
+        "title": "Santo 3",
+        "lines": 11
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-3-gen-rosso-in-sol",
+        "code": "SP034",
+        "title": "Santo 3",
+        "lines": 11
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-4",
+        "code": "SP035",
+        "title": "Santo 4",
+        "lines": 38
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-6-in-fa",
+        "code": "SP036",
+        "title": "Santo 6",
+        "lines": 18
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-6-in-mi",
+        "code": "SP037",
+        "title": "Santo 6",
+        "lines": 20
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-7-f-buttazzo-1",
+        "code": "SP038",
+        "title": "Santo 7",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-8-m-zambuto",
+        "code": "SP040",
+        "title": "Santo 8",
+        "lines": 38
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-9-f-buttazzo-2-in-la",
+        "code": "SP041",
+        "title": "Santo 9",
+        "lines": 14
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-9-f-buttazzo-2-in-sol",
+        "code": "SP042",
+        "title": "Santo 9",
+        "lines": 14
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-e",
+        "code": "SP047",
+        "title": "Santo è",
+        "lines": 15
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-c-m",
+        "code": "047",
+        "title": "Santo C.M.",
+        "lines": 26
+      },
+      "b": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "benedetto",
+        "code": "060",
+        "title": "Benedetto",
+        "lines": 28
+      },
+      "b": {
+        "id": "benediro",
+        "code": "132",
+        "title": "Benedirò",
+        "lines": 33
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "osanna",
+        "code": "126",
+        "title": "Osanna",
+        "lines": 25
+      },
+      "b": {
+        "id": "osanna-eh",
+        "code": "DG064",
+        "title": "Osanna eh",
+        "lines": 13
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "figli-di-dio",
+        "code": "131",
+        "title": "Figli di Dio",
+        "lines": 30
+      },
+      "b": {
+        "id": "figlia-di-sion-v-nadalin",
+        "code": "SP262",
+        "title": "Figlia di Sion",
+        "lines": 51
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "spirito-di-dio",
+        "code": "145",
+        "title": "Spirito di Dio",
+        "lines": 14
+      },
+      "b": {
+        "id": "lo-spirito-di-dio",
+        "code": "147",
+        "title": "Lo Spirito di Dio",
+        "lines": 40
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "lo-spirito-di-dio",
+        "code": "147",
+        "title": "Lo Spirito di Dio",
+        "lines": 40
+      },
+      "b": {
+        "id": "spirito-di-dio-riempici",
+        "code": "DG090",
+        "title": "Spirito di Dio",
+        "lines": 24
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "se-tu-m-accogli",
+        "code": "173",
+        "title": "Se Tu m’accogli",
+        "lines": 24
+      },
+      "b": {
+        "id": "se-m-accogli-pa-sequeri-in-do",
+        "code": "SP108",
+        "title": "Se m’accogli",
+        "lines": 31
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "se-tu-m-accogli",
+        "code": "173",
+        "title": "Se Tu m’accogli",
+        "lines": 24
+      },
+      "b": {
+        "id": "se-m-accogli-pa-sequeri-in-la",
+        "code": "SP109",
+        "title": "Se m’accogli",
+        "lines": 156
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "l-emmanuel-roma-gmg-2000",
+        "code": "279",
+        "title": "L' Emmanuel",
+        "lines": 42
+      },
+      "b": {
+        "id": "emmanuel-m-brusati-m-labellarte-m-mammoli-m-vers",
+        "code": "SP161",
+        "title": "Emmanuel",
+        "lines": 56
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "l-emmanuel-roma-gmg-2000",
+        "code": "279",
+        "title": "L' Emmanuel",
+        "lines": 42
+      },
+      "b": {
+        "id": "emmanuel-g-difatta-v-avveduto-m-corallo",
+        "code": "SP201",
+        "title": "Emmanuel",
+        "lines": 73
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "l-emmanuel-roma-gmg-2000",
+        "code": "279",
+        "title": "L' Emmanuel",
+        "lines": 42
+      },
+      "b": {
+        "id": "emmanuel",
+        "code": "DG037",
+        "title": "Emmanuel",
+        "lines": 194
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "l-emmanuel-roma-gmg-2000",
+        "code": "279",
+        "title": "L' Emmanuel",
+        "lines": 42
+      },
+      "b": {
+        "id": "emmanuel-re",
+        "code": "DG111",
+        "title": "Emmanuel",
+        "lines": 41
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "rimani-con-me",
+        "code": "364",
+        "title": "Rimani con me",
+        "lines": 27
+      },
+      "b": {
+        "id": "vieni-con-me-g-cento",
+        "code": "SP172",
+        "title": "Vieni con me",
+        "lines": 282
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo",
+        "code": "DG081",
+        "title": "Santo",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-bonfitto",
+        "code": "DG082",
+        "title": "Santo",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-due-voci",
+        "code": "DG083",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-gen-verde",
+        "code": "DG084",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-12-rns",
+        "code": "SP045",
+        "title": "Santo 12",
+        "lines": 42
+      },
+      "b": {
+        "id": "santo-osanna-nelle-altezze",
+        "code": "DG085",
+        "title": "Santo",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo",
+        "code": "DG081",
+        "title": "Santo",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-bonfitto",
+        "code": "DG082",
+        "title": "Santo",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-due-voci",
+        "code": "DG083",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-gen-verde",
+        "code": "DG084",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-13-a-cimini",
+        "code": "SP048",
+        "title": "Santo 13",
+        "lines": 10
+      },
+      "b": {
+        "id": "santo-osanna-nelle-altezze",
+        "code": "DG085",
+        "title": "Santo",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo",
+        "code": "DG081",
+        "title": "Santo",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-bonfitto",
+        "code": "DG082",
+        "title": "Santo",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-due-voci",
+        "code": "DG083",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-gen-verde",
+        "code": "DG084",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-14-m-palmitessa",
+        "code": "SP049",
+        "title": "Santo 14",
+        "lines": 59
+      },
+      "b": {
+        "id": "santo-osanna-nelle-altezze",
+        "code": "DG085",
+        "title": "Santo",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo",
+        "code": "DG081",
+        "title": "Santo",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo-bonfitto",
+        "code": "DG082",
+        "title": "Santo",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo-due-voci",
+        "code": "DG083",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo-gen-verde",
+        "code": "DG084",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-15-gen-r-come-fuoco-vivo",
+        "code": "SP050",
+        "title": "Santo 15",
+        "lines": 37
+      },
+      "b": {
+        "id": "santo-osanna-nelle-altezze",
+        "code": "DG085",
+        "title": "Santo",
+        "lines": 12
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      },
+      "b": {
+        "id": "santo",
+        "code": "DG081",
+        "title": "Santo",
+        "lines": 30
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      },
+      "b": {
+        "id": "santo-bonfitto",
+        "code": "DG082",
+        "title": "Santo",
+        "lines": 16
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      },
+      "b": {
+        "id": "santo-due-voci",
+        "code": "DG083",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      },
+      "b": {
+        "id": "santo-gen-verde",
+        "code": "DG084",
+        "title": "Santo",
+        "lines": 26
+      }
+    },
+    {
+      "distance": 3,
+      "a": {
+        "id": "santo-16-a-cimini",
+        "code": "SP051",
+        "title": "Santo 16",
+        "lines": 80
+      },
+      "b": {
+        "id": "santo-osanna-nelle-altezze",
+        "code": "DG085",
+        "title": "Santo",
+        "lines": 12
+      }
+    }
+  ],
+  "refusiSummary": {
+    "songsWithIssues": 30,
+    "byKind": {
+      "duplicate_consecutive": 36,
+      "lyrics_looks_like_chords": 33
+    }
+  },
+  "refusi": [
+    {
+      "id": "inno-di-liberazione",
+      "code": "LA129",
+      "title": "INNO DI LIBERAZIONE",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "A Colui che per sempre regnerà!",
+          "lineIndex": 36
+        }
+      ]
+    },
+    {
+      "id": "tu-scendi-dalle-stelle",
+      "code": "LA242",
+      "title": "TU SCENDI DALLE STELLE",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Mancano panni e fuoco O mio Signore",
+          "lineIndex": 16
+        }
+      ]
+    },
+    {
+      "id": "verbum-panis",
+      "code": "LA268",
+      "title": "VERBUM PANIS",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Verbum caro factum est. Verbum panis factum est.",
+          "lineIndex": 25
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Verbum caro factum est. Verbum panis factum est.",
+          "lineIndex": 28
+        }
+      ]
+    },
+    {
+      "id": "vieni-nasci-ancora",
+      "code": "LA286",
+      "title": "VIENI NASCI ANCORA",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 27
+        }
+      ]
+    },
+    {
+      "id": "salmo-120",
+      "code": "037",
+      "title": "Salmo 120",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "lodate-dio",
+      "code": "220",
+      "title": "Lodate Dio",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "SOL  DO  SOL  FA  DO  SOL",
+          "lineIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "l-emmanuel-roma-gmg-2000",
+      "code": "279",
+      "title": "L' Emmanuel",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 29
+        }
+      ]
+    },
+    {
+      "id": "evenu-shaolm",
+      "code": "295",
+      "title": "Evenu shaolm",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "E sia la pace con noi.",
+          "lineIndex": 11
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "E sia la pace con noi.",
+          "lineIndex": 12
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Diciamo pace al mondo.",
+          "lineIndex": 16
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Diciamo pace al mondo.",
+          "lineIndex": 17
+        }
+      ]
+    },
+    {
+      "id": "abbiamo-contemplato-o-dio-salmo",
+      "code": "325",
+      "title": "Abbiamo contemplato o Dio",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Rallegriamoci ed esultiamo",
+          "lineIndex": 23
+        }
+      ]
+    },
+    {
+      "id": "dona-nobis-pacem",
+      "code": "341",
+      "title": "Dona nobis pacem",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Dona nobis pacem.",
+          "lineIndex": 4
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Dona nobis pacem.",
+          "lineIndex": 5
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Dona nobis pacem.",
+          "lineIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "luce-alessandro-gallo",
+      "code": "360",
+      "title": "Luce",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "/ 7",
+          "lineIndex": 40
+        }
+      ]
+    },
+    {
+      "id": "rallegriamoci-don-paolo-auricchio",
+      "code": "362",
+      "title": "Rallegriamoci",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "DO  SOL  FA  DO  SOL  FA",
+          "lineIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "il-signore-e-il-pastore-della-vita-mia",
+      "code": "388",
+      "title": "Il Signore è il pastore della vita mia",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Con lui riposerò",
+          "lineIndex": 9
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "per amore del suo nome",
+          "lineIndex": 12
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Se poi mi troverò",
+          "lineIndex": 15
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "io non temerò alcun male Signo-o-re",
+          "lineIndex": 21
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Perché tu preparerai",
+          "lineIndex": 27
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "una mensa per i figli tuoi,",
+          "lineIndex": 30
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "grazia e felicità",
+          "lineIndex": 33
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "con loro a te verrò,",
+          "lineIndex": 36
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "con loro a te verrò.",
+          "lineIndex": 39
+        }
+      ]
+    },
+    {
+      "id": "tu-sei-bambino",
+      "code": "400",
+      "title": "Tu sei bambino",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa 6 7 6 Fa 6 7 6",
+          "lineIndex": 62
+        }
+      ]
+    },
+    {
+      "id": "lode-al-nome-tuo-rns",
+      "code": "412",
+      "title": "Lode al nome Tuo",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Tu doni e porti via",
+          "lineIndex": 35
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Tu doni e porti via",
+          "lineIndex": 51
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Tu doni e porti via",
+          "lineIndex": 54
+        }
+      ]
+    },
+    {
+      "id": "signore-pieta-gen-rosso-dove-tu-sei-in-re",
+      "code": "SP003",
+      "title": "Signore pietà",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Signore, Signore pietà _______ Cristo ____",
+          "lineIndex": 37
+        }
+      ]
+    },
+    {
+      "id": "ascolta-il-mio-cuore-rns-grazie",
+      "code": "SP078",
+      "title": "Ascolta il mio cuore",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa7+",
+          "lineIndex": 6
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa7+",
+          "lineIndex": 30
+        }
+      ]
+    },
+    {
+      "id": "vieni-con-me-g-cento",
+      "code": "SP172",
+      "title": "Vieni con me",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 258
+        }
+      ]
+    },
+    {
+      "id": "vieni-nasci-ancora-d-ricci",
+      "code": "SP208",
+      "title": "Vieni, nasci ancora",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 18
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "e i santi e gli angeli cantano",
+          "lineIndex": 118
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "ripetono il suono gioioso",
+          "lineIndex": 125
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "e la meraviglia del suo amore",
+          "lineIndex": 131
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "[FIN DOVE VERRÀ TROVATO DEL MALE]",
+          "lineIndex": 139
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "e la meraviglia del suo amore",
+          "lineIndex": 145
+        },
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "e venerate sempre Dio",
+          "lineIndex": 151
+        }
+      ]
+    },
+    {
+      "id": "ave-maria-m-balduzzi-c-casucci-verbum-panis",
+      "code": "SP231",
+      "title": "Ave Maria",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6      7      6               7",
+          "lineIndex": 65
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6      7      6                             7",
+          "lineIndex": 67
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "7+                                    6     6+",
+          "lineIndex": 69
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6              7",
+          "lineIndex": 85
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6                         7",
+          "lineIndex": 87
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6            7",
+          "lineIndex": 89
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "6                             7      7+",
+          "lineIndex": 91
+        }
+      ]
+    },
+    {
+      "id": "maria-quando-l-amor-gen-r",
+      "code": "SP232",
+      "title": "Maria quando l’Amor",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 18
+        }
+      ]
+    },
+    {
+      "id": "l-acqua-viva-m-frisina-in-re",
+      "code": "SP276",
+      "title": "L’acqua viva",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "SIB  DO  SOL-",
+          "lineIndex": 29
+        }
+      ]
+    },
+    {
+      "id": "io-l-attirero-com-maria",
+      "code": "SP277",
+      "title": "Io l’attirerò",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa7+",
+          "lineIndex": 87
+        }
+      ]
+    },
+    {
+      "id": "stringimi-d-moen",
+      "code": "SP287",
+      "title": "Stringimi",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "Tu sei la vita, eterno gaudio",
+          "lineIndex": 247
+        }
+      ]
+    },
+    {
+      "id": "poverta",
+      "code": "SP291",
+      "title": "Povertà",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-7",
+          "lineIndex": 47
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-7",
+          "lineIndex": 55
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-7",
+          "lineIndex": 87
+        }
+      ]
+    },
+    {
+      "id": "emmanuel",
+      "code": "DG037",
+      "title": "Emmanuel",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 36
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 63
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 116
+        }
+      ]
+    },
+    {
+      "id": "inno-all-amore-debora-vezzani",
+      "code": "DG047",
+      "title": "Inno all’Amore",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 22
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 39
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 43
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 50
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 67
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 71
+        },
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "FA7+",
+          "lineIndex": 77
+        }
+      ]
+    },
+    {
+      "id": "lode-al-nome-tuo",
+      "code": "DG052",
+      "title": "Lode al nome tuo",
+      "issues": [
+        {
+          "kind": "duplicate_consecutive",
+          "detail": "SOL  RE  MI-  DO",
+          "lineIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "tu-sei-con-noi",
+      "code": "DG097",
+      "title": "Tu sei con noi",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "un-amore-imperfetto",
+      "code": "DG101",
+      "title": "Un amore imperfetto",
+      "issues": [
+        {
+          "kind": "lyrics_looks_like_chords",
+          "detail": "Fa#-",
+          "lineIndex": 21
+        }
+      ]
+    }
+  ]
+}

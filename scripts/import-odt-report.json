@@ -1,0 +1,122 @@
+{
+  "addedFromSoloPerTe": 294,
+  "addedFromDiamogusto": 115,
+  "skippedDuplicate": 131,
+  "skippedQuality": 142,
+  "firstNewId": "signore-pieta-f-buttazzo",
+  "sampleAdded": [
+    {
+      "id": "signore-pieta-f-buttazzo",
+      "title": "Signore pietà",
+      "subtitle": "f. buttazzo"
+    },
+    {
+      "id": "signore-pieta-gen-rosso-dove-tu-sei-in-do",
+      "title": "Signore pietà",
+      "subtitle": "gen rosso dove tu sei (in Do)"
+    },
+    {
+      "id": "signore-pieta-gen-rosso-dove-tu-sei-in-re",
+      "title": "Signore pietà",
+      "subtitle": "gen rosso dove tu sei (in Re)"
+    },
+    {
+      "id": "signore-nostra-pace-g-tranchida",
+      "title": "Signore nostra pace",
+      "subtitle": "g. tranchida"
+    },
+    {
+      "id": "gloria-a-dio-l-mariano",
+      "title": "Gloria a Dio",
+      "subtitle": "l. mariano"
+    },
+    {
+      "id": "gloria-f-buttazzo-sorgente-di-unita-in-sol",
+      "title": "Gloria",
+      "subtitle": "f. buttazzo sorgente di unità (in Sol)"
+    },
+    {
+      "id": "gloria-f-buttazzo-vita-nuova-con-te-in-sol",
+      "title": "Gloria",
+      "subtitle": "f. buttazzo vita nuova con te (in Sol)"
+    },
+    {
+      "id": "gloria-f-buttazzo-vita-n-con-te-in-fa",
+      "title": "Gloria",
+      "subtitle": "f. buttazzo vita n. con te (in Fa)"
+    },
+    {
+      "id": "gloria-a-dio",
+      "title": "Gloria a Dio"
+    },
+    {
+      "id": "gloria-p-rita-k-arguello",
+      "title": "Gloria",
+      "subtitle": "p. rita-k. arguello"
+    },
+    {
+      "id": "gloria-gen-verde",
+      "title": "Gloria",
+      "subtitle": "gen verde"
+    },
+    {
+      "id": "gloria-m-frisina",
+      "title": "Gloria",
+      "subtitle": "m. frisina"
+    },
+    {
+      "id": "gloria-a-dio-f-buittazzo-d-scarpa",
+      "title": "Gloria a Dio",
+      "subtitle": "f. buittazzo – d. scarpa"
+    },
+    {
+      "id": "alleluia-a-colui-che-risuscito",
+      "title": "Alleluia - a Colui che risuscitò"
+    },
+    {
+      "id": "alleluia-la-nostra-festa-in-re",
+      "title": "Alleluia - la nostra festa",
+      "subtitle": "in Re"
+    },
+    {
+      "id": "alleluia-io-sono-la-luce-l-mariano",
+      "title": "Alleluia – io sono la luce",
+      "subtitle": "l. mariano"
+    },
+    {
+      "id": "alleluia-m-balduzzi-verbum-panis",
+      "title": "Alleluia",
+      "subtitle": "m. balduzzi verbum panis"
+    },
+    {
+      "id": "alleluia-e-lui-per-noi-pa-sequeri",
+      "title": "Alleluia - è Lui per noi",
+      "subtitle": "pa. sequeri"
+    },
+    {
+      "id": "alleluia-gen-verde",
+      "title": "Alleluia",
+      "subtitle": "gen verde"
+    },
+    {
+      "id": "alleluia-la-tua-parola-pa-comi",
+      "title": "Alleluia – la tua Parola",
+      "subtitle": "pa. comi"
+    }
+  ],
+  "parseIssues": [],
+  "sources": {
+    "solo-per-te": {
+      "parsed": 341,
+      "added": 294,
+      "skippedDuplicate": 10,
+      "skippedQuality": 37
+    },
+    "diamogusto": {
+      "parsed": 341,
+      "added": 115,
+      "skippedDuplicate": 121,
+      "skippedQuality": 105
+    }
+  }
+}
