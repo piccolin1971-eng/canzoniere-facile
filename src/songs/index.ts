@@ -10,6 +10,7 @@ export const SONGS: Song[] = [
     id: "a1",
     code: "A1",
     title: "Ti chiedo perdono",
+    subtitle: "Sequeri",
     sectionId: "A",
     lines: [
       n("[INTRO: LA- RE- LA-]"),
@@ -30,6 +31,7 @@ export const SONGS: Song[] = [
     id: "a2",
     code: "A2",
     title: "Signore che sei venuto",
+    subtitle: "f. buttazzo",
     sectionId: "A",
     lines: [
       c("MI  LA  MI  LA"),
@@ -71,6 +73,7 @@ export const SONGS: Song[] = [
     id: "a4",
     code: "A4",
     title: "Kyrie Eleison",
+    subtitle: "Emberti / Gialloreti",
     sectionId: "A",
     lines: [
       n("[INTRO: LA- MI]"),
@@ -134,6 +137,7 @@ export const SONGS: Song[] = [
     id: "a7",
     code: "A7",
     title: "Scusa Signore",
+    subtitle: "biagioli (in Re)",
     sectionId: "A",
     lines: [
       c("MI  SI  MI  LA  MI  SI  SI7"),

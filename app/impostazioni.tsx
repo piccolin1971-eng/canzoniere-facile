@@ -2,16 +2,21 @@ import { Ionicons } from "@expo/vector-icons";
 import Slider from "@react-native-community/slider";
 import { useRouter } from "expo-router";
 import { useMemo } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Switch, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { HomeHeaderButton } from "@/components/HomeHeaderButton";
 import {
+  AUTO_SCROLL_DELAY_MAX,
+  AUTO_SCROLL_DELAY_MIN,
+  AUTO_SCROLL_SPEED_MAX,
+  AUTO_SCROLL_SPEED_MIN,
   FONT_MAX,
   FONT_MIN,
   PARCHMENT_TONE_MAX,
   PARCHMENT_TONE_MIN,
   useSettings,
 } from "@/src/SettingsContext";
+import { FONT_OPTIONS, resolveBodyFont } from "@/src/fontFamily";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
 
@@ -77,6 +82,16 @@ export default function ImpostazioniScreen() {
     setCustomChordColor,
     fontSize,
     setFontSize,
+    fontFamilyId,
+    setFontFamilyId,
+    isBold,
+    setIsBold,
+    autoScrollEnabled,
+    setAutoScrollEnabled,
+    autoScrollDelaySec,
+    setAutoScrollDelaySec,
+    autoScrollPxPerSec,
+    setAutoScrollPxPerSec,
     colors,
   } = useSettings();
 
@@ -200,6 +215,111 @@ export default function ImpostazioniScreen() {
             </Pressable>
           </View>
         </View>
+
+        <View style={styles.section}>
+          <Text style={styles.sectionTitle}>Carattere</Text>
+          <Text style={styles.sectionDesc}>Font per testo e note dei canti. Gli accordi restano monospace.</Text>
+          <View style={styles.switchRow}>
+            <Text style={styles.switchLabel}>Grassetto</Text>
+            <Switch
+              value={isBold}
+              onValueChange={setIsBold}
+              trackColor={{ false: colors.border, true: colors.primary }}
+              thumbColor="#FFFFFF"
+            />
+          </View>
+          <View style={styles.fontFamilyList}>
+            {FONT_OPTIONS.map((opt) => {
+              const active = opt.id === fontFamilyId;
+              const previewFont = resolveBodyFont(opt.id, isBold);
+              return (
+                <Pressable
+                  key={opt.id}
+                  style={[styles.fontFamilyCard, active && styles.fontFamilyCardActive]}
+                  onPress={() => setFontFamilyId(opt.id)}
+                >
+                  <View style={styles.fontFamilyHeader}>
+                    <Text
+                      style={[
+                        styles.fontFamilyLabel,
+                        active && { color: colors.primary },
+                        previewFont.fontFamily ? { fontFamily: previewFont.fontFamily } : null,
+                        { fontWeight: previewFont.fontWeight },
+                      ]}
+                    >
+                      {opt.label}
+                    </Text>
+                    {active ? <Ionicons name="checkmark-circle" size={22} color={colors.primary} /> : null}
+                  </View>
+                  <Text
+                    style={[
+                      styles.fontFamilySample,
+                      previewFont.fontFamily ? { fontFamily: previewFont.fontFamily } : null,
+                      { fontWeight: previewFont.fontWeight },
+                    ]}
+                  >
+                    {opt.sample}
+                  </Text>
+                  <Text style={styles.fontFamilyDesc}>{opt.description}</Text>
+                </Pressable>
+              );
+            })}
+          </View>
+        </View>
+
+        <View style={styles.section}>
+          <View style={styles.switchRow}>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.sectionTitle}>Auto-scroll</Text>
+              <Text style={styles.sectionDesc}>
+                Scorrimento automatico del testo quando apri un canto. Puoi sempre attivarlo o disattivarlo anche
+                dalla schermata del singolo canto.
+              </Text>
+            </View>
+            <Switch
+              value={autoScrollEnabled}
+              onValueChange={setAutoScrollEnabled}
+              trackColor={{ false: colors.border, true: colors.primary }}
+              thumbColor="#FFFFFF"
+            />
+          </View>
+          <Text style={[styles.sectionDesc, { marginTop: spacing.md }]}>
+            Velocità predefinita ({autoScrollPxPerSec} px/s)
+          </Text>
+          <View style={styles.sliderRow}>
+            <Text style={styles.sliderLabel}>{AUTO_SCROLL_SPEED_MIN}</Text>
+            <Slider
+              style={{ flex: 1, height: 40 }}
+              minimumValue={AUTO_SCROLL_SPEED_MIN}
+              maximumValue={AUTO_SCROLL_SPEED_MAX}
+              step={1}
+              value={autoScrollPxPerSec}
+              onValueChange={(v) => setAutoScrollPxPerSec(Math.round(v))}
+              minimumTrackTintColor={colors.primary}
+              maximumTrackTintColor={colors.border}
+              thumbTintColor={colors.primary}
+            />
+            <Text style={styles.sliderLabel}>{AUTO_SCROLL_SPEED_MAX}</Text>
+          </View>
+          <Text style={[styles.sectionDesc, { marginTop: spacing.sm }]}>
+            Attesa prima dello scroll ({autoScrollDelaySec} s)
+          </Text>
+          <View style={styles.sliderRow}>
+            <Text style={styles.sliderLabel}>{AUTO_SCROLL_DELAY_MIN}s</Text>
+            <Slider
+              style={{ flex: 1, height: 40 }}
+              minimumValue={AUTO_SCROLL_DELAY_MIN}
+              maximumValue={AUTO_SCROLL_DELAY_MAX}
+              step={1}
+              value={autoScrollDelaySec}
+              onValueChange={(v) => setAutoScrollDelaySec(Math.round(v))}
+              minimumTrackTintColor={colors.primary}
+              maximumTrackTintColor={colors.border}
+              thumbTintColor={colors.primary}
+            />
+            <Text style={styles.sliderLabel}>{AUTO_SCROLL_DELAY_MAX}s</Text>
+          </View>
+        </View>
       </ScrollView>
     </SafeAreaView>
   );
@@ -260,5 +380,34 @@ function makeStyles(colors: AppColors) {
     fontBtnDisabled: { opacity: 0.4 },
     fontBtnText: { color: colors.text, fontWeight: "800", fontSize: 18 },
     fontSizeValue: { color: colors.text, fontSize: 20, fontWeight: "800", minWidth: 40, textAlign: "center" },
+    switchRow: {
+      flexDirection: "row",
+      alignItems: "center",
+      justifyContent: "space-between",
+      gap: spacing.md,
+      marginTop: spacing.sm,
+    },
+    switchLabel: { color: colors.text, fontSize: 16, fontWeight: "700" },
+    fontFamilyList: { gap: 12, marginTop: spacing.md },
+    fontFamilyCard: {
+      borderWidth: 1.5,
+      borderColor: colors.border,
+      borderRadius: 14,
+      padding: spacing.md,
+      backgroundColor: colors.bgElevated,
+    },
+    fontFamilyCardActive: {
+      borderColor: colors.primary,
+      backgroundColor: colors.primary + "14",
+    },
+    fontFamilyHeader: {
+      flexDirection: "row",
+      alignItems: "center",
+      justifyContent: "space-between",
+      marginBottom: 6,
+    },
+    fontFamilyLabel: { color: colors.text, fontSize: 17, fontWeight: "800", flex: 1 },
+    fontFamilySample: { color: colors.text, fontSize: 16, lineHeight: 22, marginBottom: 4 },
+    fontFamilyDesc: { color: colors.textMuted, fontSize: 13, lineHeight: 18 },
   });
 }

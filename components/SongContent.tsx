@@ -1,6 +1,7 @@
 import { Platform, StyleSheet, Text, View } from "react-native";
 import { useMemo } from "react";
 import { useSettings } from "@/src/SettingsContext";
+import { resolveBodyFont } from "@/src/fontFamily";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
 import type { Song, SongLine } from "@/src/types";
@@ -13,11 +14,16 @@ type Props = {
 };
 
 export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
-  const { colors } = useSettings();
+  const { colors, fontFamilyId, isBold } = useSettings();
+  const bodyFont = resolveBodyFont(fontFamilyId, isBold);
   const styles = useMemo(() => makeStyles(colors), [colors]);
   const chordSize = Math.round(fontSize * 0.72);
   const lyricSize = fontSize;
   const noteSize = Math.round(fontSize * 0.65);
+  const textFontStyle = {
+    fontFamily: bodyFont.fontFamily,
+    fontWeight: bodyFont.fontWeight,
+  } as const;
 
   return (
     <View style={styles.wrap}>
@@ -40,7 +46,11 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
           return (
             <Text
               key={i}
-              style={[styles.note, { fontSize: noteSize, lineHeight: noteSize * 1.4 }]}
+              style={[
+                styles.note,
+                textFontStyle,
+                { fontSize: noteSize, lineHeight: noteSize * 1.4 },
+              ]}
             >
               {displayLine.text}
             </Text>
@@ -49,7 +59,11 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
         return (
           <Text
             key={i}
-            style={[styles.lyrics, { fontSize: lyricSize, lineHeight: lyricSize * 1.55 }]}
+            style={[
+              styles.lyrics,
+              textFontStyle,
+              { fontSize: lyricSize, lineHeight: lyricSize * 1.55 },
+            ]}
           >
             {displayLine.text}
           </Text>
@@ -58,7 +72,6 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
     </View>
   );
 }
-
 function makeStyles(colors: AppColors) {
   return StyleSheet.create({
     wrap: { paddingBottom: spacing.xl },

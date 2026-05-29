@@ -8,9 +8,17 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "check-songs": "tsx scripts/check-songs.ts"
+    "check-songs": "tsx scripts/check-songs.ts",
+    "import-doc": "node scripts/import-doc.mjs",
+    "plan-cleanup": "tsx scripts/plan-duplicate-cleanup.ts",
+    "apply-cleanup": "tsx scripts/apply-duplicate-cleanup.ts",
+    "enrich-authors": "tsx scripts/enrich-authors.ts"
   },
   "dependencies": {
+    "@expo-google-fonts/atkinson-hyperlegible": "^0.4.1",
+    "@expo-google-fonts/lora": "^0.4.2",
+    "@expo-google-fonts/playpen-sans": "^0.4.1",
+    "@expo-google-fonts/sour-gummy": "^0.4.2",
     "@expo/metro-runtime": "~6.1.2",
     "@expo/vector-icons": "^15.0.3",
     "@react-native-async-storage/async-storage": "^2.2.0",
@@ -40,7 +48,8 @@
     "@types/react": "~19.1.0",
     "babel-preset-expo": "~54.0.0",
     "tsx": "^4.19.4",
-    "typescript": "~5.9.3"
+    "typescript": "~5.9.3",
+    "word-extractor": "^1.0.4"
   },
   "private": true
 }

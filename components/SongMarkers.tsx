@@ -10,6 +10,7 @@ import { spacing } from "@/src/theme";
 type Props = {
   songId: string;
   size?: number;
+  iconGap?: number;
   showFavorite?: boolean;
   showSetlistAction?: boolean;
 };
@@ -17,6 +18,7 @@ type Props = {
 export function SongMarkers({
   songId,
   size = 22,
+  iconGap = 10,
   showFavorite = true,
   showSetlistAction = true,
 }: Props) {
@@ -33,7 +35,7 @@ export function SongMarkers({
     setlists,
     setActiveSetlistId,
   } = useLibrary();
-  const styles = useMemo(() => makeStyles(colors), [colors]);
+  const styles = useMemo(() => makeStyles(colors, iconGap), [colors, iconGap]);
   const [pickerOpen, setPickerOpen] = useState(false);
 
   const fav = isFavorite(songId);
@@ -126,9 +128,9 @@ export function SongMarkers({
   );
 }
 
-function makeStyles(colors: AppColors) {
+function makeStyles(colors: AppColors, iconGap: number) {
   return StyleSheet.create({
-    row: { flexDirection: "row", alignItems: "center", gap: 10 },
+    row: { flexDirection: "row", alignItems: "center", gap: iconGap },
     overlay: {
       flex: 1,
       backgroundColor: "rgba(0,0,0,0.55)",

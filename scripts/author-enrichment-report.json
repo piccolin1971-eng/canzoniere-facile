@@ -1,0 +1,2460 @@
+{
+  "updatedAt": "2026-05-29T10:41:54.534Z",
+  "results": {
+    "a1": {
+      "id": "a1",
+      "title": "Ti chiedo perdono",
+      "author": "Sequeri",
+      "confidence": "high",
+      "sources": [
+        "puericantoresveduggio.it",
+        "baronacom.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Pierangelo Sequeri — testo e musica",
+      "processedAt": "2026-05-29T08:58:03.193Z"
+    },
+    "a2": {
+      "id": "a2",
+      "title": "Signore che sei venuto",
+      "author": "f. buttazzo",
+      "confidence": "high",
+      "sources": [
+        "animazioneliturgica.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Francesco Buttazzo, Vita nuova con te 1995",
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "a4": {
+      "id": "a4",
+      "title": "Kyrie Eleison",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"Kyrie Eleison\" canti liturgici autore compositore",
+        "\"Kyrie Eleison\" \"Kyrie, Kyrie, eleison.\" autore",
+        "\"Kyrie Eleison\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:52:19.382Z"
+    },
+    "a5": {
+      "id": "a5",
+      "title": "Kyrie Togolese",
+      "author": "a. Irving",
+      "confidence": "low",
+      "sources": [
+        "https://www.instagram.com › kyrieirving",
+        "https://www.basketball-reference.com › players"
+      ],
+      "queries": [
+        "\"Kyrie Togolese\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Kyrie Togolese\" canti liturgici autore compositore",
+        "\"Kyrie Togolese\" \"Kyrie eleison, Kyrie eleison,\" autore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Autori discordi: a. Irving(2), Reference.com(2)",
+      "processedAt": "2026-05-29T09:47:49.426Z"
+    },
+    "a6": {
+      "id": "a6",
+      "title": "Signore pietà",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Signore pietà\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Signore pietà\" canti liturgici autore compositore",
+        "\"Signore pietà\" \"Signore, Signore pietà.\" autore"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:48:25.803Z"
+    },
+    "a7": {
+      "id": "a7",
+      "title": "Scusa Signore",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"Scusa Signore\" canti liturgici autore compositore",
+        "\"Scusa Signore\" \"1  Scusa Signore se bussiamo alla porta del Tuo cu\" autore",
+        "\"Scusa Signore\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:52:32.876Z"
+    },
+    "a10": {
+      "id": "a10",
+      "title": "Perdonaci Signore",
+      "author": "OpenAI chat gpt",
+      "confidence": "low",
+      "sources": [
+        "https://cellphones.com.vn › sforum › cach-dung-chatgpt"
+      ],
+      "queries": [
+        "\"Perdonaci Signore\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Perdonaci Signore\" canti liturgici autore compositore",
+        "\"Perdonaci Signore\" \"1. Perdonaci, Signore, nostro amico,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:49:02.251Z"
+    },
+    "a11": {
+      "id": "a11",
+      "title": "Signore pietà",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Signore pietà\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Signore pietà\" canti liturgici autore compositore",
+        "\"Signore pietà\" \"Signore, che hai parola di vita eterna, abbi pietà\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:49:38.744Z"
+    },
+    "b1": {
+      "id": "b1",
+      "title": "Gloria a Dio, pace all'uomo",
+      "author": "E. Personaggi",
+      "confidence": "low",
+      "sources": [
+        "https://www.sorrisi.com › tv › fiction › gloria-trama-cast-e-personaggi"
+      ],
+      "queries": [
+        "\"Gloria a Dio, pace all'uomo\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Gloria a Dio, pace all'uomo\" canti liturgici autore compositore",
+        "\"Gloria a Dio, pace all'uomo\" \"Rit.: Gloria a Dio! Pace all'uomo! Gioia dal cielo\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:50:15.337Z"
+    },
+    "b2": {
+      "id": "b2",
+      "title": "Gloria a Cristo",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Gloria a Cristo\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Gloria a Cristo\" canti liturgici autore compositore",
+        "\"Gloria a Cristo\" \"1 Gloria a Cristo, splendore eterno del Dio vivent\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:50:52.038Z"
+    },
+    "b3": {
+      "id": "b3",
+      "title": "Gloria in excelsis Deo",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Gloria in excelsis Deo\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Gloria in excelsis Deo\" canti liturgici autore compositore",
+        "\"Gloria in excelsis Deo\" \"Rit.: Gloria, gloria, in excelsis Deo.\" autore"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:51:28.617Z"
+    },
+    "b4": {
+      "id": "b4",
+      "title": "Il Signore è la luce",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Il Signore è la luce\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"Il Signore è la luce\" canti liturgici autore compositore",
+        "\"Il Signore è la luce\" \"1 Il Signore è la luce che vince la notte.\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:52:05.119Z"
+    },
+    "abba-padre": {
+      "id": "abba-padre",
+      "title": "ABBA' PADRE",
+      "author": "S. Martinez",
+      "confidence": "high",
+      "sources": [
+        "arquen.it/canti/326"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "accogli-i-nostri-doni": {
+      "id": "accogli-i-nostri-doni",
+      "title": "ACCOGLI I NOSTRI DONI",
+      "author": "f. buttazzo",
+      "confidence": "high",
+      "sources": [
+        "arquen.it/canti/641",
+        "paolinestore.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "adeste-fideles": {
+      "id": "adeste-fideles",
+      "title": "ADESTE FIDELES",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "wikisource",
+        "liturgia cattolica"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Inno natalizio tradizionale",
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "acqua-siamo-noi": {
+      "id": "acqua-siamo-noi",
+      "title": "ACQUA SIAMO NOI",
+      "author": "Giosy Cento",
+      "confidence": "high",
+      "sources": [
+        "animatamente.net",
+        "canzoniereonline.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "G. Cento in animatamente",
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "alleluia": {
+      "id": "alleluia",
+      "title": "ALLELUIA",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ALLELUIA\" canti liturgici autore compositore",
+        "\"ALLELUIA\" \"Alleluia oh alleluia\" autore",
+        "\"ALLELUIA\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:22.367Z"
+    },
+    "alzati-e-risplendi": {
+      "id": "alzati-e-risplendi",
+      "title": "ALZATI E RISPLENDI",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ALZATI E RISPLENDI\" canti liturgici autore compositore",
+        "\"ALZATI E RISPLENDI\" \"Alzati e risplendi, ecco la tua luce\" autore",
+        "\"ALZATI E RISPLENDI\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:26.982Z"
+    },
+    "alzo-gli-occhi-verso-i-monti": {
+      "id": "alzo-gli-occhi-verso-i-monti",
+      "title": "ALZO GLI OCCHI VERSO I MONTI",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ALZO GLI OCCHI VERSO I MONTI\" canti liturgici autore compositore",
+        "\"ALZO GLI OCCHI VERSO I MONTI\" \"Alzo gli occhi verso i monti\" autore",
+        "\"ALZO GLI OCCHI VERSO I MONTI\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:31.435Z"
+    },
+    "alleluia-lodate": {
+      "id": "alleluia-lodate",
+      "title": "ALLELUIA LODATE",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ALLELUIA LODATE\" canti liturgici autore compositore",
+        "\"ALLELUIA LODATE\" \"Alle lu ia, allelu ia, lodate il Signore. ( 2v )\" autore",
+        "\"ALLELUIA LODATE\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:35.921Z"
+    },
+    "andro-a-vederla-un-di": {
+      "id": "andro-a-vederla-un-di",
+      "title": "ANDRO' A VEDERLA UN DI'",
+      "author": "Pietro Janin",
+      "confidence": "high",
+      "sources": [
+        "ecclesiadei.it",
+        "accordiespartiti.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Canto mariano popolare, autore storico",
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "ascolto-la-tua-voce": {
+      "id": "ascolto-la-tua-voce",
+      "title": "ASCOLTO LA TUA VOCE",
+      "author": "M. C. Pecoraro",
+      "confidence": "high",
+      "sources": [
+        "arquen.it/canti/2094"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "apri-le-tue-braccia": {
+      "id": "apri-le-tue-braccia",
+      "title": "APRI LE TUE BRACCIA",
+      "author": "D. Machetta",
+      "confidence": "high",
+      "sources": [
+        "arquen.it/canti/666",
+        "cantoeprego.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "artigiano-misterioso": {
+      "id": "artigiano-misterioso",
+      "title": "ARTIGIANO MISTERIOSO",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ARTIGIANO MISTERIOSO\" canti liturgici autore compositore",
+        "\"ARTIGIANO MISTERIOSO\" \"Artigiano misterioso sei da sempre, o mio Signore,\" autore",
+        "\"ARTIGIANO MISTERIOSO\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:53.882Z"
+    },
+    "beati-quelli-che-ascoltano": {
+      "id": "beati-quelli-che-ascoltano",
+      "title": "BEATI QUELLI CHE ASCOLTANO",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"BEATI QUELLI CHE ASCOLTANO\" canti liturgici autore compositore",
+        "\"BEATI QUELLI CHE ASCOLTANO\" \"Beati quelli che ascoltano\" autore",
+        "\"BEATI QUELLI CHE ASCOLTANO\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:53:58.385Z"
+    },
+    "benedici-il-signore": {
+      "id": "benedici-il-signore",
+      "title": "BENEDICI IL SIGNORE",
+      "author": "m. frisina",
+      "confidence": "high",
+      "sources": [
+        "animatamente.net",
+        "paolinestore.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Salmo 102 — Marco Frisina",
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "beati-quelli": {
+      "id": "beati-quelli",
+      "title": "BEATI QUELLI",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"BEATI QUELLI\" canti liturgici autore compositore",
+        "\"BEATI QUELLI\" \"Beati quelli che poveri sono,\" autore",
+        "\"BEATI QUELLI\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:54:07.457Z"
+    },
+    "attingete-acqua": {
+      "id": "attingete-acqua",
+      "title": "ATTINGETE ACQUA",
+      "confidence": "not_found",
+      "sources": [
+        "error: Search HTTP 403"
+      ],
+      "queries": [
+        "\"ATTINGETE ACQUA\" canti liturgici autore compositore",
+        "\"ATTINGETE ACQUA\" \"Attingete acqua con gioia alle\" autore",
+        "\"ATTINGETE ACQUA\" canto liturgico testo autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T08:54:11.922Z"
+    },
+    "canzone-di-san-damiano": {
+      "id": "canzone-di-san-damiano",
+      "title": "CANZONE DI SAN DAMIANO",
+      "author": "R. Ortolani",
+      "confidence": "high",
+      "sources": [
+        "arquen.it/canti/766",
+        "librettocanti.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "C. Baglioni & R. Ortolani — film Fratello sole sorella luna",
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "camminero": {
+      "id": "camminero",
+      "title": "CAMMINERO'",
+      "author": "Alberto Marani",
+      "confidence": "high",
+      "sources": [
+        "animatamente.net",
+        "le3.it"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:58:03.194Z"
+    },
+    "benedetto-sei-tu-signore-dio": {
+      "id": "benedetto-sei-tu-signore-dio",
+      "title": "BENEDETTO SEI TU SIGNORE DIO",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "https://wikitesti.com/benedetto_sei_tu/",
+        "https://www.diocesidilameziaterme.it/cms/wp-content/uploads/2024/03/Messa-del-CRISMA-2024.pdf"
+      ],
+      "queries": [
+        "\"Benedetto sei tu Signore Dio\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Formula liturgica del Messale (presentazione doni), non composizione Frisina",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "camminiamo-incontro-al-signore": {
+      "id": "camminiamo-incontro-al-signore",
+      "title": "CAMMINIAMO INCONTRO AL SIGNORE",
+      "author": "A. Galliano / D. Semprini",
+      "confidence": "medium",
+      "sources": [
+        "https://wikitesti.com/camminiamo_incontro_al_signore/",
+        "https://diocesicarpi.it/indicazioni-per-la-liturgia-nel-tempo-di-avvento/"
+      ],
+      "queries": [
+        "\"Camminiamo incontro al Signore\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "T: Anna Maria Galliano, M: Daniele Semprini (RN 44)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "cantate-inni": {
+      "id": "cantate-inni",
+      "title": "CANTATE INNI",
+      "author": "A. Morrone / A. Altieri",
+      "confidence": "medium",
+      "sources": [
+        "https://www.corogva.it/Musica.html",
+        "https://www.vatican.va/archive/ITA0001/_PGA.HTM"
+      ],
+      "queries": [
+        "\"Cantate inni a Dio\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Testo Salmo 47; musica RnS (A. Morrone / A. Altieri)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "camminiamo-sulla-strada": {
+      "id": "camminiamo-sulla-strada",
+      "title": "CAMMINIAMO SULLA STRADA",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "https://www.animatamente.net/canti-liturgici/testi/Camminiamo-sulla-strada.html",
+        "https://www.canzonierescout.it/c0031.htm"
+      ],
+      "queries": [
+        "\"Camminiamo sulla strada\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Canto scout/tradizionale, autore anonimo",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "cantico-delle-creature": {
+      "id": "cantico-delle-creature",
+      "title": "CANTICO DELLE CREATURE",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "https://it.wikipedia.org/wiki/Cantico_delle_creature",
+        "https://www.lepreghiere.it/cantico-delle-creature/"
+      ],
+      "queries": [
+        "\"Cantico delle creature\" Altissimo onnipotente autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Testo San Francesco d'Assisi (~1224), in volgare umbro",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "chiesa-viva": {
+      "id": "chiesa-viva",
+      "title": "CHIESA VIVA",
+      "confidence": "not_found",
+      "sources": [
+        "https://wikitesti.com/chiesa_di_mattoni/",
+        "https://www.toptesti.com/text_chiesa_di_mattoni_canti_religiosi_626038"
+      ],
+      "queries": [
+        "\"Chiesa viva\" \"Chiesa di mattoni o di cemento\" autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Variante di 'Chiesa di mattoni'; autore non identificato",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "chi-e-mia-madre": {
+      "id": "chi-e-mia-madre",
+      "title": "CHI E' MIA MADRE",
+      "author": "D. Machetta",
+      "confidence": "high",
+      "sources": [
+        "https://it.wikipedia.org/wiki/Domenico_Machetta",
+        "https://www.animatamente.net/canti-liturgici/testi/Chi-e-mia-madre.html"
+      ],
+      "queries": [
+        "\"Chi è mia madre\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Album Mille Alleluia (1976)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "come-e-bello": {
+      "id": "come-e-bello",
+      "title": "COME E' BELLO",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "https://it.wikipedia.org/wiki/Chichester_Psalms",
+        "https://www.lachiesa.it/bibbia.php?Citazione=Sal+133"
+      ],
+      "queries": [
+        "\"Com'è bello\" \"che i fratelli stiano insieme\" autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Salmo 133 (132); testo biblico",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "come-rami-d-olivo": {
+      "id": "come-rami-d-olivo",
+      "title": "COME RAMI D'OLIVO",
+      "confidence": "not_found",
+      "sources": [
+        "https://www.chiesadimilano.it/servizioperlapastoraleliturgica/spartiti/page/4"
+      ],
+      "queries": [
+        "\"Come rami d'olivo intorno alla mensa\" autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Riferimento Salmo 128; compositore della melodia non identificato",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "custodiscimi": {
+      "id": "custodiscimi",
+      "title": "CUSTODISCIMI",
+      "author": "Chemin Neuf",
+      "confidence": "medium",
+      "sources": [
+        "http://www.animazioneliturgica.it/mobile/custodiscimi.html",
+        "https://emmanuelmusic.net/produit/custodiscimi-partiev/"
+      ],
+      "queries": [
+        "\"Custodiscimi\" \"Ho detto a Dio senza di te\" autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Adattamento Salmo 15; T: C. Brun (Chemin Neuf), melodia ebraica trad.",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "dell-aurora-tu-sorgi-piu-bella": {
+      "id": "dell-aurora-tu-sorgi-piu-bella",
+      "title": "DELL'AURORA TU SORGI PIÙ BELLA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Dell'aurora Tu sorgi più bella\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore non trovato con ricerca web",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "dolce-legno-dolci-chiodi": {
+      "id": "dolce-legno-dolci-chiodi",
+      "title": "DOLCE LEGNO DOLCI CHIODI",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "https://cinquepassi.org/2024/04/preziosi-gioielli-pasquali-conoscere-insegnare/",
+        "https://www.examenapium.it/daolmi/programmi/teorie2024.html"
+      ],
+      "queries": [
+        "\"Dolce legno dolci chiodi\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Strofa Crux fidelis di Venanzio Fortunato (inno Pange lingua)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "dal-profondo-a-te-grido": {
+      "id": "dal-profondo-a-te-grido",
+      "title": "DAL PROFONDO A TE GRIDO",
+      "author": "m. frisina",
+      "confidence": "high",
+      "sources": [
+        "https://www.marcofrisina.com/musica/testi-dei-canti/item/dal-profondo-a-te-grido.html",
+        "https://www.paolinestore.it/dal-profondo-a-te-grido-6710.html"
+      ],
+      "queries": [
+        "\"Dal profondo a te grido\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Salmo 130; opera Tu sarai profeta",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "come-sigillo-sul-tuo-cuore": {
+      "id": "come-sigillo-sul-tuo-cuore",
+      "title": "COME SIGILLO SUL TUO CUORE",
+      "author": "Edmondo De Amicis",
+      "confidence": "medium",
+      "sources": [
+        "https://it.wiktionary.org › wiki › come"
+      ],
+      "queries": [
+        "\"COME SIGILLO SUL TUO CUORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"COME SIGILLO SUL TUO CUORE\" canti liturgici autore compositore",
+        "\"COME SIGILLO SUL TUO CUORE\" \"Mettimi come sigillo sul tuo cuore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T08:58:56.385Z"
+    },
+    "con-un-cuore-solo": {
+      "id": "con-un-cuore-solo",
+      "title": "CON UN CUORE SOLO",
+      "author": "G. Ferrante",
+      "confidence": "high",
+      "sources": [
+        "https://canzoniereonline.it/canzoni/con_un_cuore_solo/"
+      ],
+      "queries": [
+        "\"Con un cuore solo\" cantiamo alla gloria di Dio autore compositore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Distinto dal 'Un cuor solo' di Frisina",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "cosa-avremo-in-cambio": {
+      "id": "cosa-avremo-in-cambio",
+      "title": "COSA AVREMO IN CAMBIO",
+      "author": "a. Cecina",
+      "confidence": "low",
+      "sources": [
+        "https://milazzo.life › cosa-vedere-a-cecina",
+        "https://www.italia-italy.org"
+      ],
+      "queries": [
+        "\"COSA AVREMO IN CAMBIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"COSA AVREMO IN CAMBIO\" canti liturgici autore compositore",
+        "\"COSA AVREMO IN CAMBIO\" \"Noi che abbiamo lasciato ogni cosa\" autore"
+      ],
+      "lyricsMatch": true,
+      "notes": "Autori discordi: a. Cecina(1), Toscana(1)",
+      "processedAt": "2026-05-29T08:59:35.279Z"
+    },
+    "dio-dell-unita": {
+      "id": "dio-dell-unita",
+      "title": "DIO DELL’UNITA’",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DIO DELL’UNITA’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DIO DELL’UNITA’\" canti liturgici autore compositore",
+        "\"DIO DELL’UNITA’\" \"Tu, Dio del cielo e della terra\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:00:14.086Z"
+    },
+    "dove-regna-il-vero-amore": {
+      "id": "dove-regna-il-vero-amore",
+      "title": "DOVE REGNA IL VERO AMORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DOVE REGNA IL VERO AMORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DOVE REGNA IL VERO AMORE\" canti liturgici autore compositore",
+        "\"DOVE REGNA IL VERO AMORE\" \"Dove regna il vero amore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:00:52.983Z"
+    },
+    "evenu-shalom-alejem": {
+      "id": "evenu-shalom-alejem",
+      "title": "EVENU SHALOM ALEJEM",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"EVENU SHALOM ALEJEM\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"EVENU SHALOM ALEJEM\" canti liturgici autore compositore",
+        "\"EVENU SHALOM ALEJEM\" \"Evenu shalom alejem, Evenu shalom alejem,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:01:31.809Z"
+    },
+    "e-mi-sorprende": {
+      "id": "e-mi-sorprende",
+      "title": "E MI SORPRENDE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"E MI SORPRENDE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"E MI SORPRENDE\" canti liturgici autore compositore",
+        "\"E MI SORPRENDE\" \"Io non ricordo che giorno era,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:02:10.753Z"
+    },
+    "dio-e-con-noi-emmanuel": {
+      "id": "dio-e-con-noi-emmanuel",
+      "title": "DIO E’ CON NOI EMMANUEL",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DIO E’ CON NOI EMMANUEL\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DIO E’ CON NOI EMMANUEL\" canti liturgici autore compositore",
+        "\"DIO E’ CON NOI EMMANUEL\" \"Dio è con noi Emmanuel\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:02:49.605Z"
+    },
+    "dove-due-o-tre": {
+      "id": "dove-due-o-tre",
+      "title": "DOVE DUE O TRE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DOVE DUE O TRE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DOVE DUE O TRE\" canti liturgici autore compositore",
+        "\"DOVE DUE O TRE\" \"Dove due o tre sono riuniti nel mio nome\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:03:28.609Z"
+    },
+    "dio-mio-perche-mi-hai": {
+      "id": "dio-mio-perche-mi-hai",
+      "title": "DIO MIO PERCHE’ MI HAI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DIO MIO PERCHE’ MI HAI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DIO MIO PERCHE’ MI HAI\" canti liturgici autore compositore",
+        "\"DIO MIO PERCHE’ MI HAI\" \"ABBANDONATO?\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:04:07.883Z"
+    },
+    "dio-ha-visitato-il-suo-popolo": {
+      "id": "dio-ha-visitato-il-suo-popolo",
+      "title": "DIO HA VISITATO IL SUO POPOLO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DIO HA VISITATO IL SUO POPOLO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DIO HA VISITATO IL SUO POPOLO\" canti liturgici autore compositore",
+        "\"DIO HA VISITATO IL SUO POPOLO\" \"Alleluia, alleluia Alleluia, alleluia\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:04:46.747Z"
+    },
+    "giorno-di-festa": {
+      "id": "giorno-di-festa",
+      "title": "GIORNO DI FESTA",
+      "author": "Riffeser",
+      "confidence": "medium",
+      "sources": [
+        "https://it.wikipedia.org › wiki › Il_Giorno"
+      ],
+      "queries": [
+        "\"GIORNO DI FESTA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GIORNO DI FESTA\" canti liturgici autore compositore",
+        "\"GIORNO DI FESTA\" \"Chiesa di Dio, canta con noi:\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:05:25.494Z"
+    },
+    "gioia-al-mondo": {
+      "id": "gioia-al-mondo",
+      "title": "GIOIA AL MONDO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"GIOIA AL MONDO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GIOIA AL MONDO\" canti liturgici autore compositore",
+        "\"GIOIA AL MONDO\" \"Gioia al mondo, il Creator è nato in mezzo a noi\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:06:04.469Z"
+    },
+    "francesco-vai": {
+      "id": "francesco-vai",
+      "title": "FRANCESCO VAI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"FRANCESCO VAI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"FRANCESCO VAI\" canti liturgici autore compositore",
+        "\"FRANCESCO VAI\" \"Quello che io vivo non mi basta più\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:06:43.706Z"
+    },
+    "e-natale": {
+      "id": "e-natale",
+      "title": "È NATALE",
+      "author": "Giosy Cento",
+      "confidence": "medium",
+      "sources": [
+        "https://scommettiaiuto.it › e-e-e-con-laccento-che-cose-e-in-analisi..."
+      ],
+      "queries": [
+        "\"È NATALE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"È NATALE\" canti liturgici autore compositore",
+        "\"È NATALE\" \"Ecco la stalla di Greccio con l’asino e il bove\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:07:22.693Z"
+    },
+    "dov-e-carita": {
+      "id": "dov-e-carita",
+      "title": "DOV’E’ CARITA’",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"DOV’E’ CARITA’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"DOV’E’ CARITA’\" canti liturgici autore compositore",
+        "\"DOV’E’ CARITA’\" \"Dov'è carità e amore, qui c'è Di o.\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:08:01.604Z"
+    },
+    "e-la-strada-si-apre": {
+      "id": "e-la-strada-si-apre",
+      "title": "E LA STRADA SI APRE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"E LA STRADA SI APRE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"E LA STRADA SI APRE\" canti liturgici autore compositore",
+        "\"E LA STRADA SI APRE\" \"Raggio che buca le nubi ed è già cielo aperto\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:08:40.640Z"
+    },
+    "eccomi": {
+      "id": "eccomi",
+      "title": "ECCOMI",
+      "author": "m. frisina",
+      "confidence": "high",
+      "sources": [
+        "https://www.marcofrisina.com/musica/testi-dei-canti/item/benedetto-sei-tu-signore.html",
+        "https://crocifissorutigliano.it/blog-del-santuario/eccomi-testo-canzone-chiesa/"
+      ],
+      "queries": [
+        "\"Eccomi\" \"Signore io vengo\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Salmo 39; album Non temere (1987)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "e-se-non-fosse-un-sogno": {
+      "id": "e-se-non-fosse-un-sogno",
+      "title": "E SE NON FOSSE UN SOGNO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"E SE NON FOSSE UN SOGNO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"E SE NON FOSSE UN SOGNO\" canti liturgici autore compositore",
+        "\"E SE NON FOSSE UN SOGNO\" \"E se non fosse un sogno? Se tutto fosse vero,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:09:19.376Z"
+    },
+    "e-pace-intima": {
+      "id": "e-pace-intima",
+      "title": "E’ PACE INTIMA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"E’ PACE INTIMA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"E’ PACE INTIMA\" canti liturgici autore compositore",
+        "\"E’ PACE INTIMA\" \"Le ore volano via il tempo si avvicina\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:09:58.317Z"
+    },
+    "e-bello-signore-restare": {
+      "id": "e-bello-signore-restare",
+      "title": "E’ BELLO, SIGNORE, RESTARE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"E’ BELLO, SIGNORE, RESTARE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"E’ BELLO, SIGNORE, RESTARE\" canti liturgici autore compositore",
+        "\"E’ BELLO, SIGNORE, RESTARE\" \"E' bello, Signore, restare,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:10:37.204Z"
+    },
+    "fratello-sole-sorella-luna": {
+      "id": "fratello-sole-sorella-luna",
+      "title": "FRATELLO SOLE, SORELLA LUNA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"FRATELLO SOLE, SORELLA LUNA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"FRATELLO SOLE, SORELLA LUNA\" canti liturgici autore compositore",
+        "\"FRATELLO SOLE, SORELLA LUNA\" \"Dolce sentire come nel mio cuore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:11:16.086Z"
+    },
+    "esci-dalla-tua-terra": {
+      "id": "esci-dalla-tua-terra",
+      "title": "ESCI DALLA TUA TERRA",
+      "author": "Gigi Cocquio",
+      "confidence": "medium",
+      "sources": [
+        "https://www.animatamente.net/canti-liturgici/testi/Esci-dalla-tua-terra.html",
+        "https://procivitate.assisi.museum/it/artwork/15270-esci-dalla-tua-terra"
+      ],
+      "queries": [
+        "\"Esci dalla tua terra\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Gigi Cocquio (1973)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "grazie-signore": {
+      "id": "grazie-signore",
+      "title": "GRAZIE SIGNORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Grazie Signore\" \"Se guardo la luna\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore non trovato (testo Salmo 8)",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "gloria-a-cristo-nostra-vita": {
+      "id": "gloria-a-cristo-nostra-vita",
+      "title": "GLORIA A CRISTO NOSTRA VITA",
+      "author": "m. frisina",
+      "confidence": "high",
+      "sources": [
+        "http://corosanpancraziobovisio.altervista.org/?id=2%3Aprove"
+      ],
+      "queries": [
+        "\"Gloria a Cristo nostra vita\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "gloria-gloria-a-dio": {
+      "id": "gloria-gloria-a-dio",
+      "title": "GLORIA, GLORIA A DIO",
+      "author": "Giombini",
+      "confidence": "high",
+      "sources": [
+        "https://www.animatamente.net/canti-liturgici/accordi/gloria-giombini.doc/",
+        "http://animazioneliturgica.it/files/gloria-giombini.html"
+      ],
+      "queries": [
+        "\"Gloria gloria a Dio nell'alto dei cieli\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": true,
+      "notes": "Messa Beat (1969); testo liturgico Gloria",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "gioite-sempre-nel-signore": {
+      "id": "gioite-sempre-nel-signore",
+      "title": "GIOITE SEMPRE NEL SIGNORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"Gioite sempre nel Signore\" autore compositore canti liturgici"
+      ],
+      "lyricsMatch": false,
+      "notes": "Fil 4,4; melodia specifica non identificata",
+      "processedAt": "2026-05-29T08:55:20.592Z"
+    },
+    "gloria-nell-alto-dei-cieli-gen": {
+      "id": "gloria-nell-alto-dei-cieli-gen",
+      "title": "GLORIA NELL'ALTO DEI CIELI (Gen Verde)",
+      "author": "Gen Verde",
+      "confidence": "high",
+      "sources": [
+        "paolinestore.it",
+        "animatamente.net"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Autore nel titolo — Verbum Panis",
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "servire-e-regnare-gen-verde": {
+      "id": "servire-e-regnare-gen-verde",
+      "title": "Servire è regnare (Gen Verde) ♫",
+      "author": "Gen Verde",
+      "confidence": "high",
+      "sources": [
+        "animatamente.net"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "alleluia-gen-verde-15": {
+      "id": "alleluia-gen-verde-15",
+      "title": "Alleluia (gen verde)\t15",
+      "author": "Gen Verde",
+      "confidence": "high",
+      "sources": [
+        "libretto indice",
+        "animatamente.net"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Variante Alleluia Verbum Panis",
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "canoni-di-taize": {
+      "id": "canoni-di-taize",
+      "title": "Canoni di Taizè",
+      "author": "Taizé",
+      "confidence": "traditional",
+      "sources": [
+        "taize.fr",
+        "liturgia"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "magnificat": {
+      "id": "magnificat",
+      "title": "MAGNIFICAT",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "liturgia delle ore"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "notes": "Cantico evangelico — melodie multiple",
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "sanctus": {
+      "id": "sanctus",
+      "title": "SANCTUS",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "messale romano"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "kyrie-eleison": {
+      "id": "kyrie-eleison",
+      "title": "KYRIE ELEISON",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "liturgia eucaristica"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "hosanna": {
+      "id": "hosanna",
+      "title": "HOSANNA",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "liturgia eucaristica"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "credo": {
+      "id": "credo",
+      "title": "CREDO",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [
+        "messale romano"
+      ],
+      "queries": [
+        "manual"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T09:36:40.648Z"
+    },
+    "innalzate-nei-cieli": {
+      "id": "innalzate-nei-cieli",
+      "title": "INNALZATE NEI CIELI",
+      "author": "Y. Juna",
+      "confidence": "low",
+      "sources": [
+        "https://lyrics.fi › likanen-etela › nopein-tie-kylille-y-juna"
+      ],
+      "queries": [
+        "\"INNALZATE NEI CIELI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"INNALZATE NEI CIELI\" canti liturgici autore compositore",
+        "\"INNALZATE NEI CIELI\" \"Innalzate nei cieli lo sguardo:\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:37:36.017Z"
+    },
+    "io-credo-risorgero": {
+      "id": "io-credo-risorgero",
+      "title": "IO CREDO RISORGERO’",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IO CREDO RISORGERO’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IO CREDO RISORGERO’\" canti liturgici autore compositore",
+        "\"IO CREDO RISORGERO’\" \"Io credo: risorgerò\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:38:13.431Z"
+    },
+    "io-vedo-la-tua-luce": {
+      "id": "io-vedo-la-tua-luce",
+      "title": "IO VEDO LA TUA LUCE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IO VEDO LA TUA LUCE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IO VEDO LA TUA LUCE\" canti liturgici autore compositore",
+        "\"IO VEDO LA TUA LUCE\" \"Tu sei prima di ogni cosa Prima d’ogni tempo\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:38:50.838Z"
+    },
+    "insieme-e-piu-bello": {
+      "id": "insieme-e-piu-bello",
+      "title": "INSIEME È PIÙ BELLO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"INSIEME È PIÙ BELLO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"INSIEME È PIÙ BELLO\" canti liturgici autore compositore",
+        "\"INSIEME È PIÙ BELLO\" \"Dietro i volti sconosciuti\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:39:28.282Z"
+    },
+    "la-mia-anima-canta": {
+      "id": "la-mia-anima-canta",
+      "title": "LA MIA ANIMA CANTA",
+      "author": "S. Lazio",
+      "confidence": "low",
+      "sources": [
+        "https://www.sslazio.it › it"
+      ],
+      "queries": [
+        "\"LA MIA ANIMA CANTA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LA MIA ANIMA CANTA\" canti liturgici autore compositore",
+        "\"LA MIA ANIMA CANTA\" \"La mia anima canta la grandezza del Signore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:40:05.799Z"
+    },
+    "la-vera-gioia": {
+      "id": "la-vera-gioia",
+      "title": "LA VERA GIOIA",
+      "author": "S. Lazio",
+      "confidence": "medium",
+      "sources": [
+        "https://www.sslazio.it › it"
+      ],
+      "queries": [
+        "\"LA VERA GIOIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LA VERA GIOIA\" canti liturgici autore compositore",
+        "\"LA VERA GIOIA\" \"La vera gioia nasce nella pace\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:40:43.343Z"
+    },
+    "io-sono-il-pane-della-vita": {
+      "id": "io-sono-il-pane-della-vita",
+      "title": "IO SONO IL PANE DELLA VITA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IO SONO IL PANE DELLA VITA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IO SONO IL PANE DELLA VITA\" canti liturgici autore compositore",
+        "\"IO SONO IL PANE DELLA VITA\" \"Io sono il pane della vita:\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:41:20.672Z"
+    },
+    "la-pace-sia-con-te": {
+      "id": "la-pace-sia-con-te",
+      "title": "LA PACE SIA CON TE",
+      "author": "S. Lazio",
+      "confidence": "medium",
+      "sources": [
+        "https://www.sslazio.it › it"
+      ],
+      "queries": [
+        "\"LA PACE SIA CON TE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LA PACE SIA CON TE\" canti liturgici autore compositore",
+        "\"LA PACE SIA CON TE\" \"E la pace si - a con te, pa - ce, pace\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:41:57.988Z"
+    },
+    "la-mia-voce-signore-ascolta": {
+      "id": "la-mia-voce-signore-ascolta",
+      "title": "LA MIA VOCE SIGNORE ASCOLTA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LA MIA VOCE SIGNORE ASCOLTA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LA MIA VOCE SIGNORE ASCOLTA\" canti liturgici autore compositore",
+        "\"LA MIA VOCE SIGNORE ASCOLTA\" \"Fa#- Si- Fa#-\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:42:35.299Z"
+    },
+    "l-ora-delle-stelle": {
+      "id": "l-ora-delle-stelle",
+      "title": "L'ORA DELLE STELLE",
+      "author": "E. Suoni",
+      "confidence": "medium",
+      "sources": [
+        "https://www.studiarapido.it › alfabeto-della-lingua-italiana-lettere-e-suoni"
+      ],
+      "queries": [
+        "\"L'ORA DELLE STELLE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"L'ORA DELLE STELLE\" canti liturgici autore compositore",
+        "\"L'ORA DELLE STELLE\" \"Fratelli è l’ora delle stelle\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:43:12.704Z"
+    },
+    "le-mani-alzate": {
+      "id": "le-mani-alzate",
+      "title": "LE MANI ALZATE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LE MANI ALZATE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LE MANI ALZATE\" canti liturgici autore compositore",
+        "\"LE MANI ALZATE\" \"Le mani alzate verso te Signor\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:43:50.126Z"
+    },
+    "le-tue-mani": {
+      "id": "le-tue-mani",
+      "title": "LE TUE MANI",
+      "author": "Privacy - Termini",
+      "confidence": "medium",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"LE TUE MANI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LE TUE MANI\" canti liturgici autore compositore",
+        "\"LE TUE MANI\" \"Le tue mani son piene di fiori\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:44:27.686Z"
+    },
+    "lodate-lodate": {
+      "id": "lodate-lodate",
+      "title": "LODATE, LODATE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LODATE, LODATE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LODATE, LODATE\" canti liturgici autore compositore",
+        "\"LODATE, LODATE\" \"Lodate, lodate, lodate il Signore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:45:04.967Z"
+    },
+    "lodate-cieli-dei-cieli": {
+      "id": "lodate-cieli-dei-cieli",
+      "title": "LODATE CIELI DEI CIELI",
+      "author": "Leboncoin",
+      "confidence": "low",
+      "sources": [
+        "https://forums.commentcamarche.net › forum"
+      ],
+      "queries": [
+        "\"LODATE CIELI DEI CIELI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LODATE CIELI DEI CIELI\" canti liturgici autore compositore",
+        "\"LODATE CIELI DEI CIELI\" \"Lodate cieli dei cieli il Signore!\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:45:42.330Z"
+    },
+    "madre-della-speranza": {
+      "id": "madre-della-speranza",
+      "title": "MADRE DELLA SPERANZA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"MADRE DELLA SPERANZA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MADRE DELLA SPERANZA\" canti liturgici autore compositore",
+        "\"MADRE DELLA SPERANZA\" \"Madre della speranza\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:46:57.054Z"
+    },
+    "gloria-a-dio-nell-alto-dei-cieli": {
+      "id": "gloria-a-dio-nell-alto-dei-cieli",
+      "title": "GLORIA A DIO NELL’ALTO DEI CIELI",
+      "author": "E. Personaggi",
+      "confidence": "medium",
+      "sources": [
+        "https://www.sorrisi.com › tv › fiction › gloria-trama-cast-e-personaggi"
+      ],
+      "queries": [
+        "\"GLORIA A DIO NELL’ALTO DEI CIELI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GLORIA A DIO NELL’ALTO DEI CIELI\" canti liturgici autore compositore",
+        "\"GLORIA A DIO NELL’ALTO DEI CIELI\" \"Gloria a Dio nell’alto dei cieli e pace in terra\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:52:59.987Z"
+    },
+    "guarda-questa-offerta": {
+      "id": "guarda-questa-offerta",
+      "title": "GUARDA QUESTA OFFERTA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"GUARDA QUESTA OFFERTA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GUARDA QUESTA OFFERTA\" canti liturgici autore compositore",
+        "\"GUARDA QUESTA OFFERTA\" \"Guarda questa offerta, guarda noi, Signor\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:53:35.962Z"
+    },
+    "gloria-gloria-gloria-a-dio": {
+      "id": "gloria-gloria-gloria-a-dio",
+      "title": "GLORIA, GLORIA, GLORIA A DIO",
+      "author": "E. Personaggi",
+      "confidence": "low",
+      "sources": [
+        "https://www.sorrisi.com › tv › fiction › gloria-trama-cast-e-personaggi"
+      ],
+      "queries": [
+        "\"GLORIA, GLORIA, GLORIA A DIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GLORIA, GLORIA, GLORIA A DIO\" canti liturgici autore compositore",
+        "\"GLORIA, GLORIA, GLORIA A DIO\" \"Gloria, gloria, gloria a Dio nell'alto dei cieli,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:54:12.100Z"
+    },
+    "il-canto-del-mare": {
+      "id": "il-canto-del-mare",
+      "title": "IL CANTO DEL MARE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IL CANTO DEL MARE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL CANTO DEL MARE\" canti liturgici autore compositore",
+        "\"IL CANTO DEL MARE\" \"Cantiamo al Signore stupenda è la sua vittoria\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:55:06.242Z"
+    },
+    "giovanni": {
+      "id": "giovanni",
+      "title": "GIOVANNI",
+      "author": "Vangelo di Giovanni",
+      "confidence": "medium",
+      "sources": [
+        "https://www.maranatha.it › Bibbia"
+      ],
+      "queries": [
+        "\"GIOVANNI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GIOVANNI\" canti liturgici autore compositore",
+        "\"GIOVANNI\" \"Voce di uno che grida nel deserto:\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:55:42.164Z"
+    },
+    "il-messia": {
+      "id": "il-messia",
+      "title": "IL MESSIA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IL MESSIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL MESSIA\" canti liturgici autore compositore",
+        "\"IL MESSIA\" \"E' venuto, è qui tra noi,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:56:18.237Z"
+    },
+    "grande-e-il-signore": {
+      "id": "grande-e-il-signore",
+      "title": "GRANDE E’ IL SIGNORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"GRANDE E’ IL SIGNORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GRANDE E’ IL SIGNORE\" canti liturgici autore compositore",
+        "\"GRANDE E’ IL SIGNORE\" \"Grande e degno di ogni lode è il Signore\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:56:54.058Z"
+    },
+    "il-cristo-e-qui": {
+      "id": "il-cristo-e-qui",
+      "title": "IL CRISTO E’ QUI",
+      "author": "Privacy - Termini",
+      "confidence": "medium",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"IL CRISTO E’ QUI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL CRISTO E’ QUI\" canti liturgici autore compositore",
+        "\"IL CRISTO E’ QUI\" \"Il Cristo è qui. Allelu - ia\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:57:30.041Z"
+    },
+    "io-gridero": {
+      "id": "io-gridero",
+      "title": "IO GRIDERO’",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IO GRIDERO’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IO GRIDERO’\" canti liturgici autore compositore",
+        "\"IO GRIDERO’\" \"Dimmi una parola Cristo non andare,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:58:06.024Z"
+    },
+    "grazie-gesu": {
+      "id": "grazie-gesu",
+      "title": "GRAZIE, GESU'",
+      "author": "a. Grazie",
+      "confidence": "medium",
+      "sources": [
+        "https://sapere.virgilio.it › ... › curiosita-linguistiche › come-si-risponde-a-grazie"
+      ],
+      "queries": [
+        "\"GRAZIE, GESU'\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"GRAZIE, GESU'\" canti liturgici autore compositore",
+        "\"GRAZIE, GESU'\" \"Grazie, Gesù, della vita, grazie di mamma e papà,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:58:42.213Z"
+    },
+    "il-pane-del-cammino": {
+      "id": "il-pane-del-cammino",
+      "title": "IL PANE DEL CAMMINO",
+      "author": "Privacy - Termini",
+      "confidence": "medium",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"IL PANE DEL CAMMINO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL PANE DEL CAMMINO\" canti liturgici autore compositore",
+        "\"IL PANE DEL CAMMINO\" \"II tuo popolo in cammino,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T09:59:18.225Z"
+    },
+    "il-pane": {
+      "id": "il-pane",
+      "title": "IL PANE",
+      "author": "Privacy - Termini",
+      "confidence": "low",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"IL PANE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL PANE\" canti liturgici autore compositore",
+        "\"IL PANE\" \"Dove troveremo tutto il pane\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T09:59:54.305Z"
+    },
+    "il-regno-di-dio": {
+      "id": "il-regno-di-dio",
+      "title": "IL REGNO DI DIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IL REGNO DI DIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL REGNO DI DIO\" canti liturgici autore compositore",
+        "\"IL REGNO DI DIO\" \"Il regno di Dio è qui in mezzo a noi;\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:00:30.490Z"
+    },
+    "in-notte-placida": {
+      "id": "in-notte-placida",
+      "title": "IN NOTTE PLACIDA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IN NOTTE PLACIDA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IN NOTTE PLACIDA\" canti liturgici autore compositore",
+        "\"IN NOTTE PLACIDA\" \"In notte placida per muto sentier\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:01:06.387Z"
+    },
+    "illumina-il-cuore-mio": {
+      "id": "illumina-il-cuore-mio",
+      "title": "ILLUMINA IL CUORE MIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"ILLUMINA IL CUORE MIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"ILLUMINA IL CUORE MIO\" canti liturgici autore compositore",
+        "\"ILLUMINA IL CUORE MIO\" \"E ti cerco nella notte di una strada senza meta\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:01:42.373Z"
+    },
+    "il-pane-di-vita": {
+      "id": "il-pane-di-vita",
+      "title": "IL PANE DI VITA",
+      "author": "Privacy - Termini",
+      "confidence": "medium",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"IL PANE DI VITA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL PANE DI VITA\" canti liturgici autore compositore",
+        "\"IL PANE DI VITA\" \"Sono il pane di vita,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:02:18.186Z"
+    },
+    "la-fede": {
+      "id": "la-fede",
+      "title": "LA FEDE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LA FEDE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LA FEDE\" canti liturgici autore compositore",
+        "\"LA FEDE\" \"La fede sposta le montagne Cantiamo al Signore\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:02:54.238Z"
+    },
+    "il-signore-e-il-mio-pastore": {
+      "id": "il-signore-e-il-mio-pastore",
+      "title": "IL SIGNORE E’ IL MIO PASTORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"IL SIGNORE E’ IL MIO PASTORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"IL SIGNORE E’ IL MIO PASTORE\" canti liturgici autore compositore",
+        "\"IL SIGNORE E’ IL MIO PASTORE\" \"Il Signore è il mio pastore,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:03:30.142Z"
+    },
+    "inno-di-liberazione": {
+      "id": "inno-di-liberazione",
+      "title": "INNO DI LIBERAZIONE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"INNO DI LIBERAZIONE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"INNO DI LIBERAZIONE\" canti liturgici autore compositore",
+        "\"INNO DI LIBERAZIONE\" \"Il Signore libera i prigionieri\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:04:06.015Z"
+    },
+    "lode-e-gloria-a-te": {
+      "id": "lode-e-gloria-a-te",
+      "title": "LODE E GLORIA A TE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LODE E GLORIA A TE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LODE E GLORIA A TE\" canti liturgici autore compositore",
+        "\"LODE E GLORIA A TE\" \"Lode e gloria a Te, lode e gloria a Te\" autore"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T10:04:41.870Z"
+    },
+    "le-mie-mani-son-piene": {
+      "id": "le-mie-mani-son-piene",
+      "title": "LE MIE MANI SON PIENE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LE MIE MANI SON PIENE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LE MIE MANI SON PIENE\" canti liturgici autore compositore",
+        "\"LE MIE MANI SON PIENE\" \"Le mie mani son piene di benedizioni\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:05:17.878Z"
+    },
+    "lo-spirito-del-signore": {
+      "id": "lo-spirito-del-signore",
+      "title": "LO SPIRITO DEL SIGNORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LO SPIRITO DEL SIGNORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LO SPIRITO DEL SIGNORE\" canti liturgici autore compositore",
+        "\"LO SPIRITO DEL SIGNORE\" \"Lo Spirito del Signore è su di me\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:05:53.723Z"
+    },
+    "l-unico-maestro": {
+      "id": "l-unico-maestro",
+      "title": "L'UNICO MAESTRO",
+      "author": "E. Suoni",
+      "confidence": "medium",
+      "sources": [
+        "https://www.studiarapido.it › alfabeto-della-lingua-italiana-lettere-e-suoni",
+        "https://www.dailymotion.com › video",
+        "https://kidvideo.org › video › phonics-song-for-children-letters-j-k-l..."
+      ],
+      "queries": [
+        "\"L'UNICO MAESTRO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"L'UNICO MAESTRO\" canti liturgici autore compositore",
+        "\"L'UNICO MAESTRO\" \"Le mie mani, con le tue, possono fare meraviglie,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:06:29.634Z"
+    },
+    "lode-a-te-o-cristo": {
+      "id": "lode-a-te-o-cristo",
+      "title": "LODE A TE O CRISTO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"LODE A TE O CRISTO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"LODE A TE O CRISTO\" canti liturgici autore compositore",
+        "\"LODE A TE O CRISTO\" \"Lode a te o Cristo Re dell’eterna glo - ria! (2v)\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:07:05.681Z"
+    },
+    "mira-il-tuo-popolo": {
+      "id": "mira-il-tuo-popolo",
+      "title": "MIRA IL TUO POPOLO",
+      "author": "a. Mira",
+      "confidence": "low",
+      "sources": [
+        "https://nonsoloturisti.it › cosa-vedere-a-mira"
+      ],
+      "queries": [
+        "\"MIRA IL TUO POPOLO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MIRA IL TUO POPOLO\" canti liturgici autore compositore",
+        "\"MIRA IL TUO POPOLO\" \"Mira il tuo popolo o bella Signora\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:07:41.607Z"
+    },
+    "pace-dei-pesci": {
+      "id": "pace-dei-pesci",
+      "title": "PACE DEI PESCI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PACE DEI PESCI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PACE DEI PESCI\" canti liturgici autore compositore",
+        "\"PACE DEI PESCI\" \"Pace, pace, pace in terra agli uomini,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:08:17.466Z"
+    },
+    "mani": {
+      "id": "mani",
+      "title": "MANI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"MANI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MANI\" canti liturgici autore compositore",
+        "\"MANI\" \"Il sole scende, è quasi notte ormai\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:08:53.440Z"
+    },
+    "madre-io-vorrei": {
+      "id": "madre-io-vorrei",
+      "title": "MADRE IO VORREI",
+      "confidence": "not_found",
+      "sources": [
+        "error: fetch failed"
+      ],
+      "queries": [
+        "\"MADRE IO VORREI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MADRE IO VORREI\" canti liturgici autore compositore",
+        "\"MADRE IO VORREI\" \"Io vorrei tanto parlare con te di quel Figlio che \" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:09:34.315Z"
+    },
+    "noi-canteremo-gloria-a-te": {
+      "id": "noi-canteremo-gloria-a-te",
+      "title": "NOI CANTEREMO GLORIA A TE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"NOI CANTEREMO GLORIA A TE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"NOI CANTEREMO GLORIA A TE\" canti liturgici autore compositore",
+        "\"NOI CANTEREMO GLORIA A TE\" \"Noi canteremo gloria a Te Padre che dai la Vi - ta\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:09:45.205Z"
+    },
+    "ora-sei-qui": {
+      "id": "ora-sei-qui",
+      "title": "ORA SEI QUI",
+      "author": "Maggiori informazioni",
+      "confidence": "low",
+      "sources": [
+        "https://time.is › it",
+        "https://www.inrim.it › it › ora-esatta"
+      ],
+      "queries": [
+        "\"ORA SEI QUI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"ORA SEI QUI\" canti liturgici autore compositore",
+        "\"ORA SEI QUI\" \"Ora sei qui, Signore Gesù\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autori discordi: Maggiori informazioni(2), Network Time Protocol(2)",
+      "processedAt": "2026-05-29T10:09:49.236Z"
+    },
+    "miserere": {
+      "id": "miserere",
+      "title": "MISERERE",
+      "author": "Gregorio Allegri",
+      "confidence": "high",
+      "sources": [
+        "https://www.musicacolta.eu › il-miserere-di-gregorio-allegri"
+      ],
+      "queries": [
+        "\"MISERERE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MISERERE\" canti liturgici autore compositore",
+        "\"MISERERE\" \"Miserere mei, Domine.\" autore"
+      ],
+      "lyricsMatch": true,
+      "processedAt": "2026-05-29T10:09:53.264Z"
+    },
+    "nelle-tue-mani": {
+      "id": "nelle-tue-mani",
+      "title": "NELLE TUE MANI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"NELLE TUE MANI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"NELLE TUE MANI\" canti liturgici autore compositore",
+        "\"NELLE TUE MANI\" \"Nelle tue mani affido la vita\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:09:57.745Z"
+    },
+    "nella-chiesa-del-signore": {
+      "id": "nella-chiesa-del-signore",
+      "title": "NELLA CHIESA DEL SIGNORE",
+      "author": "E. Sulla",
+      "confidence": "medium",
+      "sources": [
+        "https://areasosta.com › faq › quando-si-usa-nella-e-sulla"
+      ],
+      "queries": [
+        "\"NELLA CHIESA DEL SIGNORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"NELLA CHIESA DEL SIGNORE\" canti liturgici autore compositore",
+        "\"NELLA CHIESA DEL SIGNORE\" \"Nella chiesa del Signore tutti gli uomini verranno\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:10:01.772Z"
+    },
+    "mi-pensamiento-eres-tu": {
+      "id": "mi-pensamiento-eres-tu",
+      "title": "MI PENSAMIENTO ERES TU",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"MI PENSAMIENTO ERES TU\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"MI PENSAMIENTO ERES TU\" canti liturgici autore compositore",
+        "\"MI PENSAMIENTO ERES TU\" \"Mi pensamiento eres Tu, Senor\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:05.993Z"
+    },
+    "o-dio-un-cuore-puro": {
+      "id": "o-dio-un-cuore-puro",
+      "title": "O DIO UN CUORE PURO",
+      "author": "CNN-CBC-FOX-BBC-SKY NEWS",
+      "confidence": "low",
+      "sources": [
+        "https://www.zhihu.com › zvideo"
+      ],
+      "queries": [
+        "\"O DIO UN CUORE PURO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"O DIO UN CUORE PURO\" canti liturgici autore compositore",
+        "\"O DIO UN CUORE PURO\" \"Solo: O Dio un cuore puro rinnova in me\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:10.198Z"
+    },
+    "o-dio-tu-sei-il-mio-dio": {
+      "id": "o-dio-tu-sei-il-mio-dio",
+      "title": "O DIO, TU SEI IL MIO DIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"O DIO, TU SEI IL MIO DIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"O DIO, TU SEI IL MIO DIO\" canti liturgici autore compositore",
+        "\"O DIO, TU SEI IL MIO DIO\" \"O Dio, Tu sei il mio Di - o, ti cerco dall’auro - \" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:14.373Z"
+    },
+    "osanna-al-figlio-di-davide": {
+      "id": "osanna-al-figlio-di-davide",
+      "title": "OSANNA AL FIGLIO DI DAVIDE",
+      "author": "Dante",
+      "confidence": "medium",
+      "sources": [
+        "https://www.treccani.it › vocabolario › osanna"
+      ],
+      "queries": [
+        "\"OSANNA AL FIGLIO DI DAVIDE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"OSANNA AL FIGLIO DI DAVIDE\" canti liturgici autore compositore",
+        "\"OSANNA AL FIGLIO DI DAVIDE\" \"Osanna al figlio di David Osanna al Redentor.\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:10:18.495Z"
+    },
+    "o-amore-ineffabile": {
+      "id": "o-amore-ineffabile",
+      "title": "O AMORE INEFFABILE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"O AMORE INEFFABILE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"O AMORE INEFFABILE\" canti liturgici autore compositore",
+        "\"O AMORE INEFFABILE\" \"Tu abisso di carità, pare che sì pazzo delle tue c\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:22.572Z"
+    },
+    "pace-a-te-fratello-mio": {
+      "id": "pace-a-te-fratello-mio",
+      "title": "PACE A TE FRATELLO MIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PACE A TE FRATELLO MIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PACE A TE FRATELLO MIO\" canti liturgici autore compositore",
+        "\"PACE A TE FRATELLO MIO\" \"Pace a te fratello mio, pace a te sorella mia,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:27.429Z"
+    },
+    "non-vive-di-solo-pane": {
+      "id": "non-vive-di-solo-pane",
+      "title": "NON VIVE DI SOLO PANE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"NON VIVE DI SOLO PANE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"NON VIVE DI SOLO PANE\" canti liturgici autore compositore",
+        "\"NON VIVE DI SOLO PANE\" \"Non vive di solo pane l'uomo,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:31.494Z"
+    },
+    "purificami-o-signore": {
+      "id": "purificami-o-signore",
+      "title": "PURIFICAMI. O SIGNORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PURIFICAMI. O SIGNORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PURIFICAMI. O SIGNORE\" canti liturgici autore compositore",
+        "\"PURIFICAMI. O SIGNORE\" \"Puri - ficami, o Signore.\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:35.520Z"
+    },
+    "ora-e-tempo-di-gioia": {
+      "id": "ora-e-tempo-di-gioia",
+      "title": "ORA E’ TEMPO DI GIOIA",
+      "author": "Maggiori informazioni",
+      "confidence": "low",
+      "sources": [
+        "https://time.is › it",
+        "https://www.inrim.it › it › ora-esatta"
+      ],
+      "queries": [
+        "\"ORA E’ TEMPO DI GIOIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"ORA E’ TEMPO DI GIOIA\" canti liturgici autore compositore",
+        "\"ORA E’ TEMPO DI GIOIA\" \"L’eco torna alle antiche val - li\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autori discordi: Maggiori informazioni(2), Network Time Protocol(2)",
+      "processedAt": "2026-05-29T10:10:40.429Z"
+    },
+    "olio-di-letizia": {
+      "id": "olio-di-letizia",
+      "title": "OLIO DI LETIZIA",
+      "author": "Trad.",
+      "confidence": "traditional",
+      "sources": [],
+      "queries": [
+        "\"OLIO DI LETIZIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"OLIO DI LETIZIA\" canti liturgici autore compositore",
+        "\"OLIO DI LETIZIA\" \"Olio che consacra, olio che profuma\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Segnalato tradizionale da più fonti",
+      "processedAt": "2026-05-29T10:10:45.800Z"
+    },
+    "padre-mio-ti-chiamero": {
+      "id": "padre-mio-ti-chiamero",
+      "title": "PADRE MIO TI CHIAMERO’",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PADRE MIO TI CHIAMERO’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PADRE MIO TI CHIAMERO’\" canti liturgici autore compositore",
+        "\"PADRE MIO TI CHIAMERO’\" \"Nel silenzio del deserto soffia il vento del tuo a\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:10:51.298Z"
+    },
+    "ora-che-il-giorno-finisce": {
+      "id": "ora-che-il-giorno-finisce",
+      "title": "ORA CHE IL GIORNO FINISCE",
+      "author": "Network Time Protocol",
+      "confidence": "medium",
+      "sources": [
+        "https://time.is › it",
+        "https://www.inrim.it › it › ora-esatta"
+      ],
+      "queries": [
+        "\"ORA CHE IL GIORNO FINISCE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"ORA CHE IL GIORNO FINISCE\" canti liturgici autore compositore",
+        "\"ORA CHE IL GIORNO FINISCE\" \"Dio, quante volte ho pensato la sera\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:10:56.867Z"
+    },
+    "ogni-giorno": {
+      "id": "ogni-giorno",
+      "title": "OGNI GIORNO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"OGNI GIORNO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"OGNI GIORNO\" canti liturgici autore compositore",
+        "\"OGNI GIORNO\" \"Se il mondo finisse domani,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:02.262Z"
+    },
+    "padre-mio": {
+      "id": "padre-mio",
+      "title": "PADRE MIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PADRE MIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PADRE MIO\" canti liturgici autore compositore",
+        "\"PADRE MIO\" \"Padre mio io mi abbandono a Te\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:07.663Z"
+    },
+    "per-sempre-re-della-gloria": {
+      "id": "per-sempre-re-della-gloria",
+      "title": "PER SEMPRE RE DELLA GLORIA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PER SEMPRE RE DELLA GLORIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PER SEMPRE RE DELLA GLORIA\" canti liturgici autore compositore",
+        "\"PER SEMPRE RE DELLA GLORIA\" \"A te Signore mio Dio, a te che siedi nei cie - li\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:13.238Z"
+    },
+    "popoli-tutti-lodate-il-signore": {
+      "id": "popoli-tutti-lodate-il-signore",
+      "title": "POPOLI TUTTI, LODATE IL SIGNORE",
+      "author": "Corpo Forestale dello Stato",
+      "confidence": "medium",
+      "sources": [
+        "https://www.tripadvisor.it"
+      ],
+      "queries": [
+        "\"POPOLI TUTTI, LODATE IL SIGNORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"POPOLI TUTTI, LODATE IL SIGNORE\" canti liturgici autore compositore",
+        "\"POPOLI TUTTI, LODATE IL SIGNORE\" \"Po - poli tutti, lodate il Signore: Allelu - ia.\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:11:18.741Z"
+    },
+    "risuscito": {
+      "id": "risuscito",
+      "title": "RISUSCITO'",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"RISUSCITO'\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"RISUSCITO'\" canti liturgici autore compositore",
+        "\"RISUSCITO'\" \"Risuscitò, risuscitò, risuscitò, alleluja!\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:24.147Z"
+    },
+    "pange-lingua": {
+      "id": "pange-lingua",
+      "title": "PANGE LINGUA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PANGE LINGUA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PANGE LINGUA\" canti liturgici autore compositore",
+        "\"PANGE LINGUA\" \"1. Genti tut - te, proclama - te\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:29.603Z"
+    },
+    "perche-tu-sei-con-me": {
+      "id": "perche-tu-sei-con-me",
+      "title": "PERCHE’ TU SEI CON ME",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PERCHE’ TU SEI CON ME\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PERCHE’ TU SEI CON ME\" canti liturgici autore compositore",
+        "\"PERCHE’ TU SEI CON ME\" \"Solo tu sei il mio pastore\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:11:55.042Z"
+    },
+    "questo-e-il-mio-comandamento": {
+      "id": "questo-e-il-mio-comandamento",
+      "title": "QUESTO E’ IL MIO COMANDAMENTO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"QUESTO E’ IL MIO COMANDAMENTO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"QUESTO E’ IL MIO COMANDAMENTO\" canti liturgici autore compositore",
+        "\"QUESTO E’ IL MIO COMANDAMENTO\" \"Questo è il mio comandamento\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:12:31.281Z"
+    },
+    "saldo-e-il-mio-cuore-dio": {
+      "id": "saldo-e-il-mio-cuore-dio",
+      "title": "SALDO E’ IL MIO CUORE, DIO",
+      "author": "E. Rischi",
+      "confidence": "medium",
+      "sources": [
+        "https://www.legge3.it › saldo-e-stralcio-come-funziona-vantaggi-e-rischi"
+      ],
+      "queries": [
+        "\"SALDO E’ IL MIO CUORE, DIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SALDO E’ IL MIO CUORE, DIO\" canti liturgici autore compositore",
+        "\"SALDO E’ IL MIO CUORE, DIO\" \"Saldo è il mio cuore, Dio,\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:13:07.336Z"
+    },
+    "preconio-pasquale": {
+      "id": "preconio-pasquale",
+      "title": "PRECONIO PASQUALE.",
+      "author": "Y. Mensajeria",
+      "confidence": "medium",
+      "sources": [
+        "https://es.ccm.net › ... › redes-sociales-y-mensajeria"
+      ],
+      "queries": [
+        "\"PRECONIO PASQUALE.\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PRECONIO PASQUALE.\" canti liturgici autore compositore",
+        "\"PRECONIO PASQUALE.\" \"C. Esulti il coro degli Angeli, esulti l'assemblea\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:13:43.606Z"
+    },
+    "perfetta-letizia": {
+      "id": "perfetta-letizia",
+      "title": "PERFETTA LETIZIA",
+      "author": "Nutzungsbedingungen",
+      "confidence": "low",
+      "sources": [
+        "https://www.google.com"
+      ],
+      "queries": [
+        "\"PERFETTA LETIZIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PERFETTA LETIZIA\" canti liturgici autore compositore",
+        "\"PERFETTA LETIZIA\" \"Frate Leone, agnello del Signore\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:14:19.570Z"
+    },
+    "pietro-vai": {
+      "id": "pietro-vai",
+      "title": "PIETRO VAI",
+      "author": "Tredici Pietro",
+      "confidence": "medium",
+      "sources": [
+        "https://m.youtube.com › watch"
+      ],
+      "queries": [
+        "\"PIETRO VAI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PIETRO VAI\" canti liturgici autore compositore",
+        "\"PIETRO VAI\" \"Signore, ho pescato tutto il giorno\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:14:55.664Z"
+    },
+    "quando-bussero": {
+      "id": "quando-bussero",
+      "title": "QUANDO BUSSERO’",
+      "author": "C. Entrando",
+      "confidence": "low",
+      "sources": [
+        "https://www.ilmeteo.it › meteo › brindisi",
+        "https://www.youtube.com › watch"
+      ],
+      "queries": [
+        "\"QUANDO BUSSERO’\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"QUANDO BUSSERO’\" canti liturgici autore compositore",
+        "\"QUANDO BUSSERO’\" \"Quando busserò alla Tua porta avrò fatto tanta str\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autori discordi: C. Entrando(2), Official Video(2)",
+      "processedAt": "2026-05-29T10:15:31.779Z"
+    },
+    "raccogli-o-padre": {
+      "id": "raccogli-o-padre",
+      "title": "RACCOGLI O PADRE",
+      "author": "V. Trainline",
+      "confidence": "low",
+      "sources": [
+        "https://forums.moneysavingexpert.com › discussion › trainpal-v-trainline"
+      ],
+      "queries": [
+        "\"RACCOGLI O PADRE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"RACCOGLI O PADRE\" canti liturgici autore compositore",
+        "\"RACCOGLI O PADRE\" \"Raccogli o Padre i tuoi figli nel Mistero d'Amor\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:16:07.947Z"
+    },
+    "parabola-del-seminatore": {
+      "id": "parabola-del-seminatore",
+      "title": "PARABOLA DEL SEMINATORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"PARABOLA DEL SEMINATORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"PARABOLA DEL SEMINATORE\" canti liturgici autore compositore",
+        "\"PARABOLA DEL SEMINATORE\" \"Uscì il seminatore a gettare il seme\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:16:44.038Z"
+    },
+    "quale-gioia": {
+      "id": "quale-gioia",
+      "title": "QUALE GIOIA",
+      "author": "O. Quale",
+      "confidence": "medium",
+      "sources": [
+        "https://www.istitutopascal.it › come-si-scrive › qual-e-o-quale"
+      ],
+      "queries": [
+        "\"QUALE GIOIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"QUALE GIOIA\" canti liturgici autore compositore",
+        "\"QUALE GIOIA\" \"Quale gioia mi dissero\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:17:20.080Z"
+    },
+    "quando-israele-usci-dall-egitto": {
+      "id": "quando-israele-usci-dall-egitto",
+      "title": "QUANDO ISRAELE USCI’ DALL’EGITTO",
+      "author": "C. Entrando",
+      "confidence": "low",
+      "sources": [
+        "https://www.ilmeteo.it › meteo › brindisi",
+        "https://www.youtube.com › watch"
+      ],
+      "queries": [
+        "\"QUANDO ISRAELE USCI’ DALL’EGITTO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"QUANDO ISRAELE USCI’ DALL’EGITTO\" canti liturgici autore compositore",
+        "\"QUANDO ISRAELE USCI’ DALL’EGITTO\" \"Quando Israele uscì dall'Egitto\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autori discordi: C. Entrando(2), Official Video(2)",
+      "processedAt": "2026-05-29T10:18:00.952Z"
+    },
+    "tua-palavra": {
+      "id": "tua-palavra",
+      "title": "TUA PALAVRA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"TUA PALAVRA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"TUA PALAVRA\" canti liturgici autore compositore",
+        "\"TUA PALAVRA\" \"Tua palavra è luz do meu caminho!\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:18:36.976Z"
+    },
+    "re-di-gloria": {
+      "id": "re-di-gloria",
+      "title": "RE DI GLORIA",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"RE DI GLORIA\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"RE DI GLORIA\" canti liturgici autore compositore",
+        "\"RE DI GLORIA\" \"Ho incontrato Te Gesù\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:19:13.087Z"
+    },
+    "resta-con-noi": {
+      "id": "resta-con-noi",
+      "title": "RESTA CON NOI",
+      "author": "Ariosto",
+      "confidence": "low",
+      "sources": [
+        "https://dizionari.repubblica.it › Italiano › resta.html",
+        "error: fetch failed"
+      ],
+      "queries": [
+        "\"RESTA CON NOI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"RESTA CON NOI\" canti liturgici autore compositore",
+        "\"RESTA CON NOI\" \"Resta con noi Signore la sera.\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:37:07.136Z"
+    },
+    "silenzioso-dio": {
+      "id": "silenzioso-dio",
+      "title": "SILENZIOSO DIO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"SILENZIOSO DIO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SILENZIOSO DIO\" canti liturgici autore compositore",
+        "\"SILENZIOSO DIO\" \"Io ti amo silenzioso Dio\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:37:43.059Z"
+    },
+    "questa-e-la-mia-fede": {
+      "id": "questa-e-la-mia-fede",
+      "title": "QUESTA E’ LA MIA FEDE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"QUESTA E’ LA MIA FEDE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"QUESTA E’ LA MIA FEDE\" canti liturgici autore compositore",
+        "\"QUESTA E’ LA MIA FEDE\" \"Questa e' la mia fede, proclamarti mio re,\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:38:19.214Z"
+    },
+    "samuel": {
+      "id": "samuel",
+      "title": "SAMUEL",
+      "author": "MAUR-DES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.societe.com › societe",
+        "https://www.pappers.fr › entreprise",
+        "https://entreprises.lagazettefrance.fr › entreprise",
+        "https://klaren.fr › entreprise",
+        "https://infonet.fr › dirigeants",
+        "https://rubypayeur.com › societe"
+      ],
+      "queries": [
+        "\"SAMUEL\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SAMUEL\" canti liturgici autore compositore",
+        "\"SAMUEL\" \"Samuel! Samuel! Samuel! Samuel!\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autore concorde ma testo non verificato",
+      "processedAt": "2026-05-29T10:38:54.968Z"
+    },
+    "se-qualcuno-ha-dei-beni": {
+      "id": "se-qualcuno-ha-dei-beni",
+      "title": "SE QUALCUNO HA DEI BENI",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"SE QUALCUNO HA DEI BENI\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SE QUALCUNO HA DEI BENI\" canti liturgici autore compositore",
+        "\"SE QUALCUNO HA DEI BENI\" \"Se qualcuno ha dei beni in questo mondo\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:39:30.832Z"
+    },
+    "sequenza-di-pentecoste": {
+      "id": "sequenza-di-pentecoste",
+      "title": "SEQUENZA DI PENTECOSTE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"SEQUENZA DI PENTECOSTE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SEQUENZA DI PENTECOSTE\" canti liturgici autore compositore",
+        "\"SEQUENZA DI PENTECOSTE\" \"Vieni Santo Spirito manda a noi dal cielo\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:40:06.674Z"
+    },
+    "segni-del-tuo-amore": {
+      "id": "segni-del-tuo-amore",
+      "title": "SEGNI DEL TUO AMORE",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"SEGNI DEL TUO AMORE\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SEGNI DEL TUO AMORE\" canti liturgici autore compositore",
+        "\"SEGNI DEL TUO AMORE\" \"Mille e mille grani nelle spighe d'oro\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:40:42.571Z"
+    },
+    "santa-maria-del-cammino": {
+      "id": "santa-maria-del-cammino",
+      "title": "SANTA MARIA DEL CAMMINO",
+      "author": "a. Ferrari",
+      "confidence": "low",
+      "sources": [
+        "http://www.cernuscoinsieme.it › home › Pagine",
+        "https://orarimesse.it › milano › chiesa › chiesa-di-san-giovanni..."
+      ],
+      "queries": [
+        "\"SANTA MARIA DEL CAMMINO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SANTA MARIA DEL CAMMINO\" canti liturgici autore compositore",
+        "\"SANTA MARIA DEL CAMMINO\" \"Mentre trascorre la vi - ta solo tu non sei mai.\" autore"
+      ],
+      "lyricsMatch": false,
+      "notes": "Autori discordi: a. Ferrari(1), Cernusco Lombardone(1), S.Giovanni(1)",
+      "processedAt": "2026-05-29T10:41:18.583Z"
+    },
+    "san-francesco": {
+      "id": "san-francesco",
+      "title": "SAN FRANCESCO",
+      "confidence": "not_found",
+      "sources": [],
+      "queries": [
+        "\"SAN FRANCESCO\" site:animatamente.net OR site:arquen.it OR site:cantoeprego.it autore",
+        "\"SAN FRANCESCO\" canti liturgici autore compositore",
+        "\"SAN FRANCESCO\" \"O Signore, fa di me uno strumento\" autore"
+      ],
+      "lyricsMatch": false,
+      "processedAt": "2026-05-29T10:41:54.534Z"
+    }
+  }
+}

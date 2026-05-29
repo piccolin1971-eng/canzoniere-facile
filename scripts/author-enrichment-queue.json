@@ -1,0 +1,4278 @@
+{
+  "generatedAt": "2026-05-29T10:17:24.864Z",
+  "total": 534,
+  "items": [
+    {
+      "id": "a5",
+      "code": "A5",
+      "title": "Kyrie Togolese",
+      "sectionId": "A",
+      "firstLyricsLine": "Kyrie eleison, Kyrie eleison,",
+      "lyricsSnippet": "Kyrie eleison, Kyrie eleison, Kyrie eleison, ele … ele - i - son."
+    },
+    {
+      "id": "a6",
+      "code": "A6",
+      "title": "Signore pietà",
+      "sectionId": "A",
+      "firstLyricsLine": "Signore, Signore pietà.",
+      "lyricsSnippet": "Signore, Signore pietà. Cristo, Cristo pietà di noi."
+    },
+    {
+      "id": "a10",
+      "code": "A10",
+      "title": "Perdonaci Signore",
+      "sectionId": "A",
+      "firstLyricsLine": "1. Perdonaci, Signore, nostro amico,",
+      "lyricsSnippet": "1. Perdonaci, Signore, nostro amico, se abbiamo pensato solo a noi,"
+    },
+    {
+      "id": "a11",
+      "code": "A11",
+      "title": "Signore pietà",
+      "sectionId": "A",
+      "firstLyricsLine": "Signore, che hai parola di vita eterna, abbi pietà di noi.",
+      "lyricsSnippet": "Signore, che hai parola di vita eterna, abbi pietà di noi. Signore, Signore, Signore pietà."
+    },
+    {
+      "id": "b1",
+      "code": "B1",
+      "title": "Gloria a Dio, pace all'uomo",
+      "sectionId": "B",
+      "firstLyricsLine": "Rit.: Gloria a Dio! Pace all'uomo! Gioia dal cielo alla terra!",
+      "lyricsSnippet": "Rit.: Gloria a Dio! Pace all'uomo! Gioia dal cielo alla terra! 1 Per il Tuo Amore, Padre buono, a Te il nostro grazie."
+    },
+    {
+      "id": "b2",
+      "code": "B2",
+      "title": "Gloria a Cristo",
+      "sectionId": "B",
+      "firstLyricsLine": "1 Gloria a Cristo, splendore eterno del Dio vivente!",
+      "lyricsSnippet": "1 Gloria a Cristo, splendore eterno del Dio vivente! Rit.: Gloria a Te, Signor!"
+    },
+    {
+      "id": "b3",
+      "code": "B3",
+      "title": "Gloria in excelsis Deo",
+      "sectionId": "B",
+      "firstLyricsLine": "Rit.: Gloria, gloria, in excelsis Deo.",
+      "lyricsSnippet": "Rit.: Gloria, gloria, in excelsis Deo. Gloria, Gloria, in excelsis Deo."
+    },
+    {
+      "id": "b4",
+      "code": "B4",
+      "title": "Il Signore è la luce",
+      "sectionId": "B",
+      "firstLyricsLine": "1 Il Signore è la luce che vince la notte.",
+      "lyricsSnippet": "1 Il Signore è la luce che vince la notte. Rit.: Gloria! Gloria! Cantiamo al Signore!"
+    },
+    {
+      "id": "adeste-fideles",
+      "code": "LA4",
+      "title": "ADESTE FIDELES",
+      "sectionId": "N",
+      "firstLyricsLine": "Ade - ste fide - les lae ti triumphantes",
+      "lyricsSnippet": "Ade - ste fide - les lae ti triumphantes Venite ve - ni - te in Be - thlem"
+    },
+    {
+      "id": "alleluia",
+      "code": "LA9",
+      "title": "ALLELUIA",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia oh alleluia",
+      "lyricsSnippet": "Alleluia oh alleluia Cantiamo a Te la nostra Lode, alleluia"
+    },
+    {
+      "id": "alzati-e-risplendi",
+      "code": "LA14",
+      "title": "ALZATI E RISPLENDI",
+      "sectionId": "N",
+      "firstLyricsLine": "Alzati e risplendi, ecco la tua luce",
+      "lyricsSnippet": "Alzati e risplendi, ecco la tua luce È su te la gloria del Signor ( 2v )."
+    },
+    {
+      "id": "alzo-gli-occhi-verso-i-monti",
+      "code": "LA17",
+      "title": "ALZO GLI OCCHI VERSO I MONTI",
+      "sectionId": "C",
+      "firstLyricsLine": "Alzo gli occhi verso i monti",
+      "lyricsSnippet": "Alzo gli occhi verso i monti da dove mi verrà l’aiuto?"
+    },
+    {
+      "id": "alleluia-lodate",
+      "code": "LA19",
+      "title": "ALLELUIA LODATE",
+      "sectionId": "D",
+      "firstLyricsLine": "Alle lu ia, allelu ia, lodate il Signore. ( 2v )",
+      "lyricsSnippet": "Alle lu ia, allelu ia, lodate il Signore. ( 2v ) Lodate il Signore nel suo tempio Santo,"
+    },
+    {
+      "id": "artigiano-misterioso",
+      "code": "LA28",
+      "title": "ARTIGIANO MISTERIOSO",
+      "sectionId": "C",
+      "firstLyricsLine": "Artigiano misterioso sei da sempre, o mio Signore,",
+      "lyricsSnippet": "Artigiano misterioso sei da sempre, o mio Signore, noi dormiamo e tu lavori, in silenzio e senza sosta!"
+    },
+    {
+      "id": "beati-quelli-che-ascoltano",
+      "code": "LA31",
+      "title": "BEATI QUELLI CHE ASCOLTANO",
+      "sectionId": "C",
+      "firstLyricsLine": "Beati quelli che ascoltano",
+      "lyricsSnippet": "Beati quelli che ascoltano la Parola di Dio, e la vivono ogni giorno."
+    },
+    {
+      "id": "beati-quelli",
+      "code": "LA34",
+      "title": "BEATI QUELLI",
+      "sectionId": "C",
+      "firstLyricsLine": "Beati quelli che poveri sono,",
+      "lyricsSnippet": "Beati quelli che poveri sono, beati quanti son puri di cuore."
+    },
+    {
+      "id": "attingete-acqua",
+      "code": "LA36",
+      "title": "ATTINGETE ACQUA",
+      "sectionId": "C",
+      "firstLyricsLine": "Attingete acqua con gioia alle",
+      "lyricsSnippet": "Attingete acqua con gioia alle fonti di vita e salvezza! (x2)"
+    },
+    {
+      "id": "benedetto-sei-tu-signore-dio",
+      "code": "LA42",
+      "title": "BENEDETTO SEI TU SIGNORE DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Benedetto sei tu Signore Dio",
+      "lyricsSnippet": "Benedetto sei tu Signore Dio dalle tue mani abbiamo questo pane"
+    },
+    {
+      "id": "camminiamo-incontro-al-signore",
+      "code": "LA43",
+      "title": "CAMMINIAMO INCONTRO AL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Camminiamo incontro al Signore,",
+      "lyricsSnippet": "Camminiamo incontro al Signore, camminiamo con gioia:"
+    },
+    {
+      "id": "cantate-inni",
+      "code": "LA44",
+      "title": "CANTATE INNI",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantate inni a Dio, cantate in - ni!",
+      "lyricsSnippet": "Cantate inni a Dio, cantate in - ni! Cantate al nostro re, cantate in - ni!"
+    },
+    {
+      "id": "camminiamo-sulla-strada",
+      "code": "LA45",
+      "title": "CAMMINIAMO SULLA STRADA",
+      "sectionId": "C",
+      "firstLyricsLine": "Camminiamo sulla strada,",
+      "lyricsSnippet": "Camminiamo sulla strada, che han percorso i santi tuoi"
+    },
+    {
+      "id": "cantico-delle-creature",
+      "code": "LA46",
+      "title": "CANTICO DELLE CREATURE",
+      "sectionId": "C",
+      "firstLyricsLine": "Altissimo, onnipotente, bon Signore",
+      "lyricsSnippet": "Altissimo, onnipotente, bon Signore Tue son le laude la gloria et omne benedizione"
+    },
+    {
+      "id": "chiesa-viva",
+      "code": "LA49",
+      "title": "CHIESA VIVA",
+      "sectionId": "C",
+      "firstLyricsLine": "Chiesa di mattoni o di cemento,",
+      "lyricsSnippet": "Chiesa di mattoni o di cemento, un prefabbricato od una tenda:"
+    },
+    {
+      "id": "come-e-bello",
+      "code": "LA54",
+      "title": "COME E’ BELLO",
+      "sectionId": "C",
+      "firstLyricsLine": "Com’è bello, come dà gioia,",
+      "lyricsSnippet": "Com’è bello, come dà gioia, che i fratelli stiano insieme."
+    },
+    {
+      "id": "come-rami-d-olivo",
+      "code": "LA55",
+      "title": "COME RAMI D'OLIVO",
+      "sectionId": "C",
+      "firstLyricsLine": "Come rami d’olivo intorno alla mensa, Signor.",
+      "lyricsSnippet": "Come rami d’olivo intorno alla mensa, Signor. Co - sì sono i figli della Chiesa."
+    },
+    {
+      "id": "custodiscimi",
+      "code": "LA56",
+      "title": "CUSTODISCIMI",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho detto a Dio senza di te",
+      "lyricsSnippet": "Ho detto a Dio senza di te Alcun bene non ho, custodisci - mi"
+    },
+    {
+      "id": "dell-aurora-tu-sorgi-piu-bella",
+      "code": "LA59",
+      "title": "DELL'AURORA TU SORGI PIÙ BELLA",
+      "sectionId": "C",
+      "firstLyricsLine": "Dell'aurora Tu sorgi più bella,",
+      "lyricsSnippet": "Dell'aurora Tu sorgi più bella, coi tuoi raggi fai lieta la terra,"
+    },
+    {
+      "id": "dolce-legno-dolci-chiodi",
+      "code": "LA60",
+      "title": "DOLCE LEGNO DOLCI CHIODI",
+      "sectionId": "C",
+      "firstLyricsLine": "Dolce legno della vi - ta,",
+      "lyricsSnippet": "Dolce legno della vi - ta, che sostieni il nuovo frutto,"
+    },
+    {
+      "id": "come-sigillo-sul-tuo-cuore",
+      "code": "LA62",
+      "title": "COME SIGILLO SUL TUO CUORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Mettimi come sigillo sul tuo cuore,",
+      "lyricsSnippet": "Mettimi come sigillo sul tuo cuore, mettimi come sigillo sul tuo braccio,"
+    },
+    {
+      "id": "cosa-avremo-in-cambio",
+      "code": "LA64",
+      "title": "COSA AVREMO IN CAMBIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Noi che abbiamo lasciato ogni cosa",
+      "lyricsSnippet": "Noi che abbiamo lasciato ogni cosa per Te, cosa avremo in cambio?"
+    },
+    {
+      "id": "dio-dell-unita",
+      "code": "LA67",
+      "title": "DIO DELL’UNITA’",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu, Dio del cielo e della terra",
+      "lyricsSnippet": "Tu, Dio del cielo e della terra Che conosci i nostri giorni"
+    },
+    {
+      "id": "dove-regna-il-vero-amore",
+      "code": "LA68",
+      "title": "DOVE REGNA IL VERO AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Dove regna il vero amore,",
+      "lyricsSnippet": "Dove regna il vero amore, là è presente il Signore.(2 v)"
+    },
+    {
+      "id": "evenu-shalom-alejem",
+      "code": "LA71",
+      "title": "EVENU SHALOM ALEJEM",
+      "sectionId": "H",
+      "firstLyricsLine": "Evenu shalom alejem, Evenu shalom alejem,",
+      "lyricsSnippet": "Evenu shalom alejem, Evenu shalom alejem, Evenu shalom alejem"
+    },
+    {
+      "id": "e-mi-sorprende",
+      "code": "LA73",
+      "title": "E MI SORPRENDE",
+      "sectionId": "E",
+      "firstLyricsLine": "Io non ricordo che giorno era,",
+      "lyricsSnippet": "Io non ricordo che giorno era, la prima volta che t’incontrai"
+    },
+    {
+      "id": "dio-e-con-noi-emmanuel",
+      "code": "LA74",
+      "title": "DIO E’ CON NOI EMMANUEL",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio è con noi Emmanuel",
+      "lyricsSnippet": "Dio è con noi Emmanuel Dio è con noi Emmanuel"
+    },
+    {
+      "id": "dove-due-o-tre",
+      "code": "LA75",
+      "title": "DOVE DUE O TRE",
+      "sectionId": "E",
+      "firstLyricsLine": "Dove due o tre sono riuniti nel mio nome",
+      "lyricsSnippet": "Dove due o tre sono riuniti nel mio nome Io sarò con loro, pregherò con loro,"
+    },
+    {
+      "id": "dio-mio-perche-mi-hai",
+      "code": "LA77",
+      "title": "DIO MIO PERCHE’ MI HAI",
+      "sectionId": "C",
+      "firstLyricsLine": "ABBANDONATO?",
+      "lyricsSnippet": "ABBANDONATO? Dio mio, Dio mio, perché mi hai abbandonato ?"
+    },
+    {
+      "id": "dio-ha-visitato-il-suo-popolo",
+      "code": "LA79",
+      "title": "DIO HA VISITATO IL SUO POPOLO",
+      "sectionId": "C",
+      "firstLyricsLine": "Alleluia, alleluia Alleluia, alleluia",
+      "lyricsSnippet": "Alleluia, alleluia Alleluia, alleluia Dio ha visitato il suo popolo"
+    },
+    {
+      "id": "giorno-di-festa",
+      "code": "LA80",
+      "title": "GIORNO DI FESTA",
+      "sectionId": "C",
+      "firstLyricsLine": "Chiesa di Dio, canta con noi:",
+      "lyricsSnippet": "Chiesa di Dio, canta con noi: questo è il giorno che ha fatto il Signor! (2v)"
+    },
+    {
+      "id": "gioia-al-mondo",
+      "code": "LA82",
+      "title": "GIOIA AL MONDO",
+      "sectionId": "C",
+      "firstLyricsLine": "Gioia al mondo, il Creator è nato in mezzo a noi",
+      "lyricsSnippet": "Gioia al mondo, il Creator è nato in mezzo a noi i cuori allor si aprano con gioia alla sua luce"
+    },
+    {
+      "id": "francesco-vai",
+      "code": "LA83",
+      "title": "FRANCESCO VAI",
+      "sectionId": "C",
+      "firstLyricsLine": "Quello che io vivo non mi basta più",
+      "lyricsSnippet": "Quello che io vivo non mi basta più Tutto quel che avevo non mi serve più,"
+    },
+    {
+      "id": "e-natale",
+      "code": "LA84",
+      "title": "È NATALE",
+      "sectionId": "N",
+      "firstLyricsLine": "Ecco la stalla di Greccio con l’asino e il bove",
+      "lyricsSnippet": "Ecco la stalla di Greccio con l’asino e il bove e i pastori di coccio che accorrono già."
+    },
+    {
+      "id": "dov-e-carita",
+      "code": "LA85",
+      "title": "DOV’E’ CARITA’",
+      "sectionId": "C",
+      "firstLyricsLine": "Dov'è carità e amore, qui c'è Di o.",
+      "lyricsSnippet": "Dov'è carità e amore, qui c'è Di o. Ci ha riuniti tutti insieme Cristo amore:"
+    },
+    {
+      "id": "e-la-strada-si-apre",
+      "code": "LA88",
+      "title": "E LA STRADA SI APRE",
+      "sectionId": "C",
+      "firstLyricsLine": "Raggio che buca le nubi ed è già cielo aperto",
+      "lyricsSnippet": "Raggio che buca le nubi ed è già cielo aperto acqua che scende decisa scavando da sè"
+    },
+    {
+      "id": "e-se-non-fosse-un-sogno",
+      "code": "LA90",
+      "title": "E SE NON FOSSE UN SOGNO",
+      "sectionId": "C",
+      "firstLyricsLine": "E se non fosse un sogno? Se tutto fosse vero,",
+      "lyricsSnippet": "E se non fosse un sogno? Se tutto fosse vero, se fosse vero amore che il mondo fa girar?"
+    },
+    {
+      "id": "e-pace-intima",
+      "code": "LA91",
+      "title": "E’ PACE INTIMA",
+      "sectionId": "H",
+      "firstLyricsLine": "Le ore volano via il tempo si avvicina",
+      "lyricsSnippet": "Le ore volano via il tempo si avvicina Lungo la strada canto per Te"
+    },
+    {
+      "id": "e-bello-signore-restare",
+      "code": "LA92",
+      "title": "E’ BELLO, SIGNORE, RESTARE",
+      "sectionId": "C",
+      "firstLyricsLine": "E' bello, Signore, restare,",
+      "lyricsSnippet": "E' bello, Signore, restare, godere il tuo volto per sempre,"
+    },
+    {
+      "id": "fratello-sole-sorella-luna",
+      "code": "LA95",
+      "title": "FRATELLO SOLE, SORELLA LUNA",
+      "sectionId": "C",
+      "firstLyricsLine": "Dolce sentire come nel mio cuore,",
+      "lyricsSnippet": "Dolce sentire come nel mio cuore, O - ra umilmente sta nascendo amore..."
+    },
+    {
+      "id": "esci-dalla-tua-terra",
+      "code": "LA96",
+      "title": "ESCI DALLA TUA TERRA",
+      "sectionId": "C",
+      "firstLyricsLine": "Esci dalla tua terra e va dove ti mostrerò (x2)",
+      "lyricsSnippet": "Esci dalla tua terra e va dove ti mostrerò (x2) Abramo, non andare, non partire,"
+    },
+    {
+      "id": "grazie-signore",
+      "code": "LA97",
+      "title": "GRAZIE SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Se guardo la luna, il cielo e le stelle che tu hai creato,",
+      "lyricsSnippet": "Se guardo la luna, il cielo e le stelle che tu hai creato, che cos’è l’uomo perché ti ricordi di lui?"
+    },
+    {
+      "id": "gioite-sempre-nel-signore",
+      "code": "LA101",
+      "title": "GIOITE SEMPRE NEL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Gioite sempre nel Signo - re, alle - lu - ia.",
+      "lyricsSnippet": "Gioite sempre nel Signo - re, alle - lu - ia. il Signore è vici - no, alleluia alle - lu - ia."
+    },
+    {
+      "id": "gloria-a-dio-nell-alto-dei-cieli",
+      "code": "LA102",
+      "title": "GLORIA A DIO NELL’ALTO DEI CIELI",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria a Dio nell’alto dei cieli e pace in terra",
+      "lyricsSnippet": "Gloria a Dio nell’alto dei cieli e pace in terra agli uomini amati dal Signore:"
+    },
+    {
+      "id": "guarda-questa-offerta",
+      "code": "LA104",
+      "title": "GUARDA QUESTA OFFERTA",
+      "sectionId": "E",
+      "firstLyricsLine": "Guarda questa offerta, guarda noi, Signor",
+      "lyricsSnippet": "Guarda questa offerta, guarda noi, Signor tutto noi t’offriamo per unirci a Te"
+    },
+    {
+      "id": "gloria-gloria-gloria-a-dio",
+      "code": "LA105",
+      "title": "GLORIA, GLORIA, GLORIA A DIO",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria, gloria, gloria a Dio nell'alto dei cieli,",
+      "lyricsSnippet": "Gloria, gloria, gloria a Dio nell'alto dei cieli, ed in terra pace agli uomini di buona volontà."
+    },
+    {
+      "id": "il-canto-del-mare",
+      "code": "LA106",
+      "title": "IL CANTO DEL MARE",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo al Signore stupenda è la sua vittoria",
+      "lyricsSnippet": "Cantiamo al Signore stupenda è la sua vittoria Signore è il suo nome. Alleluja. ( 2v )"
+    },
+    {
+      "id": "giovanni",
+      "code": "LA107",
+      "title": "GIOVANNI",
+      "sectionId": "C",
+      "firstLyricsLine": "Voce di uno che grida nel deserto:",
+      "lyricsSnippet": "Voce di uno che grida nel deserto: \"Convertitevi, il regno è qui."
+    },
+    {
+      "id": "il-messia",
+      "code": "LA108",
+      "title": "IL MESSIA",
+      "sectionId": "C",
+      "firstLyricsLine": "E' venuto, è qui tra noi,",
+      "lyricsSnippet": "E' venuto, è qui tra noi, il Messia è disceso nelle strade!"
+    },
+    {
+      "id": "grande-e-il-signore",
+      "code": "LA111",
+      "title": "GRANDE E’ IL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Grande e degno di ogni lode è il Signore",
+      "lyricsSnippet": "Grande e degno di ogni lode è il Signore la città del nostro Dio è un luogo Santo"
+    },
+    {
+      "id": "il-cristo-e-qui",
+      "code": "LA114",
+      "title": "IL CRISTO E’ QUI",
+      "sectionId": "C",
+      "firstLyricsLine": "Il Cristo è qui. Allelu - ia",
+      "lyricsSnippet": "Il Cristo è qui. Allelu - ia E’ qui in mezzo a noi. Allelu - ia"
+    },
+    {
+      "id": "io-gridero",
+      "code": "LA115",
+      "title": "IO GRIDERO’",
+      "sectionId": "C",
+      "firstLyricsLine": "Dimmi una parola Cristo non andare,",
+      "lyricsSnippet": "Dimmi una parola Cristo non andare, se leggi nei miei occhi tu vedi, la mia fede."
+    },
+    {
+      "id": "grazie-gesu",
+      "code": "LA116",
+      "title": "GRAZIE, GESU'",
+      "sectionId": "C",
+      "firstLyricsLine": "Grazie, Gesù, della vita, grazie di mamma e papà,",
+      "lyricsSnippet": "Grazie, Gesù, della vita, grazie di mamma e papà, grazie del sole che splende e di una stella nell'oscurità."
+    },
+    {
+      "id": "il-pane-del-cammino",
+      "code": "LA118",
+      "title": "IL PANE DEL CAMMINO",
+      "sectionId": "E",
+      "firstLyricsLine": "II tuo popolo in cammino,",
+      "lyricsSnippet": "II tuo popolo in cammino, cerca in te la guida"
+    },
+    {
+      "id": "il-pane",
+      "code": "LA119",
+      "title": "IL PANE",
+      "sectionId": "C",
+      "firstLyricsLine": "Dove troveremo tutto il pane",
+      "lyricsSnippet": "Dove troveremo tutto il pane per sfamare tanta gente?"
+    },
+    {
+      "id": "il-regno-di-dio",
+      "code": "LA120",
+      "title": "IL REGNO DI DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Il regno di Dio è qui in mezzo a noi;",
+      "lyricsSnippet": "Il regno di Dio è qui in mezzo a noi; il regno di Dio viene in umiltà,"
+    },
+    {
+      "id": "in-notte-placida",
+      "code": "LA121",
+      "title": "IN NOTTE PLACIDA",
+      "sectionId": "N",
+      "firstLyricsLine": "In notte placida per muto sentier",
+      "lyricsSnippet": "In notte placida per muto sentier Dai campi del cielo è sceso l’amor"
+    },
+    {
+      "id": "illumina-il-cuore-mio",
+      "code": "LA123",
+      "title": "ILLUMINA IL CUORE MIO",
+      "sectionId": "C",
+      "firstLyricsLine": "E ti cerco nella notte di una strada senza meta",
+      "lyricsSnippet": "E ti cerco nella notte di una strada senza meta Quando dietro l’orizzonte già scompare la cometa"
+    },
+    {
+      "id": "il-pane-di-vita",
+      "code": "LA124",
+      "title": "IL PANE DI VITA",
+      "sectionId": "C",
+      "firstLyricsLine": "Sono il pane di vita,",
+      "lyricsSnippet": "Sono il pane di vita, chi viene a me non ha più fame,"
+    },
+    {
+      "id": "la-fede",
+      "code": "LA126",
+      "title": "LA FEDE",
+      "sectionId": "C",
+      "firstLyricsLine": "La fede sposta le montagne Cantiamo al Signore",
+      "lyricsSnippet": "La fede sposta le montagne Cantiamo al Signore La fede spezza le catene Cantiamo al Signore"
+    },
+    {
+      "id": "il-signore-e-il-mio-pastore",
+      "code": "LA127",
+      "title": "IL SIGNORE E’ IL MIO PASTORE",
+      "sectionId": "N",
+      "firstLyricsLine": "Il Signore è il mio pastore,",
+      "lyricsSnippet": "Il Signore è il mio pastore, nulla manca ad ogni attesa,"
+    },
+    {
+      "id": "inno-di-liberazione",
+      "code": "LA129",
+      "title": "INNO DI LIBERAZIONE",
+      "sectionId": "C",
+      "firstLyricsLine": "Il Signore libera i prigionieri",
+      "lyricsSnippet": "Il Signore libera i prigionieri Il Signore rialza chi è caduto"
+    },
+    {
+      "id": "innalzate-nei-cieli",
+      "code": "LA130",
+      "title": "INNALZATE NEI CIELI",
+      "sectionId": "N",
+      "firstLyricsLine": "Innalzate nei cieli lo sguardo:",
+      "lyricsSnippet": "Innalzate nei cieli lo sguardo: la salvezza di Dio è vi - ci - na."
+    },
+    {
+      "id": "io-credo-risorgero",
+      "code": "LA131",
+      "title": "IO CREDO RISORGERO’",
+      "sectionId": "C",
+      "firstLyricsLine": "Io credo: risorgerò",
+      "lyricsSnippet": "Io credo: risorgerò questo mio corpo vedrà il Salvatore!"
+    },
+    {
+      "id": "io-vedo-la-tua-luce",
+      "code": "LA132",
+      "title": "IO VEDO LA TUA LUCE",
+      "sectionId": "N",
+      "firstLyricsLine": "Tu sei prima di ogni cosa Prima d’ogni tempo",
+      "lyricsSnippet": "Tu sei prima di ogni cosa Prima d’ogni tempo D’ogni mio pensiero Prima della vita."
+    },
+    {
+      "id": "insieme-e-piu-bello",
+      "code": "LA133",
+      "title": "INSIEME È PIÙ BELLO",
+      "sectionId": "C",
+      "firstLyricsLine": "Dietro i volti sconosciuti",
+      "lyricsSnippet": "Dietro i volti sconosciuti della gente che mi sfiora, quanta vita,"
+    },
+    {
+      "id": "la-mia-anima-canta",
+      "code": "LA135",
+      "title": "LA MIA ANIMA CANTA",
+      "sectionId": "C",
+      "firstLyricsLine": "La mia anima canta la grandezza del Signore,",
+      "lyricsSnippet": "La mia anima canta la grandezza del Signore, il mio spirito esulta nel mio salvatore."
+    },
+    {
+      "id": "la-vera-gioia",
+      "code": "LA136",
+      "title": "LA VERA GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "La vera gioia nasce nella pace",
+      "lyricsSnippet": "La vera gioia nasce nella pace La vera gioia non consuma il cuore"
+    },
+    {
+      "id": "io-sono-il-pane-della-vita",
+      "code": "LA138",
+      "title": "IO SONO IL PANE DELLA VITA",
+      "sectionId": "C",
+      "firstLyricsLine": "Io sono il pane della vita:",
+      "lyricsSnippet": "Io sono il pane della vita: chi viene a me non ha più fame"
+    },
+    {
+      "id": "la-pace-sia-con-te",
+      "code": "LA139",
+      "title": "LA PACE SIA CON TE",
+      "sectionId": "H",
+      "firstLyricsLine": "E la pace si - a con te, pa - ce, pace",
+      "lyricsSnippet": "E la pace si - a con te, pa - ce, pace Ogni giorno sia con te, pace, pace"
+    },
+    {
+      "id": "la-mia-voce-signore-ascolta",
+      "code": "LA141",
+      "title": "LA MIA VOCE SIGNORE ASCOLTA",
+      "sectionId": "C",
+      "firstLyricsLine": "Fa#- Si- Fa#-",
+      "lyricsSnippet": "Fa#- Si- Fa#- Dall’abisso a Te grido Signore,"
+    },
+    {
+      "id": "l-ora-delle-stelle",
+      "code": "LA144",
+      "title": "L'ORA DELLE STELLE",
+      "sectionId": "N",
+      "firstLyricsLine": "Fratelli è l’ora delle stelle",
+      "lyricsSnippet": "Fratelli è l’ora delle stelle fratelli, è l’ora della pace"
+    },
+    {
+      "id": "le-mani-alzate",
+      "code": "LA145",
+      "title": "LE MANI ALZATE",
+      "sectionId": "E",
+      "firstLyricsLine": "Le mani alzate verso te Signor",
+      "lyricsSnippet": "Le mani alzate verso te Signor Per offrirti il mondo"
+    },
+    {
+      "id": "le-tue-mani",
+      "code": "LA146",
+      "title": "LE TUE MANI",
+      "sectionId": "P",
+      "firstLyricsLine": "Le tue mani son piene di fiori",
+      "lyricsSnippet": "Le tue mani son piene di fiori Dove li portavi fratello mio?"
+    },
+    {
+      "id": "lodate-lodate",
+      "code": "LA147",
+      "title": "LODATE, LODATE",
+      "sectionId": "C",
+      "firstLyricsLine": "Lodate, lodate, lodate il Signore,",
+      "lyricsSnippet": "Lodate, lodate, lodate il Signore, cantate, cantate, cantate il Suo Nome."
+    },
+    {
+      "id": "lodate-cieli-dei-cieli",
+      "code": "LA148",
+      "title": "LODATE CIELI DEI CIELI",
+      "sectionId": "C",
+      "firstLyricsLine": "Lodate cieli dei cieli il Signore!",
+      "lyricsSnippet": "Lodate cieli dei cieli il Signore! Cantate da tutta la terra al Signore!"
+    },
+    {
+      "id": "lode-e-gloria-a-te",
+      "code": "LA150",
+      "title": "LODE E GLORIA A TE",
+      "sectionId": "B",
+      "firstLyricsLine": "Lode e gloria a Te, lode e gloria a Te",
+      "lyricsSnippet": "Lode e gloria a Te, lode e gloria a Te Luce del mattino, lode e gloria a Te! (2volte)"
+    },
+    {
+      "id": "madre-della-speranza",
+      "code": "LA151",
+      "title": "MADRE DELLA SPERANZA",
+      "sectionId": "M",
+      "firstLyricsLine": "Madre della speranza",
+      "lyricsSnippet": "Madre della speranza Veglia sul nostro cammino"
+    },
+    {
+      "id": "le-mie-mani-son-piene",
+      "code": "LA152",
+      "title": "LE MIE MANI SON PIENE",
+      "sectionId": "C",
+      "firstLyricsLine": "Le mie mani son piene di benedizioni",
+      "lyricsSnippet": "Le mie mani son piene di benedizioni Le mie mani son piene di benedizioni"
+    },
+    {
+      "id": "lo-spirito-del-signore",
+      "code": "LA153",
+      "title": "LO SPIRITO DEL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Lo Spirito del Signore è su di me",
+      "lyricsSnippet": "Lo Spirito del Signore è su di me Lo Spirito con l’unzione mi ha consacrato"
+    },
+    {
+      "id": "l-unico-maestro",
+      "code": "LA155",
+      "title": "L'UNICO MAESTRO",
+      "sectionId": "C",
+      "firstLyricsLine": "Le mie mani, con le tue, possono fare meraviglie,",
+      "lyricsSnippet": "Le mie mani, con le tue, possono fare meraviglie, possono stringere e perdonare e costruire cattedrali."
+    },
+    {
+      "id": "lode-a-te-o-cristo",
+      "code": "LA157",
+      "title": "LODE A TE O CRISTO",
+      "sectionId": "E",
+      "firstLyricsLine": "Lode a te o Cristo Re dell’eterna glo - ria! (2v)",
+      "lyricsSnippet": "Lode a te o Cristo Re dell’eterna glo - ria! (2v)"
+    },
+    {
+      "id": "mira-il-tuo-popolo",
+      "code": "LA160",
+      "title": "MIRA IL TUO POPOLO",
+      "sectionId": "C",
+      "firstLyricsLine": "Mira il tuo popolo o bella Signora",
+      "lyricsSnippet": "Mira il tuo popolo o bella Signora che pien di giubilo oggi ti onora,"
+    },
+    {
+      "id": "pace-dei-pesci",
+      "code": "LA161",
+      "title": "PACE DEI PESCI",
+      "sectionId": "H",
+      "firstLyricsLine": "Pace, pace, pace in terra agli uomini,",
+      "lyricsSnippet": "Pace, pace, pace in terra agli uomini, e nel mare ai pesci, nel cielo agli uccelli."
+    },
+    {
+      "id": "mani",
+      "code": "LA162",
+      "title": "MANI",
+      "sectionId": "C",
+      "firstLyricsLine": "Il sole scende, è quasi notte ormai",
+      "lyricsSnippet": "Il sole scende, è quasi notte ormai Dai, restiamo ancora insieme un po’"
+    },
+    {
+      "id": "madre-io-vorrei",
+      "code": "LA163",
+      "title": "MADRE IO VORREI",
+      "sectionId": "M",
+      "firstLyricsLine": "Io vorrei tanto parlare con te di quel Figlio che amavi",
+      "lyricsSnippet": "Io vorrei tanto parlare con te di quel Figlio che amavi Io vorrei tanto ascoltare da te quello che pensavi"
+    },
+    {
+      "id": "noi-canteremo-gloria-a-te",
+      "code": "LA165",
+      "title": "NOI CANTEREMO GLORIA A TE",
+      "sectionId": "B",
+      "firstLyricsLine": "Noi canteremo gloria a Te Padre che dai la Vi - ta",
+      "lyricsSnippet": "Noi canteremo gloria a Te Padre che dai la Vi - ta Dio d’immensa ca - ri - tà Trinità infini - ta."
+    },
+    {
+      "id": "ora-sei-qui",
+      "code": "LA166",
+      "title": "ORA SEI QUI",
+      "sectionId": "C",
+      "firstLyricsLine": "Ora sei qui, Signore Gesù",
+      "lyricsSnippet": "Ora sei qui, Signore Gesù Preghi con noi, canti con noi"
+    },
+    {
+      "id": "nelle-tue-mani",
+      "code": "LA169",
+      "title": "NELLE TUE MANI",
+      "sectionId": "E",
+      "firstLyricsLine": "Nelle tue mani affido la vita",
+      "lyricsSnippet": "Nelle tue mani affido la vita Dio mia salvezza sei tu"
+    },
+    {
+      "id": "nella-chiesa-del-signore",
+      "code": "LA171",
+      "title": "NELLA CHIESA DEL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Nella chiesa del Signore tutti gli uomini verranno",
+      "lyricsSnippet": "Nella chiesa del Signore tutti gli uomini verranno se bussando alla sua porta solo amore troveranno."
+    },
+    {
+      "id": "mi-pensamiento-eres-tu",
+      "code": "LA172",
+      "title": "MI PENSAMIENTO ERES TU",
+      "sectionId": "C",
+      "firstLyricsLine": "Mi pensamiento eres Tu, Senor",
+      "lyricsSnippet": "Mi pensamiento eres Tu, Senor Mi pensamiento eres Tu, Senor"
+    },
+    {
+      "id": "o-dio-un-cuore-puro",
+      "code": "LA173",
+      "title": "O DIO UN CUORE PURO",
+      "sectionId": "C",
+      "firstLyricsLine": "Solo: O Dio un cuore puro rinnova in me",
+      "lyricsSnippet": "Solo: O Dio un cuore puro rinnova in me con il tuo Spirito, lo Spirito di Santità,"
+    },
+    {
+      "id": "o-dio-tu-sei-il-mio-dio",
+      "code": "LA174",
+      "title": "O DIO, TU SEI IL MIO DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "O Dio, Tu sei il mio Di - o, ti cerco dall’auro - ra,",
+      "lyricsSnippet": "O Dio, Tu sei il mio Di - o, ti cerco dall’auro - ra, di Te ha sete l'anima mi - a,"
+    },
+    {
+      "id": "osanna-al-figlio-di-davide",
+      "code": "LA175",
+      "title": "OSANNA AL FIGLIO DI DAVIDE",
+      "sectionId": "C",
+      "firstLyricsLine": "Osanna al figlio di David Osanna al Redentor.",
+      "lyricsSnippet": "Osanna al figlio di David Osanna al Redentor. Apritevi, o porte eterne: avanzi il Re della gloria."
+    },
+    {
+      "id": "o-amore-ineffabile",
+      "code": "LA176",
+      "title": "O AMORE INEFFABILE",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu abisso di carità, pare che sì pazzo delle tue creature.",
+      "lyricsSnippet": "Tu abisso di carità, pare che sì pazzo delle tue creature. Chi ti muove a fare tanta misericordia? L’Amo - re."
+    },
+    {
+      "id": "pace-a-te-fratello-mio",
+      "code": "LA178",
+      "title": "PACE A TE FRATELLO MIO",
+      "sectionId": "H",
+      "firstLyricsLine": "Pace a te fratello mio, pace a te sorella mia,",
+      "lyricsSnippet": "Pace a te fratello mio, pace a te sorella mia, pace a tutti gli uomini di buona volontà."
+    },
+    {
+      "id": "non-vive-di-solo-pane",
+      "code": "LA180",
+      "title": "NON VIVE DI SOLO PANE",
+      "sectionId": "C",
+      "firstLyricsLine": "Non vive di solo pane l'uomo,",
+      "lyricsSnippet": "Non vive di solo pane l'uomo, ma d'ogni parola del Signore."
+    },
+    {
+      "id": "purificami-o-signore",
+      "code": "LA181",
+      "title": "PURIFICAMI. O SIGNORE",
+      "sectionId": "E",
+      "firstLyricsLine": "Puri - ficami, o Signore.",
+      "lyricsSnippet": "Puri - ficami, o Signore. Sarò più bianco della neve"
+    },
+    {
+      "id": "ora-e-tempo-di-gioia",
+      "code": "LA182",
+      "title": "ORA E’ TEMPO DI GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "L’eco torna alle antiche val - li",
+      "lyricsSnippet": "L’eco torna alle antiche val - li La sua voce non porta più"
+    },
+    {
+      "id": "olio-di-letizia",
+      "code": "LA184",
+      "title": "OLIO DI LETIZIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Olio che consacra, olio che profuma",
+      "lyricsSnippet": "Olio che consacra, olio che profuma Olio che risana le ferite che illumina"
+    },
+    {
+      "id": "padre-mio-ti-chiamero",
+      "code": "LA185",
+      "title": "PADRE MIO TI CHIAMERO’",
+      "sectionId": "C",
+      "firstLyricsLine": "Nel silenzio del deserto soffia il vento del tuo amore",
+      "lyricsSnippet": "Nel silenzio del deserto soffia il vento del tuo amore Mi hai condotto dove il cuore può ascoltare solo Te"
+    },
+    {
+      "id": "ora-che-il-giorno-finisce",
+      "code": "LA187",
+      "title": "ORA CHE IL GIORNO FINISCE",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio, quante volte ho pensato la sera",
+      "lyricsSnippet": "Dio, quante volte ho pensato la sera Di non averti incontrato per niente"
+    },
+    {
+      "id": "ogni-giorno",
+      "code": "LA191",
+      "title": "OGNI GIORNO",
+      "sectionId": "C",
+      "firstLyricsLine": "Se il mondo finisse domani,",
+      "lyricsSnippet": "Se il mondo finisse domani, varrebbe ugualmente la pena"
+    },
+    {
+      "id": "padre-mio",
+      "code": "LA192",
+      "title": "PADRE MIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Padre mio io mi abbandono a Te",
+      "lyricsSnippet": "Padre mio io mi abbandono a Te di me fai quello che ti piace"
+    },
+    {
+      "id": "per-sempre-re-della-gloria",
+      "code": "LA193",
+      "title": "PER SEMPRE RE DELLA GLORIA",
+      "sectionId": "C",
+      "firstLyricsLine": "A te Signore mio Dio, a te che siedi nei cie - li",
+      "lyricsSnippet": "A te Signore mio Dio, a te che siedi nei cie - li Il mio canto innalzo con gio - ia"
+    },
+    {
+      "id": "popoli-tutti-lodate-il-signore",
+      "code": "LA196",
+      "title": "POPOLI TUTTI, LODATE IL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Po - poli tutti, lodate il Signore: Allelu - ia.",
+      "lyricsSnippet": "Po - poli tutti, lodate il Signore: Allelu - ia. Cie - li e terra, cantate al suo Amore: Allelu - ia."
+    },
+    {
+      "id": "risuscito",
+      "code": "LA197",
+      "title": "RISUSCITO'",
+      "sectionId": "C",
+      "firstLyricsLine": "Risuscitò, risuscitò, risuscitò, alleluja!",
+      "lyricsSnippet": "Risuscitò, risuscitò, risuscitò, alleluja! Alleluja, alleluja, alleluja, Risuscitò!"
+    },
+    {
+      "id": "pange-lingua",
+      "code": "LA198",
+      "title": "PANGE LINGUA",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Genti tut - te, proclama - te",
+      "lyricsSnippet": "1. Genti tut - te, proclama - te il mistero del Signor,"
+    },
+    {
+      "id": "perche-tu-sei-con-me",
+      "code": "LA199",
+      "title": "PERCHE’ TU SEI CON ME",
+      "sectionId": "C",
+      "firstLyricsLine": "Solo tu sei il mio pastore",
+      "lyricsSnippet": "Solo tu sei il mio pastore niente mai mi mancherà"
+    },
+    {
+      "id": "questo-e-il-mio-comandamento",
+      "code": "LA200",
+      "title": "QUESTO E’ IL MIO COMANDAMENTO",
+      "sectionId": "F",
+      "firstLyricsLine": "Questo è il mio comandamento",
+      "lyricsSnippet": "Questo è il mio comandamento che vi amia - te come io ho amato voi,"
+    },
+    {
+      "id": "saldo-e-il-mio-cuore-dio",
+      "code": "LA201",
+      "title": "SALDO E’ IL MIO CUORE, DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Saldo è il mio cuore, Dio,",
+      "lyricsSnippet": "Saldo è il mio cuore, Dio, voglio cantare al Signor."
+    },
+    {
+      "id": "preconio-pasquale",
+      "code": "LA202",
+      "title": "PRECONIO PASQUALE.",
+      "sectionId": "P",
+      "firstLyricsLine": "C. Esulti il coro degli Angeli, esulti l'assemblea Celeste",
+      "lyricsSnippet": "C. Esulti il coro degli Angeli, esulti l'assemblea Celeste E un inno di gloria saluti il trionfo del Signore risorto."
+    },
+    {
+      "id": "perfetta-letizia",
+      "code": "LA203",
+      "title": "PERFETTA LETIZIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Frate Leone, agnello del Signore",
+      "lyricsSnippet": "Frate Leone, agnello del Signore per quanto possa un frate sull'acqua camminare"
+    },
+    {
+      "id": "pietro-vai",
+      "code": "LA204",
+      "title": "PIETRO VAI",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore, ho pescato tutto il giorno",
+      "lyricsSnippet": "Signore, ho pescato tutto il giorno Le reti son rimaste sempre vuote"
+    },
+    {
+      "id": "quando-bussero",
+      "code": "LA206",
+      "title": "QUANDO BUSSERO’",
+      "sectionId": "E",
+      "firstLyricsLine": "Quando busserò alla Tua porta avrò fatto tanta strada",
+      "lyricsSnippet": "Quando busserò alla Tua porta avrò fatto tanta strada Avrò piedi stanchi e nu - di, avrò mani bianche e pure,"
+    },
+    {
+      "id": "raccogli-o-padre",
+      "code": "LA210",
+      "title": "RACCOGLI O PADRE",
+      "sectionId": "C",
+      "firstLyricsLine": "Raccogli o Padre i tuoi figli nel Mistero d'Amor",
+      "lyricsSnippet": "Raccogli o Padre i tuoi figli nel Mistero d'Amor che portò tra noi il Salvato - re Gesù!"
+    },
+    {
+      "id": "parabola-del-seminatore",
+      "code": "LA212",
+      "title": "PARABOLA DEL SEMINATORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Uscì il seminatore a gettare il seme",
+      "lyricsSnippet": "Uscì il seminatore a gettare il seme Con la bisaccia piena della sua Parola"
+    },
+    {
+      "id": "quale-gioia",
+      "code": "LA213",
+      "title": "QUALE GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Quale gioia mi dissero",
+      "lyricsSnippet": "Quale gioia mi dissero Andremo alla casa del Si - gno - re"
+    },
+    {
+      "id": "quando-israele-usci-dall-egitto",
+      "code": "LA215",
+      "title": "QUANDO ISRAELE USCI’ DALL’EGITTO",
+      "sectionId": "C",
+      "firstLyricsLine": "Quando Israele uscì dall'Egitto",
+      "lyricsSnippet": "Quando Israele uscì dall'Egitto la casa di Giacobbe da un popolo barbaro,"
+    },
+    {
+      "id": "tua-palavra",
+      "code": "LA217",
+      "title": "TUA PALAVRA",
+      "sectionId": "C",
+      "firstLyricsLine": "Tua palavra è luz do meu caminho!",
+      "lyricsSnippet": "Tua palavra è luz do meu caminho! Luz do meu caminho, meu Deus!"
+    },
+    {
+      "id": "re-di-gloria",
+      "code": "LA219",
+      "title": "RE DI GLORIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho incontrato Te Gesù",
+      "lyricsSnippet": "Ho incontrato Te Gesù e ogni cosa in me è cambiata"
+    },
+    {
+      "id": "resta-con-noi",
+      "code": "LA220",
+      "title": "RESTA CON NOI",
+      "sectionId": "C",
+      "firstLyricsLine": "Resta con noi Signore la sera.",
+      "lyricsSnippet": "Resta con noi Signore la sera. Resta con noi e avremo la pace."
+    },
+    {
+      "id": "silenzioso-dio",
+      "code": "LA222",
+      "title": "SILENZIOSO DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Io ti amo silenzioso Dio",
+      "lyricsSnippet": "Io ti amo silenzioso Dio Che ti nascondi dentro un po’ di pane"
+    },
+    {
+      "id": "questa-e-la-mia-fede",
+      "code": "LA225",
+      "title": "QUESTA E’ LA MIA FEDE",
+      "sectionId": "C",
+      "firstLyricsLine": "Questa e' la mia fede, proclamarti mio re,",
+      "lyricsSnippet": "Questa e' la mia fede, proclamarti mio re, unico Dio, grande Signore."
+    },
+    {
+      "id": "samuel",
+      "code": "LA227",
+      "title": "SAMUEL",
+      "sectionId": "C",
+      "firstLyricsLine": "Samuel! Samuel! Samuel! Samuel!",
+      "lyricsSnippet": "Samuel! Samuel! Samuel! Samuel! La mia notte non finisce mai"
+    },
+    {
+      "id": "se-qualcuno-ha-dei-beni",
+      "code": "LA229",
+      "title": "SE QUALCUNO HA DEI BENI",
+      "sectionId": "E",
+      "firstLyricsLine": "Se qualcuno ha dei beni in questo mondo",
+      "lyricsSnippet": "Se qualcuno ha dei beni in questo mondo e chiudesse il cuore agli altri nel dolor,"
+    },
+    {
+      "id": "sequenza-di-pentecoste",
+      "code": "LA231",
+      "title": "SEQUENZA DI PENTECOSTE",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni Santo Spirito manda a noi dal cielo",
+      "lyricsSnippet": "Vieni Santo Spirito manda a noi dal cielo Un raggio della tua luce vieni Padre dei poveri"
+    },
+    {
+      "id": "segni-del-tuo-amore",
+      "code": "LA232",
+      "title": "SEGNI DEL TUO AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Mille e mille grani nelle spighe d'oro",
+      "lyricsSnippet": "Mille e mille grani nelle spighe d'oro mandano fragranza e danno gioia al cuore,"
+    },
+    {
+      "id": "santa-maria-del-cammino",
+      "code": "LA233",
+      "title": "SANTA MARIA DEL CAMMINO",
+      "sectionId": "M",
+      "firstLyricsLine": "Mentre trascorre la vi - ta solo tu non sei mai.",
+      "lyricsSnippet": "Mentre trascorre la vi - ta solo tu non sei mai. Santa Maria del cammi - no sempre sarà con te."
+    },
+    {
+      "id": "san-francesco",
+      "code": "LA234",
+      "title": "SAN FRANCESCO",
+      "sectionId": "C",
+      "firstLyricsLine": "O Signore, fa di me uno strumento",
+      "lyricsSnippet": "O Signore, fa di me uno strumento Fa di me uno strumento della Tua pace"
+    },
+    {
+      "id": "tantum-ergo",
+      "code": "LA236",
+      "title": "TANTUM ERGO",
+      "sectionId": "C",
+      "firstLyricsLine": "Tantum ergo Sacramentum Veneremur cernui",
+      "lyricsSnippet": "Tantum ergo Sacramentum Veneremur cernui Et antiquum documentum Novo cedat ritui"
+    },
+    {
+      "id": "ti-seguiro",
+      "code": "LA239",
+      "title": "TI SEGUIRO’",
+      "sectionId": "C",
+      "firstLyricsLine": "Ti seguirò, Ti seguirò o Signore",
+      "lyricsSnippet": "Ti seguirò, Ti seguirò o Signore E nella Tua strada camminerò."
+    },
+    {
+      "id": "tu-scendi-dalle-stelle",
+      "code": "LA242",
+      "title": "TU SCENDI DALLE STELLE",
+      "sectionId": "N",
+      "firstLyricsLine": "Tu scendi dalle stelle O Re del cielo",
+      "lyricsSnippet": "Tu scendi dalle stelle O Re del cielo E vieni in una grotta al freddo e al gelo"
+    },
+    {
+      "id": "tu-ci-chiami-alla-festa",
+      "code": "LA243",
+      "title": "TU CI CHIAMI ALLA FESTA",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu ci chiami alla festa di una grande amicizia,",
+      "lyricsSnippet": "Tu ci chiami alla festa di una grande amicizia, noi veniamo, Signore, all’incontro con te."
+    },
+    {
+      "id": "shema-israel",
+      "code": "LA245",
+      "title": "SHEMA’ ISRAEL",
+      "sectionId": "C",
+      "firstLyricsLine": "Shemà, shemà, shemà Israel. (2v)",
+      "lyricsSnippet": "Shemà, shemà, shemà Israel. (2v) Ascolta Israele, ascolta queste mie parole"
+    },
+    {
+      "id": "sia-questa-o-madre",
+      "code": "LA247",
+      "title": "SIA QUESTA O MADRE",
+      "sectionId": "M",
+      "firstLyricsLine": "Fa#- /Mi Si- Do#- Fa#-7 Re 7+",
+      "lyricsSnippet": "Fa#- /Mi Si- Do#- Fa#-7 Re 7+ Nell'ar - co della vita, noi cerchiamo"
+    },
+    {
+      "id": "sotto-il-tuo-manto",
+      "code": "LA248",
+      "title": "SOTTO IL TUO MANTO",
+      "sectionId": "C",
+      "firstLyricsLine": "Sotto il tuo manto nella tua protezione,",
+      "lyricsSnippet": "Sotto il tuo manto nella tua protezione, Madre di Dio, noi cerchiamo rifugio."
+    },
+    {
+      "id": "tu-dio-amore",
+      "code": "LA250",
+      "title": "TU DIO AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Se l’amore è da Te Tu sei amo - re",
+      "lyricsSnippet": "Se l’amore è da Te Tu sei amo - re E come l’alba che vince la notte Tu vie - ni"
+    },
+    {
+      "id": "trasformi-in-gesu",
+      "code": "LA252",
+      "title": "TRASFORMI IN GESU’",
+      "sectionId": "C",
+      "firstLyricsLine": "Nella terra baciata dal sole",
+      "lyricsSnippet": "Nella terra baciata dal sole Lavorata dall’umanità"
+    },
+    {
+      "id": "te-al-centro-del-mio-cuore",
+      "code": "LA253",
+      "title": "TE AL CENTRO DEL MIO CUORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho bisogno di incontrarti nel mio cuore",
+      "lyricsSnippet": "Ho bisogno di incontrarti nel mio cuore di trovare Te, di stare insieme a Te:"
+    },
+    {
+      "id": "ti-esalto",
+      "code": "LA255",
+      "title": "TI ESALTO",
+      "sectionId": "C",
+      "firstLyricsLine": "Ti esalto Dio mio Re, canterò in eterno a Te",
+      "lyricsSnippet": "Ti esalto Dio mio Re, canterò in eterno a Te io voglio lodarti Signor e benedirti alleluia."
+    },
+    {
+      "id": "un-solo-pane-un-solo-corpo",
+      "code": "LA256",
+      "title": "UN SOLO PANE UN SOLO CORPO",
+      "sectionId": "C",
+      "firstLyricsLine": "Un solo Pane un solo Corpo;",
+      "lyricsSnippet": "Un solo Pane un solo Corpo; ci unisca tutti l’amore di Di - o"
+    },
+    {
+      "id": "ti-ringrazio",
+      "code": "LA257",
+      "title": "TI RINGRAZIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Ti ringrazio o mio Signore",
+      "lyricsSnippet": "Ti ringrazio o mio Signore Per le cose che sono nel mondo"
+    },
+    {
+      "id": "tu-sarai-profeta",
+      "code": "LA258",
+      "title": "TU SARAI PROFETA",
+      "sectionId": "C",
+      "firstLyricsLine": "Una luce che rischia - ra Una lampada che ar - de",
+      "lyricsSnippet": "Una luce che rischia - ra Una lampada che ar - de U - na voce che procla - ma"
+    },
+    {
+      "id": "t-adoriam-ostia-divina",
+      "code": "LA259",
+      "title": "T'ADORIAM OSTIA DIVINA",
+      "sectionId": "C",
+      "firstLyricsLine": "T' adoriam Ostia divina,",
+      "lyricsSnippet": "T' adoriam Ostia divina, t'adoriam, Ostia d'amor!"
+    },
+    {
+      "id": "voglio-cantare-al-signor",
+      "code": "LA260",
+      "title": "VOGLIO CANTARE AL SIGNOR",
+      "sectionId": "C",
+      "firstLyricsLine": "Voglio cantare al Signor e dare gloria a lui,",
+      "lyricsSnippet": "Voglio cantare al Signor e dare gloria a lui, voglio cantare per sempre al Signor . (2 v)"
+    },
+    {
+      "id": "tu-sei-signore",
+      "code": "LA261",
+      "title": "TU SEI, SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu sei Signore il Padre della vita",
+      "lyricsSnippet": "Tu sei Signore il Padre della vita Misericordia giustizia e fedeltà"
+    },
+    {
+      "id": "vale-la-pena",
+      "code": "LA262",
+      "title": "VALE LA PENA",
+      "sectionId": "C",
+      "firstLyricsLine": "Vale la pena viver per un amore",
+      "lyricsSnippet": "Vale la pena viver per un amore la vita è una ricerca"
+    },
+    {
+      "id": "vieni-vieni-gesu",
+      "code": "LA263",
+      "title": "VIENI VIENI GESU’",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni, vieni, Gesù, vieni a noi Salvator:",
+      "lyricsSnippet": "Vieni, vieni, Gesù, vieni a noi Salvator: vieni, vieni, Gesù, porta al mondo l'amor."
+    },
+    {
+      "id": "vieni-vieni-spirito-d-amore",
+      "code": "LA264",
+      "title": "VIENI, VIENI SPIRITO D’AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni, vieni spirito d'amore",
+      "lyricsSnippet": "Vieni, vieni spirito d'amore ad insegnar le cose di Dio,"
+    },
+    {
+      "id": "un-giorno-tra-le-mie-mani",
+      "code": "LA267",
+      "title": "UN GIORNO TRA LE MIE MANI",
+      "sectionId": "C",
+      "firstLyricsLine": "Un giorno tra le mie mani",
+      "lyricsSnippet": "Un giorno tra le mie mani Un giorno qui davanti a me"
+    },
+    {
+      "id": "vi-daro-un-cuore-nuovo",
+      "code": "LA271",
+      "title": "VI DARO’ UN CUORE NUOVO",
+      "sectionId": "C",
+      "firstLyricsLine": "Vi darò un cuore nuovo",
+      "lyricsSnippet": "Vi darò un cuore nuovo Metterò dentro di voi uno spirito nuovo!"
+    },
+    {
+      "id": "vieni-qui-tra-noi",
+      "code": "LA272",
+      "title": "VIENI QUI TRA NOI",
+      "sectionId": "C",
+      "firstLyricsLine": "Vie - ni qui tra noi",
+      "lyricsSnippet": "Vie - ni qui tra noi come fiamma che scende dal cielo."
+    },
+    {
+      "id": "vieni-signore",
+      "code": "LA274",
+      "title": "VIENI SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni Signore vieni in mezzo a noi",
+      "lyricsSnippet": "Vieni Signore vieni in mezzo a noi Og - gi è giorno di fes - ta."
+    },
+    {
+      "id": "vieni-santo-spirito",
+      "code": "LA275",
+      "title": "VIENI SANTO SPIRITO",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni Santo Spirito Vieni Santo Spirito",
+      "lyricsSnippet": "Vieni Santo Spirito Vieni Santo Spirito Riempi i cuori dei tuoi fedeli"
+    },
+    {
+      "id": "mfumu-e",
+      "code": "LA276",
+      "title": "MFUMU E’",
+      "sectionId": "C",
+      "firstLyricsLine": "É é é Mfumu é yamba makabu (2v)",
+      "lyricsSnippet": "É é é Mfumu é yamba makabu (2v) Yamba makabu ya ki menga na béto (2v)"
+    },
+    {
+      "id": "oggi-e-nato-per-noi",
+      "code": "LA277",
+      "title": "OGGI E’ NATO PER NOI",
+      "sectionId": "C",
+      "firstLyricsLine": "Oggi è nato per noi il Salvatore del mondo.",
+      "lyricsSnippet": "Oggi è nato per noi il Salvatore del mondo. Oggi è nato per noi"
+    },
+    {
+      "id": "vieni-dal-libano",
+      "code": "LA278",
+      "title": "VIENI DAL LIBANO",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni dal Libano, mia sposa",
+      "lyricsSnippet": "Vieni dal Libano, mia sposa Vieni dal Libano, vieni."
+    },
+    {
+      "id": "un-nuovo-giorno",
+      "code": "LA279",
+      "title": "UN NUOVO GIORNO",
+      "sectionId": "C",
+      "firstLyricsLine": "Un nuovo giorno è qui per noi,",
+      "lyricsSnippet": "Un nuovo giorno è qui per noi, Sol-7 Do7/4 7"
+    },
+    {
+      "id": "la-gioia",
+      "code": "LA282",
+      "title": "LA GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Ascolta il rumore delle onde del mare",
+      "lyricsSnippet": "Ascolta il rumore delle onde del mare ed il canto notturno dei mille pensieri dell’umanità"
+    },
+    {
+      "id": "oracao-pela-familia",
+      "code": "LA283",
+      "title": "ORACAO PELA FAMILIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Que nenhuma familìa comece em qualquer de repente",
+      "lyricsSnippet": "Que nenhuma familìa comece em qualquer de repente Que nenhuma familìa termine por falta de amor"
+    },
+    {
+      "id": "spezziamo-il-pane",
+      "code": "LA284",
+      "title": "SPEZZIAMO IL PANE",
+      "sectionId": "C",
+      "firstLyricsLine": "Spezziamo il pane, mangiamo il corpo di Gesù. (2v)",
+      "lyricsSnippet": "Spezziamo il pane, mangiamo il corpo di Gesù. (2v) Anche se in molti, siamo un sol corpo,"
+    },
+    {
+      "id": "ora-e-tempo-di-andare",
+      "code": "LA285",
+      "title": "ORA E’ TEMPO DI ANDARE",
+      "sectionId": "C",
+      "firstLyricsLine": "Oggi abbiamo incontrato il Signore tra noi",
+      "lyricsSnippet": "Oggi abbiamo incontrato il Signore tra noi e ci siamo fermati con lui."
+    },
+    {
+      "id": "l-acqua-la-terra-il-cielo",
+      "code": "LA288",
+      "title": "L'ACQUA, LA TERRA, IL CIELO",
+      "sectionId": "C",
+      "firstLyricsLine": "In principio la terra Dio creò,",
+      "lyricsSnippet": "In principio la terra Dio creò, con i monti i prati e i suoi color"
+    },
+    {
+      "id": "lodi-di-dio-altissimo",
+      "code": "LA289",
+      "title": "LODI DI DIO ALTISSIMO",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu sei Santo, Signore Dio",
+      "lyricsSnippet": "Tu sei Santo, Signore Dio Fai cose grandi, meravigliose,"
+    },
+    {
+      "id": "il-canto-dell-amore",
+      "code": "LA290",
+      "title": "IL CANTO DELL’AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Se dovrai attraversare il deserto,",
+      "lyricsSnippet": "Se dovrai attraversare il deserto, non temere, io sarò con te."
+    },
+    {
+      "id": "fa-che-io-creda",
+      "code": "LA291",
+      "title": "FA CHE IO CREDA",
+      "sectionId": "C",
+      "firstLyricsLine": "Nel mio cuore credo che Tu sei il Figlio di Dio.",
+      "lyricsSnippet": "Nel mio cuore credo che Tu sei il Figlio di Dio. Tra le Tue mani, Signore,"
+    },
+    {
+      "id": "laudato-sii-mio-dolcissimo",
+      "code": "LA292",
+      "title": "LAUDATO SII, MIO DOLCISSIMO",
+      "sectionId": "C",
+      "firstLyricsLine": "SIGNORE",
+      "lyricsSnippet": "SIGNORE Laudato sii mio dolcissimo Signore,"
+    },
+    {
+      "id": "voi-siete-di-dio",
+      "code": "LA295",
+      "title": "VOI SIETE DI DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "(UOMINI)",
+      "lyricsSnippet": "(UOMINI) Tutte le stelle della not - te"
+    },
+    {
+      "id": "benedizione-di-santa-chiara",
+      "code": "LA297",
+      "title": "BENEDIZIONE DI SANTA CHIARA",
+      "sectionId": "C",
+      "firstLyricsLine": "Vi benedico nella vita mia,",
+      "lyricsSnippet": "Vi benedico nella vita mia, vi benedico dopo questa vita mia"
+    },
+    {
+      "id": "e-sia-la-pace",
+      "code": "LA298",
+      "title": "E SIA LA PACE",
+      "sectionId": "H",
+      "firstLyricsLine": "E' un uomo che parla di pace e amore,",
+      "lyricsSnippet": "E' un uomo che parla di pace e amore, è un uomo che dona liberazione,"
+    },
+    {
+      "id": "grande-e-la-tua-bonta",
+      "code": "LA299",
+      "title": "GRANDE E’ LA TUA BONTA’",
+      "sectionId": "C",
+      "firstLyricsLine": "Grande è la Tua bontà, che riservi per chi Ti teme",
+      "lyricsSnippet": "Grande è la Tua bontà, che riservi per chi Ti teme Colmi della Tua grazia l’uomo che in Te si rifugia."
+    },
+    {
+      "id": "gloria-al-signore-che-salva",
+      "code": "LA300",
+      "title": "GLORIA AL SIGNORE CHE SALVA",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria al Signore che salva, gloria alla sua potenza!",
+      "lyricsSnippet": "Gloria al Signore che salva, gloria alla sua potenza! Fa#- Sol#- La Fa#- Sol#-"
+    },
+    {
+      "id": "scatenate-la-gioia",
+      "code": "LA301",
+      "title": "SCATENATE LA GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Uscite dalle case voi che state chiusi dentro",
+      "lyricsSnippet": "Uscite dalle case voi che state chiusi dentro Venite qui tra noi qualcosa sta accadendo"
+    },
+    {
+      "id": "riprendiamo-il-viaggio",
+      "code": "LA304",
+      "title": "RIPRENDIAMO IL VIAGGIO",
+      "sectionId": "C",
+      "firstLyricsLine": "La parola che abbiamo ascoltato,",
+      "lyricsSnippet": "La parola che abbiamo ascoltato, è la luce che mostra la strada."
+    },
+    {
+      "id": "rimanete-in-me",
+      "code": "LA305",
+      "title": "RIMANETE IN ME",
+      "sectionId": "C",
+      "firstLyricsLine": "Rimanete in me ed io in voi",
+      "lyricsSnippet": "Rimanete in me ed io in voi Perché senza di me non potete far nul - la."
+    },
+    {
+      "id": "benedizione-a-frate-leone",
+      "code": "LA307",
+      "title": "BENEDIZIONE A FRATE LEONE",
+      "sectionId": "C",
+      "firstLyricsLine": "Benedicat tibi Dominus et custodiat te;",
+      "lyricsSnippet": "Benedicat tibi Dominus et custodiat te; ostendat faciem suam tibi et misereatur tui."
+    },
+    {
+      "id": "luce-del-mondo",
+      "code": "LA308",
+      "title": "LUCE DEL MONDO",
+      "sectionId": "C",
+      "firstLyricsLine": "Luce del mondo sei, Signor, il tuo Amore ci illumina",
+      "lyricsSnippet": "Luce del mondo sei, Signor, il tuo Amore ci illumina e le tenebre che avvolgono il nostro cuor"
+    },
+    {
+      "id": "popoli-tutti-battete-le-mani",
+      "code": "LA309",
+      "title": "POPOLI TUTTI BATTETE LE MANI",
+      "sectionId": "C",
+      "firstLyricsLine": "Popoli tutti battete le mani",
+      "lyricsSnippet": "Popoli tutti battete le mani Cantate al Signore con voci di gio - ia."
+    },
+    {
+      "id": "giorno-di-pentecoste",
+      "code": "LA310",
+      "title": "GIORNO DI PENTECOSTE",
+      "sectionId": "C",
+      "firstLyricsLine": "Era il giorno di Pentecoste, si trovarono tutti insieme,",
+      "lyricsSnippet": "Era il giorno di Pentecoste, si trovarono tutti insieme, i discepoli del Signore, venne un vento all’improvviso,"
+    },
+    {
+      "id": "e-tempo-di-grazia",
+      "code": "LA312",
+      "title": "E’ TEMPO DI GRAZIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Siamo Chiesa, popolo di Dio,",
+      "lyricsSnippet": "Siamo Chiesa, popolo di Dio, nel deserto dell’umanità;"
+    },
+    {
+      "id": "isaia-62",
+      "code": "LA313",
+      "title": "ISAIA 62",
+      "sectionId": "C",
+      "firstLyricsLine": "Io gioisco pienamente nel Signore,",
+      "lyricsSnippet": "Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio,"
+    },
+    {
+      "id": "incontro-a-te",
+      "code": "LA314",
+      "title": "INCONTRO A TE",
+      "sectionId": "C",
+      "firstLyricsLine": "Ristorati dal tuo pane, dissetati dal tuo vino,",
+      "lyricsSnippet": "Ristorati dal tuo pane, dissetati dal tuo vino, rafforzati dalla tua parola"
+    },
+    {
+      "id": "pane-e-vino-ti-offriamo",
+      "code": "LA315",
+      "title": "PANE E VINO TI OFFRIAMO",
+      "sectionId": "E",
+      "firstLyricsLine": "Pane e vino ti offriamo ma il dono più prezioso",
+      "lyricsSnippet": "Pane e vino ti offriamo ma il dono più prezioso È il cibo di vita eterna che tu hai dato a noi."
+    },
+    {
+      "id": "pane-per-noi-spezzato",
+      "code": "LA317",
+      "title": "PANE PER NOI SPEZZATO",
+      "sectionId": "C",
+      "firstLyricsLine": "Pane per noi spezzato Vino per noi versato",
+      "lyricsSnippet": "Pane per noi spezzato Vino per noi versato Parola per noi fatta carne"
+    },
+    {
+      "id": "sei-piccola-donna",
+      "code": "LA318",
+      "title": "SEI PICCOLA DONNA",
+      "sectionId": "C",
+      "firstLyricsLine": "Anche tu non avrai visto sempre chiaro,",
+      "lyricsSnippet": "Anche tu non avrai visto sempre chiaro, anche tu avrai provato l’incertezza,"
+    },
+    {
+      "id": "benedici-questa-vita",
+      "code": "LA319",
+      "title": "BENEDICI QUESTA VITA",
+      "sectionId": "C",
+      "firstLyricsLine": "Volgi gli occhi su di noi, e guarda queste mani",
+      "lyricsSnippet": "Volgi gli occhi su di noi, e guarda queste mani Indurite dal lavoro ma alzate verso te."
+    },
+    {
+      "id": "vogliamo-cantare-l-amore",
+      "code": "LA320",
+      "title": "VOGLIAMO CANTARE L’AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Vogliamo cantare l’a – mo – re,",
+      "lyricsSnippet": "Vogliamo cantare l’a – mo – re, vogliamo cantare la gio - ia,"
+    },
+    {
+      "id": "accogli-nella-tua-bonta",
+      "code": "LA322",
+      "title": "ACCOGLI NELLA TUA BONTA’",
+      "sectionId": "C",
+      "firstLyricsLine": "Accogli nella tua bontà I doni che oggi ti offriam",
+      "lyricsSnippet": "Accogli nella tua bontà I doni che oggi ti offriam E fa che al mondo noi possiam"
+    },
+    {
+      "id": "alla-mensa-del-signore",
+      "code": "LA323",
+      "title": "ALLA MENSA DEL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "noi facciamo comunione,",
+      "lyricsSnippet": "noi facciamo comunione, col suo corpo e col suo sangue,"
+    },
+    {
+      "id": "spirito-del-dio-vivente",
+      "code": "LA324",
+      "title": "SPIRITO DEL DIO VIVENTE",
+      "sectionId": "C",
+      "firstLyricsLine": "Spirito del Dio vivente accresci in noi l'amore.",
+      "lyricsSnippet": "Spirito del Dio vivente accresci in noi l'amore. Pace, gioia, forza nella tua dolce presen - za."
+    },
+    {
+      "id": "quale-gioia-e-star-con-te",
+      "code": "LA325",
+      "title": "QUALE GIOIA È STAR CON TE",
+      "sectionId": "C",
+      "firstLyricsLine": "Ogni volta che ti cerco, ogni volta che t’invoco,",
+      "lyricsSnippet": "Ogni volta che ti cerco, ogni volta che t’invoco, sempre mi accogli Signor."
+    },
+    {
+      "id": "signore-che-a-pietro-pentito",
+      "code": "LA326",
+      "title": "SIGNORE CHE A PIETRO PENTITO",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore che a Pietro pentito hai offerto il tuo perdono",
+      "lyricsSnippet": "Signore che a Pietro pentito hai offerto il tuo perdono Abbi pietà di no - i"
+    },
+    {
+      "id": "mi-basta-la-tua-grazia",
+      "code": "LA327",
+      "title": "MI BASTA LA TUA GRAZIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Quando sono debole, allora sono forte",
+      "lyricsSnippet": "Quando sono debole, allora sono forte perché, tu sei la mia forza."
+    },
+    {
+      "id": "frutto-della-nostra-terra",
+      "code": "LA328",
+      "title": "FRUTTO DELLA NOSTRA TERRA",
+      "sectionId": "E",
+      "firstLyricsLine": "Frutto della nostra terra del lavoro di ogni uomo",
+      "lyricsSnippet": "Frutto della nostra terra del lavoro di ogni uomo pane della nostra vita cibo della quotidianità"
+    },
+    {
+      "id": "oggi-in-cielo-e-festa",
+      "code": "LA329",
+      "title": "OGGI IN CIELO E’ FESTA",
+      "sectionId": "C",
+      "firstLyricsLine": "Oggi in cielo è festa, vieni sposo qui con me.",
+      "lyricsSnippet": "Oggi in cielo è festa, vieni sposo qui con me. Oggi in cielo è festa, già la sposa è accanto al Re."
+    },
+    {
+      "id": "lui-verra-e-ti-salvera",
+      "code": "LA330",
+      "title": "LUI VERRÀ E TI SALVERÀ",
+      "sectionId": "C",
+      "firstLyricsLine": "A chi è nell'angoscia tu dirai: non devi temere,",
+      "lyricsSnippet": "A chi è nell'angoscia tu dirai: non devi temere, il tuo Signore è qui, con la forza sua."
+    },
+    {
+      "id": "alza-le-braccia-apri-il-tuo-cuore",
+      "code": "LA331",
+      "title": "ALZA LE BRACCIA, APRI IL TUO CUORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Gri-da la tua voglia di pace,",
+      "lyricsSnippet": "Gri-da la tua voglia di pace, gri-ida la giustizia che vuoi."
+    },
+    {
+      "id": "cristo-e-risorto-veramente",
+      "code": "LA333",
+      "title": "CRISTO E’ RISORTO VERAMENTE",
+      "sectionId": "P",
+      "firstLyricsLine": "Cristo è risorto veramente, Alleluia!",
+      "lyricsSnippet": "Cristo è risorto veramente, Alleluia! Gesù, il vivente, qui con noi resterà."
+    },
+    {
+      "id": "canoni",
+      "code": "LA334",
+      "title": "CANONI",
+      "sectionId": "C",
+      "firstLyricsLine": "NADA TE TURBE",
+      "lyricsSnippet": "NADA TE TURBE Nada te turbe, nada te espante:"
+    },
+    {
+      "id": "rallegratevi-fratelli",
+      "code": "LA335",
+      "title": "RALLEGRATEVI FRATELLI",
+      "sectionId": "C",
+      "firstLyricsLine": "Siamo uniti nel suo amore,",
+      "lyricsSnippet": "Siamo uniti nel suo amore, lui ci ha scelti dall’eternità."
+    },
+    {
+      "id": "dio-ti-adorero",
+      "code": "LA337",
+      "title": "DIO TI ADORERO’",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio ti adorerò nel tuo tempio dimorerò",
+      "lyricsSnippet": "Dio ti adorerò nel tuo tempio dimorerò Le tue vie conoscerò"
+    },
+    {
+      "id": "amo",
+      "code": "LA339",
+      "title": "AMO",
+      "sectionId": "C",
+      "firstLyricsLine": "Amo il Signore perché ascolta",
+      "lyricsSnippet": "Amo il Signore perché ascolta il grido della mia preghiera."
+    },
+    {
+      "id": "benedetto-tu-signore",
+      "code": "LA340",
+      "title": "BENEDETTO TU SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Benedetto tu, Signore,",
+      "lyricsSnippet": "Benedetto tu, Signore, benedetto tu nei secoli"
+    },
+    {
+      "id": "ecco-il-pane",
+      "code": "LA341",
+      "title": "ECCO IL PANE",
+      "sectionId": "C",
+      "firstLyricsLine": "Ecco il pane e il vino",
+      "lyricsSnippet": "Ecco il pane e il vino della cena insieme a Te,"
+    },
+    {
+      "id": "del-tuo-spirito-signore",
+      "code": "LA342",
+      "title": "DEL TUO SPIRITO SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Del Tuo Spirito Signore, è piena la ter - ra,",
+      "lyricsSnippet": "Del Tuo Spirito Signore, è piena la ter - ra, è piena la ter - ra ( 2 volte )"
+    },
+    {
+      "id": "hopes-of-peace",
+      "code": "LA343",
+      "title": "HOPES OF PEACE",
+      "sectionId": "C",
+      "firstLyricsLine": "Senti il cuore della tua città",
+      "lyricsSnippet": "Senti il cuore della tua città batte nella notte intorno a te"
+    },
+    {
+      "id": "peace-mio-amore",
+      "code": "LA344",
+      "title": "PEACE MIO AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Senti il cuore della tua città",
+      "lyricsSnippet": "Senti il cuore della tua città batte nella notte intorno a te"
+    },
+    {
+      "id": "dio-e-mia-luce",
+      "code": "001",
+      "title": "Dio è mia luce",
+      "sectionId": "C",
+      "firstLyricsLine": "Oggi una cosa chiederò al Signore",
+      "lyricsSnippet": "Oggi una cosa chiederò al Signore sempre questa cosa cercherò con gioia:"
+    },
+    {
+      "id": "noi-canteremo",
+      "code": "004",
+      "title": "Noi canteremo",
+      "sectionId": "C",
+      "firstLyricsLine": "Noi canteremo gloria a Te,",
+      "lyricsSnippet": "Noi canteremo gloria a Te, Padre che dai la v i – i t a"
+    },
+    {
+      "id": "come-un-fiume",
+      "code": "005",
+      "title": "Come un fiume",
+      "sectionId": "C",
+      "firstLyricsLine": "Come un fiume in piena che",
+      "lyricsSnippet": "Come un fiume in piena che la sabbia non può arrestare"
+    },
+    {
+      "id": "signore-padre-santo",
+      "code": "006",
+      "title": "Signore Padre Santo",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore Padre Santo eterno creator",
+      "lyricsSnippet": "Signore Padre Santo eterno creator Dio Padre onnipotente"
+    },
+    {
+      "id": "cantico-dei-redenti",
+      "code": "007",
+      "title": "Cantico dei redenti",
+      "sectionId": "C",
+      "firstLyricsLine": "Il Signore è la mia salvezza",
+      "lyricsSnippet": "Il Signore è la mia salvezza e con Lui non temo più"
+    },
+    {
+      "id": "veniamo-da-te",
+      "code": "008",
+      "title": "Veniamo da Te",
+      "sectionId": "N",
+      "firstLyricsLine": "Veniamo da Te o Signore",
+      "lyricsSnippet": "Veniamo da Te o Signore con il cuore pieno di gioia"
+    },
+    {
+      "id": "cantiamo-a-te",
+      "code": "011",
+      "title": "Cantiamo a Te",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo a Te Signore della vita",
+      "lyricsSnippet": "Cantiamo a Te Signore della vita il nome Tuo è grande sulla terra"
+    },
+    {
+      "id": "come-canto-d-amore",
+      "code": "013",
+      "title": "Come canto d’amore",
+      "sectionId": "C",
+      "firstLyricsLine": "Con il mio canto dolce Signore",
+      "lyricsSnippet": "Con il mio canto dolce Signore Fa#-7 Sol7+ Re7+"
+    },
+    {
+      "id": "alzano-i-fiumi-signore",
+      "code": "015",
+      "title": "Alzano i fiumi Signore",
+      "sectionId": "C",
+      "firstLyricsLine": "Alzano i fiumi Signore",
+      "lyricsSnippet": "Alzano i fiumi Signore 7 6 Si-7"
+    },
+    {
+      "id": "sorgi-e-risplendi",
+      "code": "016",
+      "title": "Sorgi e risplendi",
+      "sectionId": "N",
+      "firstLyricsLine": "Le tenebre coprono tutta la terra",
+      "lyricsSnippet": "Le tenebre coprono tutta la terra l’oscurità si stende sui popoli"
+    },
+    {
+      "id": "gloria-piero-sansoni",
+      "code": "021",
+      "title": "Gloria Piero Sansoni?",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria, gloria,",
+      "lyricsSnippet": "Gloria, gloria, gloria a Dio nell’alto dei cieli,"
+    },
+    {
+      "id": "canto-di-mose",
+      "code": "022",
+      "title": "Canto di Mosè",
+      "sectionId": "C",
+      "firstLyricsLine": "Voglio cantare al Signore in eterno,",
+      "lyricsSnippet": "Voglio cantare al Signore in eterno, al Signore in eterno."
+    },
+    {
+      "id": "cantiamo-a-dio",
+      "code": "023",
+      "title": "Cantiamo a Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo a Dio nostro creator",
+      "lyricsSnippet": "Cantiamo a Dio nostro creator a Lui la gloria per sempre sia."
+    },
+    {
+      "id": "alleluia-lodate-il-signore",
+      "code": "025",
+      "title": "Alleluia lodate il Signore",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia, alleluia, lodate il Signore",
+      "lyricsSnippet": "Alleluia, alleluia, lodate il Signore alleluia, alleluia, lodate il Signore."
+    },
+    {
+      "id": "proteggimi-o-dio",
+      "code": "027",
+      "title": "Proteggimi o Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Proteggimi o Dio in Te mi rifugio",
+      "lyricsSnippet": "Proteggimi o Dio in Te mi rifugio proteggimi o Dio io mi rifugio in Te."
+    },
+    {
+      "id": "celebrate-dio",
+      "code": "028",
+      "title": "Celebrate Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Alleluia alleluia alleluia alleluia.",
+      "lyricsSnippet": "Alleluia alleluia alleluia alleluia. Celebrate Dio con me"
+    },
+    {
+      "id": "canto-di-giuditta",
+      "code": "029",
+      "title": "Canto di Giuditta",
+      "sectionId": "C",
+      "firstLyricsLine": "Lodate il mio Dio con timpani",
+      "lyricsSnippet": "Lodate il mio Dio con timpani cantate al Signore con cembali (2 v)"
+    },
+    {
+      "id": "alleluia-al-signore-dei-cieli",
+      "code": "031",
+      "title": "Alleluia al Signore dei cieli",
+      "sectionId": "D",
+      "firstLyricsLine": "Lodate il Signore che è nei cieli",
+      "lyricsSnippet": "Lodate il Signore che è nei cieli lodate le sue meraviglie"
+    },
+    {
+      "id": "lodate-il-signore",
+      "code": "032",
+      "title": "Lodate il Signore",
+      "sectionId": "C",
+      "firstLyricsLine": "Alleluia alleluia alleluia alleluia (2 v)",
+      "lyricsSnippet": "Alleluia alleluia alleluia alleluia (2 v) Lodate o servi del Signore"
+    },
+    {
+      "id": "o-dio-ti-cerco",
+      "code": "033",
+      "title": "O Dio Ti cerco",
+      "sectionId": "N",
+      "firstLyricsLine": "O Dio Ti cerco dall’aurora ti cerca",
+      "lyricsSnippet": "O Dio Ti cerco dall’aurora ti cerca dall'aurora"
+    },
+    {
+      "id": "donaci-un-cuore-nuovo",
+      "code": "036",
+      "title": "Donaci un cuore nuovo",
+      "sectionId": "C",
+      "firstLyricsLine": "Donaci Signore un cuore nuovo",
+      "lyricsSnippet": "Donaci Signore un cuore nuovo metti in noi Signore uno spirito nuovo."
+    },
+    {
+      "id": "alleluia-passeranno-i-cieli",
+      "code": "038",
+      "title": "Alleluia passeranno i cieli",
+      "sectionId": "D",
+      "firstLyricsLine": "Alle-alleluia, alleluia alleluia",
+      "lyricsSnippet": "Alle-alleluia, alleluia alleluia alleluia al-leluia alleluia alleluia."
+    },
+    {
+      "id": "l-anima-mia-elevo",
+      "code": "043",
+      "title": "L'anima mia elevo",
+      "sectionId": "C",
+      "firstLyricsLine": "L’anima mia elevo al Signore",
+      "lyricsSnippet": "L’anima mia elevo al Signore cerco rifugio in lui"
+    },
+    {
+      "id": "alleluia-ed-oggi-ancora",
+      "code": "044",
+      "title": "Alleluia: ed oggi ancora",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia alleluia",
+      "lyricsSnippet": "Alleluia alleluia alleluia alleluia BIS"
+    },
+    {
+      "id": "santo-c-m",
+      "code": "047",
+      "title": "Santo C.M.",
+      "sectionId": "G",
+      "firstLyricsLine": "Santo santo santo santo",
+      "lyricsSnippet": "Santo santo santo santo santo è il Signore (2 V)"
+    },
+    {
+      "id": "santo-riparti-da-cristo",
+      "code": "056",
+      "title": "Santo - Riparti da Cristo",
+      "sectionId": "G",
+      "firstLyricsLine": "Riparti da Cristo, tu che hai trovato misericordia",
+      "lyricsSnippet": "Riparti da Cristo, tu che hai trovato misericordia Riparti da Cristo, tu che hai perdonato ed accolto il"
+    },
+    {
+      "id": "come-incenso",
+      "code": "057",
+      "title": "Come incenso",
+      "sectionId": "E",
+      "firstLyricsLine": "Come un cervo ricerca l’acqua",
+      "lyricsSnippet": "Come un cervo ricerca l’acqua noi cerchiamo Te Signor,"
+    },
+    {
+      "id": "benedetto",
+      "code": "060",
+      "title": "Benedetto",
+      "sectionId": "E",
+      "firstLyricsLine": "Benedetto sei Tu Signore",
+      "lyricsSnippet": "Benedetto sei Tu Signore Dio dell’universo"
+    },
+    {
+      "id": "benedici",
+      "code": "062",
+      "title": "Benedici",
+      "sectionId": "E",
+      "firstLyricsLine": "Nebbia e freddo, giorni lunghi e amari",
+      "lyricsSnippet": "Nebbia e freddo, giorni lunghi e amari mentre il seme muore."
+    },
+    {
+      "id": "su-questo-altare",
+      "code": "064",
+      "title": "Su questo altare",
+      "sectionId": "E",
+      "firstLyricsLine": "Su questo altare Ti offriamo",
+      "lyricsSnippet": "Su questo altare Ti offriamo il nostro giorno"
+    },
+    {
+      "id": "verso-l-altare",
+      "code": "070",
+      "title": "Verso l’altare",
+      "sectionId": "C",
+      "firstLyricsLine": "Verso l’altare, pane che è dono",
+      "lyricsSnippet": "Verso l’altare, pane che è dono una briciola del mondo"
+    },
+    {
+      "id": "pace-a-te-a-costa-s-varnava",
+      "code": "072",
+      "title": "Pace a te A. Costa - S. Varnavà",
+      "sectionId": "H",
+      "firstLyricsLine": "Nel Signore io Ti do la pace,",
+      "lyricsSnippet": "Nel Signore io Ti do la pace, pace a te pace a te"
+    },
+    {
+      "id": "chiara-e-la-tua-sorgente",
+      "code": "076",
+      "title": "Chiara è la Tua sorgente",
+      "sectionId": "C",
+      "firstLyricsLine": "Chiara è la Tua parola",
+      "lyricsSnippet": "Chiara è la Tua parola che guida i passi del mio cammino."
+    },
+    {
+      "id": "e-sono-solo-un-uomo",
+      "code": "077",
+      "title": "E sono solo un uomo",
+      "sectionId": "C",
+      "firstLyricsLine": "Io lo so Signore che vengo da lontano",
+      "lyricsSnippet": "Io lo so Signore che vengo da lontano prima nel pensiero e poi nella Tua mano"
+    },
+    {
+      "id": "quanta-sete",
+      "code": "079",
+      "title": "Quanta sete",
+      "sectionId": "C",
+      "firstLyricsLine": "Quanta sete nel mio cuore",
+      "lyricsSnippet": "Quanta sete nel mio cuore solo in Dio si spegnerà."
+    },
+    {
+      "id": "accoglimi",
+      "code": "080",
+      "title": "Accoglimi",
+      "sectionId": "C",
+      "firstLyricsLine": "Accoglimi, Signore,",
+      "lyricsSnippet": "Accoglimi, Signore, secondo la Tua parola (2 V)"
+    },
+    {
+      "id": "signore-sei-tu-il-mio-pastor",
+      "code": "084",
+      "title": "Signore, sei Tu il mio pastor",
+      "sectionId": "N",
+      "firstLyricsLine": "Signore sei Tu il pastor,",
+      "lyricsSnippet": "Signore sei Tu il pastor, nulla mi può mancar nei Tuoi pascoli."
+    },
+    {
+      "id": "chi-ha-sete",
+      "code": "085",
+      "title": "Chi ha sete",
+      "sectionId": "C",
+      "firstLyricsLine": "Chi ha sete venga e beva da me",
+      "lyricsSnippet": "Chi ha sete venga e beva da me a nuova vita verrà"
+    },
+    {
+      "id": "il-signore-ci-ha-amato",
+      "code": "087",
+      "title": "Il Signore ci ha amato",
+      "sectionId": "C",
+      "firstLyricsLine": "Il Signore ci ha amato",
+      "lyricsSnippet": "Il Signore ci ha amato come nessun altro mai"
+    },
+    {
+      "id": "io-lodero-il-signore",
+      "code": "089",
+      "title": "Io loderò il Signore",
+      "sectionId": "F",
+      "firstLyricsLine": "Io loderò il Signore",
+      "lyricsSnippet": "Io loderò il Signore con tutto il mio cuore"
+    },
+    {
+      "id": "ora-so",
+      "code": "091",
+      "title": "Ora so",
+      "sectionId": "C",
+      "firstLyricsLine": "Ora so che il suo amore è grande",
+      "lyricsSnippet": "Ora so che il suo amore è grande Che Lui m’amerà,"
+    },
+    {
+      "id": "il-canto-della-creazione",
+      "code": "092",
+      "title": "Il canto della creazione",
+      "sectionId": "C",
+      "firstLyricsLine": "Laudato sii, Signore mio (4 v)",
+      "lyricsSnippet": "Laudato sii, Signore mio (4 v) Per il sole d’ogni giorno"
+    },
+    {
+      "id": "san-damiano",
+      "code": "093",
+      "title": "San Damiano",
+      "sectionId": "C",
+      "firstLyricsLine": "Ogni uomo semplice",
+      "lyricsSnippet": "Ogni uomo semplice porta in cuore un sogno"
+    },
+    {
+      "id": "canto-d-umilta",
+      "code": "101",
+      "title": "Canto d’umiltà",
+      "sectionId": "C",
+      "firstLyricsLine": "O Signore, non si esalta il mio cuore",
+      "lyricsSnippet": "O Signore, non si esalta il mio cuore i miei occhi non si alzano superbi"
+    },
+    {
+      "id": "dove-due-o-tre-versione-sammartinese",
+      "code": "102",
+      "title": "Dove due o tre [Versione Sammartinese]",
+      "sectionId": "N",
+      "firstLyricsLine": "Dove due o tre sono uniti nel mio nome",
+      "lyricsSnippet": "Dove due o tre sono uniti nel mio nome io sarò con loro, pregherò con loro"
+    },
+    {
+      "id": "l-amore",
+      "code": "107",
+      "title": "L’amore",
+      "sectionId": "C",
+      "firstLyricsLine": "L’amore è paziente eterno è l’amore",
+      "lyricsSnippet": "L’amore è paziente eterno è l’amore l’amore non fugge non abbandona mai"
+    },
+    {
+      "id": "beato-l-uomo",
+      "code": "110",
+      "title": "Beato l’uomo",
+      "sectionId": "N",
+      "firstLyricsLine": "Beato l’uomo che retto procede",
+      "lyricsSnippet": "Beato l’uomo che retto procede e non entra a consiglio con gli empi"
+    },
+    {
+      "id": "narrano-i-cieli",
+      "code": "111",
+      "title": "Narrano i Cieli",
+      "sectionId": "C",
+      "firstLyricsLine": "Narrano i cieli la gloria di Dio",
+      "lyricsSnippet": "Narrano i cieli la gloria di Dio l’opera Sua proclama il firmamento."
+    },
+    {
+      "id": "in-comunione",
+      "code": "112",
+      "title": "In comunione",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore Ti ringrazio",
+      "lyricsSnippet": "Signore Ti ringrazio perché Tu hai voluto"
+    },
+    {
+      "id": "il-giorno-ormai-scompare",
+      "code": "114",
+      "title": "Il giorno ormai scompare",
+      "sectionId": "C",
+      "firstLyricsLine": "Il giorno ormai scompare,",
+      "lyricsSnippet": "Il giorno ormai scompare, presto la luce muore,"
+    },
+    {
+      "id": "a-te-vorrei-dire",
+      "code": "121",
+      "title": "A Te vorrei dire",
+      "sectionId": "C",
+      "firstLyricsLine": "Se il sole non illuminasse più",
+      "lyricsSnippet": "Se il sole non illuminasse più questo pallido pianeta,"
+    },
+    {
+      "id": "lui-ci-ha-dato-i-cieli",
+      "code": "124",
+      "title": "Lui ci ha dato i Cieli",
+      "sectionId": "C",
+      "firstLyricsLine": "Non so proprio come far",
+      "lyricsSnippet": "Non so proprio come far per ringraziare il mio Signor"
+    },
+    {
+      "id": "osanna",
+      "code": "126",
+      "title": "Osanna",
+      "sectionId": "C",
+      "firstLyricsLine": "Osanna, osanna",
+      "lyricsSnippet": "Osanna, osanna osanna all’Altissimo (2 v)."
+    },
+    {
+      "id": "com-e-bello-dar-lode",
+      "code": "127",
+      "title": "Com’è bello dar lode",
+      "sectionId": "F",
+      "firstLyricsLine": "Com’è bello dar lode al Signor",
+      "lyricsSnippet": "Com’è bello dar lode al Signor cantare al nome Tuo santo"
+    },
+    {
+      "id": "sulla-solida-roccia",
+      "code": "128",
+      "title": "Sulla solida roccia",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho cercato da sempre nella mia libertà",
+      "lyricsSnippet": "Ho cercato da sempre nella mia libertà come acqua che infine arriva al mare,"
+    },
+    {
+      "id": "voglio-esaltare",
+      "code": "129",
+      "title": "Voglio esaltare",
+      "sectionId": "C",
+      "firstLyricsLine": "Voglio esaltare il nome del Dio nostro",
+      "lyricsSnippet": "Voglio esaltare il nome del Dio nostro è lui la mia libertà."
+    },
+    {
+      "id": "e-canteremo",
+      "code": "130",
+      "title": "E canteremo",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio si è tra noi manifestato",
+      "lyricsSnippet": "Dio si è tra noi manifestato in una vita umana"
+    },
+    {
+      "id": "figli-di-dio",
+      "code": "131",
+      "title": "Figli di Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Apri le Tue mani",
+      "lyricsSnippet": "Apri le Tue mani spalanca il Tuo cuore"
+    },
+    {
+      "id": "sii-esaltato-signore",
+      "code": "133",
+      "title": "Sii esaltato Signore",
+      "sectionId": "C",
+      "firstLyricsLine": "Sii esaltato Signore nell’alto dei ciel",
+      "lyricsSnippet": "Sii esaltato Signore nell’alto dei ciel lode a Te Signor"
+    },
+    {
+      "id": "saldo-e-il-mio-cuore-in-dio",
+      "code": "136",
+      "title": "Saldo è il mio cuore in Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Saldo è il mio cuore Dio",
+      "lyricsSnippet": "Saldo è il mio cuore Dio voglio cantare al Signor ."
+    },
+    {
+      "id": "cantando-gloria",
+      "code": "138",
+      "title": "Cantando gloria",
+      "sectionId": "C",
+      "firstLyricsLine": "Noi siamo il Tuo popolo Gesù",
+      "lyricsSnippet": "Noi siamo il Tuo popolo Gesù Tu ci hai chiamati per lodarti Signor"
+    },
+    {
+      "id": "l-uomo-nuovo",
+      "code": "141",
+      "title": "L’uomo nuovo",
+      "sectionId": "C",
+      "firstLyricsLine": "Dammi un cuore Signor",
+      "lyricsSnippet": "Dammi un cuore Signor grande per amare"
+    },
+    {
+      "id": "ti-ringrazio-mio-signore",
+      "code": "142",
+      "title": "Ti ringrazio mio Signore",
+      "sectionId": "C",
+      "firstLyricsLine": "Ti ringrazio mio Signore non ho più paura",
+      "lyricsSnippet": "Ti ringrazio mio Signore non ho più paura perché con la mia mano"
+    },
+    {
+      "id": "gloria-al-re-dei-re",
+      "code": "143",
+      "title": "Gloria al Re dei re",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria, gloria,",
+      "lyricsSnippet": "Gloria, gloria, gloria al Re dei re"
+    },
+    {
+      "id": "lo-spirito-di-cristo",
+      "code": "146",
+      "title": "Lo Spirito di Cristo",
+      "sectionId": "C",
+      "firstLyricsLine": "Lo Spirito di Cristo",
+      "lyricsSnippet": "Lo Spirito di Cristo fa fiorire il deserto"
+    },
+    {
+      "id": "lo-spirito-di-dio",
+      "code": "147",
+      "title": "Lo Spirito di Dio",
+      "sectionId": "N",
+      "firstLyricsLine": "Lo Spirito di Dio dal cielo scenda",
+      "lyricsSnippet": "Lo Spirito di Dio dal cielo scenda e si rinnovi il mondo nell’amore"
+    },
+    {
+      "id": "inno-allo-spirito-santo",
+      "code": "149",
+      "title": "Inno allo Spirito Santo",
+      "sectionId": "C",
+      "firstLyricsLine": "Padre nel nome di Gesù",
+      "lyricsSnippet": "Padre nel nome di Gesù mandaci il Tuo Spirito"
+    },
+    {
+      "id": "spirito-santo",
+      "code": "155",
+      "title": "Spirito Santo",
+      "sectionId": "C",
+      "firstLyricsLine": "Alleluia, alleluia, alleluia, alleluia",
+      "lyricsSnippet": "Alleluia, alleluia, alleluia, alleluia alleluia, alleluia, alleluia, alleluia."
+    },
+    {
+      "id": "vieni-fratello",
+      "code": "156",
+      "title": "Vieni fratello",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni fratello, il Padre Ti chiama",
+      "lyricsSnippet": "Vieni fratello, il Padre Ti chiama vieni alla cena,"
+    },
+    {
+      "id": "preghiera-dei-poveri-di-jahve",
+      "code": "159",
+      "title": "Preghiera dei poveri di Jahve’",
+      "sectionId": "C",
+      "firstLyricsLine": "O cieli piovete dall’alto",
+      "lyricsSnippet": "O cieli piovete dall’alto o nubi mandateci il Santo"
+    },
+    {
+      "id": "cieli-e-terra-nuova",
+      "code": "160",
+      "title": "Cieli e terra nuova",
+      "sectionId": "N",
+      "firstLyricsLine": "Cieli e terra nuova il Signor darà",
+      "lyricsSnippet": "Cieli e terra nuova il Signor darà in cui la giustizia sempre abiterà."
+    },
+    {
+      "id": "gloria-in-cielo",
+      "code": "165",
+      "title": "Gloria in Cielo",
+      "sectionId": "N",
+      "firstLyricsLine": "Gloria in cielo e pace in terra",
+      "lyricsSnippet": "Gloria in cielo e pace in terra nato è il nostro Salvatore."
+    },
+    {
+      "id": "venite-fedeli",
+      "code": "166",
+      "title": "Venite fedeli",
+      "sectionId": "N",
+      "firstLyricsLine": "Venite fedeli, lieti ed esultanti",
+      "lyricsSnippet": "Venite fedeli, lieti ed esultanti venite, venite a Bethle-e-emme."
+    },
+    {
+      "id": "padre-perdona",
+      "code": "172",
+      "title": "Padre perdona",
+      "sectionId": "A",
+      "firstLyricsLine": "Signore ascolta, Padre perdona",
+      "lyricsSnippet": "Signore ascolta, Padre perdona fa che vediamo il Tuo amore."
+    },
+    {
+      "id": "se-tu-m-accogli",
+      "code": "173",
+      "title": "Se Tu m’accogli",
+      "sectionId": "C",
+      "firstLyricsLine": "Se Tu mi accogli Padre buono",
+      "lyricsSnippet": "Se Tu mi accogli Padre buono prima che venga sera"
+    },
+    {
+      "id": "srade-vuote",
+      "code": "174",
+      "title": "Srade vuote",
+      "sectionId": "C",
+      "firstLyricsLine": "Strade vuote, strade senza Te",
+      "lyricsSnippet": "Strade vuote, strade senza Te strade buie, strade senza Te"
+    },
+    {
+      "id": "prendete-e-mangiate",
+      "code": "176",
+      "title": "Prendete e mangiate",
+      "sectionId": "C",
+      "firstLyricsLine": "Prendete e mangiate questo è il mio corpo",
+      "lyricsSnippet": "Prendete e mangiate questo è il mio corpo prendete e bevete questo è il mio sangue"
+    },
+    {
+      "id": "signore-dolce-volto",
+      "code": "177",
+      "title": "Signore dolce volto",
+      "sectionId": "C",
+      "firstLyricsLine": "O capo insanguinato del dolce mio Signor",
+      "lyricsSnippet": "O capo insanguinato del dolce mio Signor di spine incoronato straziato dal dolor"
+    },
+    {
+      "id": "se-il-signore-non",
+      "code": "178",
+      "title": "Se il Signore non",
+      "sectionId": "C",
+      "firstLyricsLine": "costruisce la città",
+      "lyricsSnippet": "costruisce la città Se il Signore non costruisce la città"
+    },
+    {
+      "id": "cristo-risusciti",
+      "code": "180",
+      "title": "Cristo risusciti",
+      "sectionId": "P",
+      "firstLyricsLine": "Cristo risusciti in tutti i cuori",
+      "lyricsSnippet": "Cristo risusciti in tutti i cuori Cristo si celebri, Cristo si adori"
+    },
+    {
+      "id": "alleluia-cristo-e-risorto",
+      "code": "182",
+      "title": "Alleluia Cristo è risorto",
+      "sectionId": "P",
+      "firstLyricsLine": "Alleluia, Cristo è risorto,",
+      "lyricsSnippet": "Alleluia, Cristo è risorto, gloria a Te Signo-or (2 v)."
+    },
+    {
+      "id": "alleluia-ora-lui-vive",
+      "code": "183",
+      "title": "Alleluia ora Lui vive",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia, alleluia, alleluia, alleluia",
+      "lyricsSnippet": "Alleluia, alleluia, alleluia, alleluia Alleluia, alleluia, alleluia, alleluia (2 v)."
+    },
+    {
+      "id": "il-canto-degli-umili",
+      "code": "184",
+      "title": "Il canto degli umili",
+      "sectionId": "C",
+      "firstLyricsLine": "L’arco dei forti si è spezzato",
+      "lyricsSnippet": "L’arco dei forti si è spezzato gli umili si vestono della Tua forza"
+    },
+    {
+      "id": "resurrezione",
+      "code": "186",
+      "title": "Resurrezione",
+      "sectionId": "C",
+      "firstLyricsLine": "(LE DONNE RIPARTIRANNO DA QUI)",
+      "lyricsSnippet": "(LE DONNE RIPARTIRANNO DA QUI) Che gioia ci hai dato Signore del cielo"
+    },
+    {
+      "id": "nei-cieli-un-grido-risuono",
+      "code": "187",
+      "title": "Nei Cieli un grido risuonò",
+      "sectionId": "P",
+      "firstLyricsLine": "Nei cieli un grido risuonò: alleluia",
+      "lyricsSnippet": "Nei cieli un grido risuonò: alleluia Cristo Signore trionfò: alleluia"
+    },
+    {
+      "id": "cantando-un-canto-nuovo",
+      "code": "188",
+      "title": "Cantando un canto nuovo",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantando un canto nuovo",
+      "lyricsSnippet": "Cantando un canto nuovo gloria al Signor, gloria al Signor"
+    },
+    {
+      "id": "maria",
+      "code": "191",
+      "title": "Maria",
+      "sectionId": "M",
+      "firstLyricsLine": "Maria, Tu che hai atteso nel silenzio",
+      "lyricsSnippet": "Maria, Tu che hai atteso nel silenzio la Sua parola per noi"
+    },
+    {
+      "id": "maria-vogliamo-amarti",
+      "code": "201",
+      "title": "Maria, vogliamo amarti",
+      "sectionId": "M",
+      "firstLyricsLine": "Maria...",
+      "lyricsSnippet": "Maria... Siamo tutti tuoi e vogliamo amarti"
+    },
+    {
+      "id": "di-vivida-fiamma",
+      "code": "207",
+      "title": "Di vivida fiamma",
+      "sectionId": "C",
+      "firstLyricsLine": "E' l'Inno alla Madonna del Fuoco patrono di Forlì",
+      "lyricsSnippet": "E' l'Inno alla Madonna del Fuoco patrono di Forlì Musica di don Gaetano Lugaresi"
+    },
+    {
+      "id": "un-giorno-fra-le-mie-mani",
+      "code": "219",
+      "title": "Un giorno fra le mie mani",
+      "sectionId": "C",
+      "firstLyricsLine": "Un giorno fra le mie mani",
+      "lyricsSnippet": "Un giorno fra le mie mani un giorno qui davanti a me"
+    },
+    {
+      "id": "gesu-sei-qui-con-me",
+      "code": "232",
+      "title": "Gesù sei qui con me",
+      "sectionId": "C",
+      "firstLyricsLine": "Gesù sei qui con me",
+      "lyricsSnippet": "Gesù sei qui con me sei venuto nel mio cuore"
+    },
+    {
+      "id": "guidami",
+      "code": "234",
+      "title": "Guidami",
+      "sectionId": "C",
+      "firstLyricsLine": "Guidami guidami sulla via della vita",
+      "lyricsSnippet": "Guidami guidami sulla via della vita salvami salvami da una strada sbagliata."
+    },
+    {
+      "id": "ho-il-cielo-dentro-al-cuor",
+      "code": "240",
+      "title": "Ho il cielo dentro al cuor",
+      "sectionId": "C",
+      "firstLyricsLine": "Oh Oh Oh Oh Oh Oh",
+      "lyricsSnippet": "Oh Oh Oh Oh Oh Oh ho il cielo dentro il cuor (2 v)"
+    },
+    {
+      "id": "alla-tua-presenza",
+      "code": "244",
+      "title": "Alla Tua presenza",
+      "sectionId": "C",
+      "firstLyricsLine": "Alla Tua presenza portaci o Signor",
+      "lyricsSnippet": "Alla Tua presenza portaci o Signor nei tuoi atri noi vogliamo dimorar"
+    },
+    {
+      "id": "cantiamo-insieme",
+      "code": "248",
+      "title": "Cantiamo insieme",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo insieme alla potenza del Signor",
+      "lyricsSnippet": "Cantiamo insieme alla potenza del Signor che verrà alla potenza del Signor"
+    },
+    {
+      "id": "mia-forza-e-il-signore",
+      "code": "252",
+      "title": "Mia forza è il Signore",
+      "sectionId": "C",
+      "firstLyricsLine": "Mia forza è il Signor cammino con Lui",
+      "lyricsSnippet": "Mia forza è il Signor cammino con Lui mia luce è il Signor cammina con me"
+    },
+    {
+      "id": "celebrate",
+      "code": "257",
+      "title": "Celebrate",
+      "sectionId": "C",
+      "firstLyricsLine": "Celebrate il Signore e invocate il Suo Nome,",
+      "lyricsSnippet": "Celebrate il Signore e invocate il Suo Nome, si rallegri il vostro cuore alla presenza del Signor."
+    },
+    {
+      "id": "ti-rendiamo-grazie",
+      "code": "262",
+      "title": "Ti rendiamo grazie",
+      "sectionId": "C",
+      "firstLyricsLine": "Ti rendiamo grazie per tanta tenerezza;",
+      "lyricsSnippet": "Ti rendiamo grazie per tanta tenerezza; dal Tuo cuor’ trafitto doni l’acqua viva"
+    },
+    {
+      "id": "gloria-a-te-cristo-gesu",
+      "code": "263",
+      "title": "Gloria a Te Cristo Gesù",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria a Te Cristo Gesù,",
+      "lyricsSnippet": "Gloria a Te Cristo Gesù, oggi sempre Tu regnerai!"
+    },
+    {
+      "id": "disegno",
+      "code": "267",
+      "title": "Disegno",
+      "sectionId": "C",
+      "firstLyricsLine": "Nel mare del silenzio una voce si alzò",
+      "lyricsSnippet": "Nel mare del silenzio una voce si alzò da una notte senza confini una luce brillò"
+    },
+    {
+      "id": "alleluia-la-tua-festa",
+      "code": "274",
+      "title": "Alleluia la Tua festa",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia Alleluia",
+      "lyricsSnippet": "Alleluia Alleluia Alleluia Alleluia"
+    },
+    {
+      "id": "ballata-dell-amore-vero",
+      "code": "277",
+      "title": "Ballata dell’amore vero",
+      "sectionId": "C",
+      "firstLyricsLine": "Io vorrei volerti bene",
+      "lyricsSnippet": "Io vorrei volerti bene come Ti ama Dio,"
+    },
+    {
+      "id": "e-la-gioia-che-fa-cantare",
+      "code": "278",
+      "title": "E' la gioia che fa cantare",
+      "sectionId": "C",
+      "firstLyricsLine": "B. Conte – P. Ferrante",
+      "lyricsSnippet": "B. Conte – P. Ferrante E' la gioia che fa cantare,"
+    },
+    {
+      "id": "creati-per-te",
+      "code": "280",
+      "title": "Creati per Te",
+      "sectionId": "E",
+      "firstLyricsLine": "Tu ci hai fatti per Te",
+      "lyricsSnippet": "Tu ci hai fatti per Te nella Tua immensità."
+    },
+    {
+      "id": "discendi-santo-spirito",
+      "code": "282",
+      "title": "Discendi Santo Spirito",
+      "sectionId": "C",
+      "firstLyricsLine": "Discendi, Santo Spirito,",
+      "lyricsSnippet": "Discendi, Santo Spirito, Le nostre menti illumina;"
+    },
+    {
+      "id": "ho-chiesto-a-lui",
+      "code": "288",
+      "title": "Ho chiesto a Lui",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho chiesto a Lui",
+      "lyricsSnippet": "Ho chiesto a Lui A chi tutto sa"
+    },
+    {
+      "id": "e-chissa",
+      "code": "289",
+      "title": "E chissà",
+      "sectionId": "C",
+      "firstLyricsLine": "E chissà, chi lo sa,",
+      "lyricsSnippet": "E chissà, chi lo sa, Se questo mondo poi resisterà"
+    },
+    {
+      "id": "mistero-della-cena",
+      "code": "291",
+      "title": "Mistero della cena",
+      "sectionId": "E",
+      "firstLyricsLine": "Mistero della Cena,",
+      "lyricsSnippet": "Mistero della Cena, è il Corpo di Gesù."
+    },
+    {
+      "id": "evenu-shaolm",
+      "code": "295",
+      "title": "Evenu shaolm",
+      "sectionId": "C",
+      "firstLyricsLine": "Evenu shaolm alejem.",
+      "lyricsSnippet": "Evenu shaolm alejem. Evenu shaolm alejem."
+    },
+    {
+      "id": "insieme-come-fratelli",
+      "code": "310",
+      "title": "Insieme come fratelli",
+      "sectionId": "C",
+      "firstLyricsLine": "Oh come è bello e gioioso",
+      "lyricsSnippet": "Oh come è bello e gioioso stare insieme come fratelli. (2v)"
+    },
+    {
+      "id": "maranatha-vieni-signor",
+      "code": "315",
+      "title": "Maranatha’, vieni Signor",
+      "sectionId": "C",
+      "firstLyricsLine": "Maranatha’, vieni Signor",
+      "lyricsSnippet": "Maranatha’, vieni Signor Verso Te, Gesù, le mani noi leviam."
+    },
+    {
+      "id": "annunciare",
+      "code": "316",
+      "title": "Annunciare",
+      "sectionId": "C",
+      "firstLyricsLine": "Ogni giorno penso alla vita che farò",
+      "lyricsSnippet": "Ogni giorno penso alla vita che farò se potente e ricco un giorno io diventerò;"
+    },
+    {
+      "id": "alzati-amica-mia",
+      "code": "318",
+      "title": "Alzati amica mia",
+      "sectionId": "C",
+      "firstLyricsLine": "Alzati amica mia, alzati e vieni con me",
+      "lyricsSnippet": "Alzati amica mia, alzati e vieni con me L'inverno è passa-to,"
+    },
+    {
+      "id": "come-creta",
+      "code": "319",
+      "title": "Come creta",
+      "sectionId": "E",
+      "firstLyricsLine": "Dio, io mi rivolgo a Te",
+      "lyricsSnippet": "Dio, io mi rivolgo a Te per chiederti perché vivo questa vita mia."
+    },
+    {
+      "id": "jesus-christ-you-are-my-life",
+      "code": "321",
+      "title": "Jesus Christ you are my life",
+      "sectionId": "C",
+      "firstLyricsLine": "Jesus Christ you are my life,",
+      "lyricsSnippet": "Jesus Christ you are my life, alleluia, alleluia!"
+    },
+    {
+      "id": "non-cercate-tra-i-morti",
+      "code": "323",
+      "title": "Non cercate tra i morti",
+      "sectionId": "C",
+      "firstLyricsLine": "Non cercate tra i morti",
+      "lyricsSnippet": "Non cercate tra i morti Chi la morte annientò"
+    },
+    {
+      "id": "alla-tua-mensa",
+      "code": "328",
+      "title": "Alla Tua mensa",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu ci inviti alla Tua mensa",
+      "lyricsSnippet": "Tu ci inviti alla Tua mensa e ci doni il pane e il vino."
+    },
+    {
+      "id": "tuo-e-il-regno",
+      "code": "330",
+      "title": "Tuo è il regno",
+      "sectionId": "C",
+      "firstLyricsLine": "Tuo è il Regno, tua la potenza",
+      "lyricsSnippet": "Tuo è il Regno, tua la potenza Tua è la gloria nei secoli."
+    },
+    {
+      "id": "chi",
+      "code": "334",
+      "title": "Chi",
+      "sectionId": "C",
+      "firstLyricsLine": "Filtra un raggio di sole fra le nubi del cielo,",
+      "lyricsSnippet": "Filtra un raggio di sole fra le nubi del cielo, strappa la terra al gelo: e nasce un fiore!"
+    },
+    {
+      "id": "danza-la-vita",
+      "code": "336",
+      "title": "Danza la vita",
+      "sectionId": "C",
+      "firstLyricsLine": "Canta con la voce e con il cuore,",
+      "lyricsSnippet": "Canta con la voce e con il cuore, con la bocca e con la vita,"
+    },
+    {
+      "id": "questo-amore",
+      "code": "339",
+      "title": "Questo amore",
+      "sectionId": "C",
+      "firstLyricsLine": "E' piccolo e dovrà crescere",
+      "lyricsSnippet": "E' piccolo e dovrà crescere morire seme per rinascere"
+    },
+    {
+      "id": "dona-nobis-pacem",
+      "code": "341",
+      "title": "Dona nobis pacem",
+      "sectionId": "H",
+      "firstLyricsLine": "Dona nobis pacem, pacem.",
+      "lyricsSnippet": "Dona nobis pacem, pacem. Dona nobis pacem."
+    },
+    {
+      "id": "tu-mi-guardi-dalla-croce",
+      "code": "342",
+      "title": "Tu mi guardi dalla Croce",
+      "sectionId": "P",
+      "firstLyricsLine": "Tu mi guardi dalla Croce",
+      "lyricsSnippet": "Tu mi guardi dalla Croce Questa sera mio Signor,"
+    },
+    {
+      "id": "alleluia-malgascio",
+      "code": "344",
+      "title": "Alleluia malgascio",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia, alleluia, alleluia oh!",
+      "lyricsSnippet": "Alleluia, alleluia, alleluia oh! Alleluia, alleluia, alleluia oh!"
+    },
+    {
+      "id": "ecco-il-nostro-si",
+      "code": "345",
+      "title": "Ecco il nostro sì",
+      "sectionId": "C",
+      "firstLyricsLine": "Fra tutte le donne scelta in Nazareth,",
+      "lyricsSnippet": "Fra tutte le donne scelta in Nazareth, sul Tuo volto risplende"
+    },
+    {
+      "id": "gloria-nell-alto-dei-cieli",
+      "code": "349",
+      "title": "Gloria nell'alto dei cieli",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria, gloria a Dio, gloria gloria nell’alto dei cieli",
+      "lyricsSnippet": "Gloria, gloria a Dio, gloria gloria nell’alto dei cieli pace in terra agli uomini di buona volontà"
+    },
+    {
+      "id": "dico-si",
+      "code": "354",
+      "title": "Dico sì",
+      "sectionId": "C",
+      "firstLyricsLine": "Dico sì all'amore e alla vita insieme.",
+      "lyricsSnippet": "Dico sì all'amore e alla vita insieme. Dico sì al futuro che verrà."
+    },
+    {
+      "id": "nozze-a-cana",
+      "code": "355",
+      "title": "Nozze a Cana",
+      "sectionId": "C",
+      "firstLyricsLine": "Danzano con gioia le figlie di Israele,",
+      "lyricsSnippet": "Danzano con gioia le figlie di Israele, Le nozze sono pronte per il figlio del re."
+    },
+    {
+      "id": "lo-spirito-e-la-sposa",
+      "code": "356",
+      "title": "Lo spirito e la sposa",
+      "sectionId": "C",
+      "firstLyricsLine": "Lo Spirito e la Sposa dicono: vieni!",
+      "lyricsSnippet": "Lo Spirito e la Sposa dicono: vieni! Maranathà, maranathà!"
+    },
+    {
+      "id": "rimani-con-me",
+      "code": "364",
+      "title": "Rimani con me",
+      "sectionId": "C",
+      "firstLyricsLine": "Maria tu sei la vita per me",
+      "lyricsSnippet": "Maria tu sei la vita per me Sei la speranza, la gioia, l’amore;"
+    },
+    {
+      "id": "lieta-armonia",
+      "code": "368",
+      "title": "Lieta armonia",
+      "sectionId": "C",
+      "firstLyricsLine": "Lieta armonia",
+      "lyricsSnippet": "Lieta armonia nel gaudio del mio spirito si espande:"
+    },
+    {
+      "id": "come-e-bello-signor",
+      "code": "369",
+      "title": "Come è bello Signor",
+      "sectionId": "C",
+      "firstLyricsLine": "Com'è bello, Signore, stare insieme",
+      "lyricsSnippet": "Com'è bello, Signore, stare insieme ed amarci come ami Tu: qui c'è Dio, alleluia!"
+    },
+    {
+      "id": "canzone-di-maria-chiara",
+      "code": "372",
+      "title": "Canzone di Maria Chiara",
+      "sectionId": "M",
+      "firstLyricsLine": "Se non ritornerete come bambini,",
+      "lyricsSnippet": "Se non ritornerete come bambini, non entrerete mai. (2v)"
+    },
+    {
+      "id": "mio-tutto",
+      "code": "374",
+      "title": "Mio tutto",
+      "sectionId": "C",
+      "firstLyricsLine": "Soffia su di me Signor una brezza lieve che",
+      "lyricsSnippet": "Soffia su di me Signor una brezza lieve che tocchi ben profondo dentro me, dentro me."
+    },
+    {
+      "id": "luce-che-sorgi",
+      "code": "379",
+      "title": "Luce che sorgi",
+      "sectionId": "C",
+      "firstLyricsLine": "Luce che sorgi nella notte",
+      "lyricsSnippet": "Luce che sorgi nella notte cantiamo a Te o Signore."
+    },
+    {
+      "id": "cammina-con-lui",
+      "code": "382",
+      "title": "Cammina con Lui",
+      "sectionId": "C",
+      "firstLyricsLine": "Cammina con Lui, fratello che vai,",
+      "lyricsSnippet": "Cammina con Lui, fratello che vai, cammina con Lui, se forza più non hai."
+    },
+    {
+      "id": "ave-maria-splendore-del-mattino",
+      "code": "383",
+      "title": "Ave Maria, splendore del mattino",
+      "sectionId": "M",
+      "firstLyricsLine": "Ave Maria, splendore del mattino,",
+      "lyricsSnippet": "Ave Maria, splendore del mattino, puro è il tuo sguardo ed umile il tuo cuore;"
+    },
+    {
+      "id": "oh-oh-cantero",
+      "code": "386",
+      "title": "Oh oh canterò",
+      "sectionId": "C",
+      "firstLyricsLine": "Oh, oh canterò",
+      "lyricsSnippet": "Oh, oh canterò Un cantico nuovo innalzo al Signor (2V)"
+    },
+    {
+      "id": "il-signore-e-il-pastore-della-vita-mia",
+      "code": "388",
+      "title": "Il Signore è il pastore della vita mia",
+      "sectionId": "N",
+      "firstLyricsLine": "Il Signore è il pastore della vita mia",
+      "lyricsSnippet": "Il Signore è il pastore della vita mia Il Signo re"
+    },
+    {
+      "id": "a-mani-vuote",
+      "code": "391",
+      "title": "A mani vuote",
+      "sectionId": "C",
+      "firstLyricsLine": "Stasera sono a mani vuote, o Dio,",
+      "lyricsSnippet": "Stasera sono a mani vuote, o Dio, niente ti posso regalare, o Dio:"
+    },
+    {
+      "id": "com-e-bello-come-da-gioia",
+      "code": "392",
+      "title": "Com'è bello, come da gioia",
+      "sectionId": "C",
+      "firstLyricsLine": "Com'è bello, come da' gioia",
+      "lyricsSnippet": "Com'è bello, come da' gioia che i fratelli stiano insieme."
+    },
+    {
+      "id": "in-questa-notte-splendida",
+      "code": "393",
+      "title": "In questa notte splendida",
+      "sectionId": "N",
+      "firstLyricsLine": "Caludio Chieffo",
+      "lyricsSnippet": "Caludio Chieffo In questa notte splendida di luce e di chiaror,"
+    },
+    {
+      "id": "cieli-nuovi-e-terra-nuova",
+      "code": "394",
+      "title": "Cieli nuovi e terra nuova",
+      "sectionId": "C",
+      "firstLyricsLine": "(Daniele Ricci)",
+      "lyricsSnippet": "(Daniele Ricci) Cieli nuovi e terra nuova"
+    },
+    {
+      "id": "vieni-santo-spirito-di-dio",
+      "code": "397",
+      "title": "Vieni, santo spirito di Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "(Francesco Buttazzo - Daniele Scarpa)",
+      "lyricsSnippet": "(Francesco Buttazzo - Daniele Scarpa) Vieni Santo Spirito di Dio,"
+    },
+    {
+      "id": "tu-sei-bambino",
+      "code": "400",
+      "title": "Tu sei bambino",
+      "sectionId": "C",
+      "firstLyricsLine": "(Daniele Ricci)",
+      "lyricsSnippet": "(Daniele Ricci) Tu sei bambino, tu sei bambino,"
+    },
+    {
+      "id": "del-tuo-spirito-signore-e-piena-la-terra",
+      "code": "407",
+      "title": "Del tuo Spirito, Signore, è piena la terra",
+      "sectionId": "C",
+      "firstLyricsLine": "Del tuo Spirito, Signore, è piena la terra,",
+      "lyricsSnippet": "Del tuo Spirito, Signore, è piena la terra, è piena la terra. (2 volte solo all’inizio poi 1 volta)"
+    },
+    {
+      "id": "attingeremo-con-gioia",
+      "code": "408",
+      "title": "Attingeremo con gioia",
+      "sectionId": "C",
+      "firstLyricsLine": "Attingeremo con gioia alle sorgenti della salvezza",
+      "lyricsSnippet": "Attingeremo con gioia alle sorgenti della salvezza (2 volte)"
+    },
+    {
+      "id": "e-santo",
+      "code": "410",
+      "title": "E’ santo",
+      "sectionId": "C",
+      "firstLyricsLine": "E’ Santo, santo santo, il Signore Dio dell’universo",
+      "lyricsSnippet": "E’ Santo, santo santo, il Signore Dio dell’universo I cieli e la terra sono pieni della tua gloria"
+    },
+    {
+      "id": "sono-qui-a-lodarti",
+      "code": "411",
+      "title": "Sono quì a lodarti",
+      "sectionId": "C",
+      "firstLyricsLine": "Luce del mondo, nel buio del cuore",
+      "lyricsSnippet": "Luce del mondo, nel buio del cuore vieni ed illuminami."
+    },
+    {
+      "id": "chiamati-per-nome",
+      "code": "419",
+      "title": "Chiamati per nome ♫",
+      "sectionId": "C",
+      "firstLyricsLine": "Veniamo da Te chiamati per nome",
+      "lyricsSnippet": "Veniamo da Te chiamati per nome Che festa, Signore, tu cammini con noi"
+    },
+    {
+      "id": "gloria-a-dio",
+      "code": "SP009",
+      "title": "Gloria a Dio",
+      "sectionId": "B",
+      "firstLyricsLine": "Glo_____ria!",
+      "lyricsSnippet": "Glo_____ria! a       Dio nell’alto dei cieli,              glo_____ria!"
+    },
+    {
+      "id": "alleluia-a-colui-che-risuscito",
+      "code": "SP014",
+      "title": "Alleluia - a Colui che risuscitò",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia, Alleluia gloria al nome di Gesù.",
+      "lyricsSnippet": "Alleluia, Alleluia gloria al nome di Gesù. Cristo è il Signore del mondo intero;"
+    },
+    {
+      "id": "alleluia-vieni-signore",
+      "code": "SP021",
+      "title": "Alleluia - vieni Signore",
+      "sectionId": "D",
+      "firstLyricsLine": "Alleluia,     alleluia,    alleluia,       allelu__ia.",
+      "lyricsSnippet": "Alleluia,     alleluia,    alleluia,       allelu__ia. Vieni Signore, a proclamare la tua Paro___la."
+    },
+    {
+      "id": "alleluia-da-chi-andremo",
+      "code": "SP023",
+      "title": "Alleluia - da chi andremo",
+      "sectionId": "D",
+      "firstLyricsLine": "Al__le_luia,            al_le__luia!",
+      "lyricsSnippet": "Al__le_luia,            al_le__luia! Alle_luia, al_le_luia,   al_le__luia!"
+    },
+    {
+      "id": "santo-4",
+      "code": "SP035",
+      "title": "Santo 4",
+      "sectionId": "G",
+      "firstLyricsLine": "Santo!   Santo! Santo il Signore, Dio dell’universo!",
+      "lyricsSnippet": "Santo!   Santo! Santo il Signore, Dio dell’universo! I cieli e la terra sono pieni della tua gloria!"
+    },
+    {
+      "id": "santo-il-signore-dio",
+      "code": "SP039",
+      "title": "Santo il Signore Dio",
+      "sectionId": "G",
+      "firstLyricsLine": "C:   Santo il Signore Dio dell’universo,",
+      "lyricsSnippet": "C:   Santo il Signore Dio dell’universo, i cieli e la terra son pieni della tua gloria _____"
+    },
+    {
+      "id": "santo-e",
+      "code": "SP047",
+      "title": "Santo è",
+      "sectionId": "G",
+      "firstLyricsLine": "Santo   è,           santo   è,",
+      "lyricsSnippet": "Santo   è,           santo   è, Re7+ Do#- Si- Do# 4"
+    },
+    {
+      "id": "esultiamo-in-dio",
+      "code": "SP075",
+      "title": "Esultiamo in Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Eleviamo a Dio   inni e canti di lode.",
+      "lyricsSnippet": "Eleviamo a Dio   inni e canti di lode. Entriamo nel suo tempio,"
+    },
+    {
+      "id": "padre-voglio-ritornare-da-te",
+      "code": "SP088",
+      "title": "Padre voglio ritornare da te",
+      "sectionId": "C",
+      "firstLyricsLine": "Nel cuore ho tanta nostalgia, vorrei",
+      "lyricsSnippet": "Nel cuore ho tanta nostalgia, vorrei tornare a casa tua,         il desiderio porto"
+    },
+    {
+      "id": "poverta",
+      "code": "SP291",
+      "title": "Povertà",
+      "sectionId": "C",
+      "firstLyricsLine": "• Povertà è tendere la mano a chi la chiederà,",
+      "lyricsSnippet": "• Povertà è tendere la mano a chi la chiederà, è mettere in comune tutto ciò che hai:"
+    },
+    {
+      "id": "abbracciami",
+      "code": "DG001",
+      "title": "Abbracciami",
+      "sectionId": "C",
+      "firstLyricsLine": "Gesù parola viva e vera",
+      "lyricsSnippet": "Gesù parola viva e vera Sorgente che disseta e cura ogni ferita"
+    },
+    {
+      "id": "agnello-di-dio",
+      "code": "DG003",
+      "title": "Agnello di Dio",
+      "sectionId": "L",
+      "firstLyricsLine": "Agnello di Dio che togli i peccati del mondo",
+      "lyricsSnippet": "Agnello di Dio che togli i peccati del mondo Abbi pietà di noi"
+    },
+    {
+      "id": "alla-porta-del-cielo",
+      "code": "DG004",
+      "title": "Alla porta del cielo",
+      "sectionId": "C",
+      "firstLyricsLine": "CON LE PAURE, I DUBBI E QUESTA CARNE DEBOLE,",
+      "lyricsSnippet": "CON LE PAURE, I DUBBI E QUESTA CARNE DEBOLE, CON LA MIA FRAGILITÀ,"
+    },
+    {
+      "id": "alleluia-sei-parola",
+      "code": "DG011",
+      "title": "Alleluia sei parola",
+      "sectionId": "D",
+      "firstLyricsLine": "Allelu - ia,   allelu – ia ,",
+      "lyricsSnippet": "Allelu - ia,   allelu – ia , alleluia   alleluia,   alleluia"
+    },
+    {
+      "id": "alto-e-glorioso",
+      "code": "DG012",
+      "title": "Alto e glorioso",
+      "sectionId": "C",
+      "firstLyricsLine": "Alto e glorioso Dio",
+      "lyricsSnippet": "Alto e glorioso Dio illumina il cuore mio,"
+    },
+    {
+      "id": "alma-misionera",
+      "code": "DG013",
+      "title": "Alma misionera",
+      "sectionId": "C",
+      "firstLyricsLine": "Señor, toma mi vida nueva",
+      "lyricsSnippet": "Señor, toma mi vida nueva antes de que la espera"
+    },
+    {
+      "id": "alzati-e-vai",
+      "code": "DG014",
+      "title": "Alzati e vai",
+      "sectionId": "C",
+      "firstLyricsLine": "Quale mistero è questa vita",
+      "lyricsSnippet": "Quale mistero è questa vita e quanti ne ho incontrati"
+    },
+    {
+      "id": "ascolta-la-nostra-lode",
+      "code": "DG015",
+      "title": "Ascolta la nostra lode",
+      "sectionId": "F",
+      "firstLyricsLine": "Danzeremo nel tuo nome,",
+      "lyricsSnippet": "Danzeremo nel tuo nome, per le strade esulteremo."
+    },
+    {
+      "id": "ave-maria-di-lourdes",
+      "code": "DG016",
+      "title": "Ave Maria di Lourdes",
+      "sectionId": "M",
+      "firstLyricsLine": "Ave,       ave,       ave          Maria!",
+      "lyricsSnippet": "Ave,       ave,       ave          Maria! E' l'ora che pia la squilla fedel"
+    },
+    {
+      "id": "bonum-est",
+      "code": "DG018",
+      "title": "Bonum est",
+      "sectionId": "C",
+      "firstLyricsLine": "Bonum est confidere in Domi – no,",
+      "lyricsSnippet": "Bonum est confidere in Domi – no, bonum spera - - - re in Do - - mi – no."
+    },
+    {
+      "id": "cantiamo-te",
+      "code": "DG019",
+      "title": "Cantiamo Te",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo Te, Signore della vita,",
+      "lyricsSnippet": "Cantiamo Te, Signore della vita, il nome Tuo è grande sulla terra,"
+    },
+    {
+      "id": "canzone-della-buonanotte",
+      "code": "DG020",
+      "title": "Canzone della buonanotte",
+      "sectionId": "C",
+      "firstLyricsLine": "Vogliamo salutare il dì che muo   -   o   -   re,",
+      "lyricsSnippet": "Vogliamo salutare il dì che muo   -   o   -   re, e chiedere perdono al Creato   -   o   -   re."
+    },
+    {
+      "id": "come-davide",
+      "code": "DG022",
+      "title": "Come Davide",
+      "sectionId": "C",
+      "firstLyricsLine": "Come Davide che cantò a Javhè, danzerò ed esulterò,",
+      "lyricsSnippet": "Come Davide che cantò a Javhè, danzerò ed esulterò, davanti al Re dei re!\t\t\t\t (danzare)"
+    },
+    {
+      "id": "come-le-rondini",
+      "code": "DG023",
+      "title": "Come le rondini",
+      "sectionId": "C",
+      "firstLyricsLine": "Camminerò cantando per le vie,",
+      "lyricsSnippet": "Camminerò cantando per le vie, dove ogni giorno vivo io ti trovo"
+    },
+    {
+      "id": "cosa-offrirti-o-dio",
+      "code": "DG024",
+      "title": "Cosa offrirti o Dio",
+      "sectionId": "C",
+      "firstLyricsLine": "Cosa offrirti o Dio, cosa posso darti,",
+      "lyricsSnippet": "Cosa offrirti o Dio, cosa posso darti, eccomi son qui davanti a te."
+    },
+    {
+      "id": "conducimi-tu",
+      "code": "DG025",
+      "title": "Conducimi Tu",
+      "sectionId": "C",
+      "firstLyricsLine": "Conducimi tu, luce gentile",
+      "lyricsSnippet": "Conducimi tu, luce gentile Conducimi nel buio che mi stringe,"
+    },
+    {
+      "id": "costellazioni",
+      "code": "DG026",
+      "title": "Costellazioni",
+      "sectionId": "C",
+      "firstLyricsLine": "Se le nostre anime fossero stelle",
+      "lyricsSnippet": "Se le nostre anime fossero stelle noi dovremmo fare una costellazione."
+    },
+    {
+      "id": "credo-in-te",
+      "code": "DG027",
+      "title": "Credo in Te",
+      "sectionId": "C",
+      "firstLyricsLine": "Credo in Te Signore, credo nel Tuo   Amore",
+      "lyricsSnippet": "Credo in Te Signore, credo nel Tuo   Amore Nella Tua forza    che sostiene il mondo."
+    },
+    {
+      "id": "dalla-tristezza-alla-danza",
+      "code": "DG028",
+      "title": "Dalla tristezza alla danza",
+      "sectionId": "C",
+      "firstLyricsLine": "Egli ha cambiato il mio pianto",
+      "lyricsSnippet": "Egli ha cambiato il mio pianto e la mia tristezza in danza"
+    },
+    {
+      "id": "dio-basta",
+      "code": "DG030",
+      "title": "Dio basta",
+      "sectionId": "C",
+      "firstLyricsLine": "Tutto passa, solo Dio resta",
+      "lyricsSnippet": "Tutto passa, solo Dio resta a chi ha Dio, Dio basta."
+    },
+    {
+      "id": "dio-fammi-strumento",
+      "code": "DG031",
+      "title": "Dio fammi strumento",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio fammi strumento della tua pace,",
+      "lyricsSnippet": "Dio fammi strumento della tua pace, dove c'è l'odio portare l'amore,"
+    },
+    {
+      "id": "dona-la-pace",
+      "code": "DG033",
+      "title": "Dona la pace",
+      "sectionId": "H",
+      "firstLyricsLine": "Dona la pace, Signo – re, a chi confida in te",
+      "lyricsSnippet": "Dona la pace, Signo – re, a chi confida in te Dona, dona la pace, Signo – re. Dona la pace."
+    },
+    {
+      "id": "dove-vita-e-davvero",
+      "code": "DG034",
+      "title": "Dove vita è davvero",
+      "sectionId": "C",
+      "firstLyricsLine": "Cerchi un sorriso negli occhi degli uomini",
+      "lyricsSnippet": "Cerchi un sorriso negli occhi degli uomini sogni avventure che il tempo porta con sè"
+    },
+    {
+      "id": "ho-incontrato-te",
+      "code": "DG035",
+      "title": "Ho incontrato te",
+      "sectionId": "C",
+      "firstLyricsLine": "Magiche note si sono unite a mille colori nell’armonia",
+      "lyricsSnippet": "Magiche note si sono unite a mille colori nell’armonia La vita mi offre il suo sorriso, nasce l’amore   anche per me (2v"
+    },
+    {
+      "id": "emmanuel",
+      "code": "DG037",
+      "title": "Emmanuel",
+      "sectionId": "C",
+      "firstLyricsLine": "Dall’orizzonte una grande luce",
+      "lyricsSnippet": "Dall’orizzonte una grande luce viaggia nella storia"
+    },
+    {
+      "id": "fede-e",
+      "code": "DG038",
+      "title": "Fede è",
+      "sectionId": "C",
+      "firstLyricsLine": "Mim     Re                      Mim",
+      "lyricsSnippet": "Mim     Re                      Mim è cercare Colui che non conosci"
+    },
+    {
+      "id": "forza-venite-gente",
+      "code": "DG039",
+      "title": "Forza venite gente",
+      "sectionId": "C",
+      "firstLyricsLine": "Forza venite gente che in piazza si va,",
+      "lyricsSnippet": "Forza venite gente che in piazza si va, un grande spettacolo c'è."
+    },
+    {
+      "id": "francesco-va",
+      "code": "DG040",
+      "title": "Francesco và",
+      "sectionId": "C",
+      "firstLyricsLine": "Quello che io vivo non mi basta più,",
+      "lyricsSnippet": "Quello che io vivo non mi basta più, tutto quel che avevo non mi serve più:"
+    },
+    {
+      "id": "gloria-rock",
+      "code": "DG042",
+      "title": "Gloria rock",
+      "sectionId": "B",
+      "firstLyricsLine": "Glo – o - ria              glo   - o -    ria",
+      "lyricsSnippet": "Glo – o - ria              glo   - o -    ria a Dio nell'alto dei cieli gloria"
+    },
+    {
+      "id": "grazie",
+      "code": "DG043",
+      "title": "Grazie!",
+      "sectionId": "C",
+      "firstLyricsLine": "Grazie, per il pane che tu ci dai",
+      "lyricsSnippet": "Grazie, per il pane che tu ci dai il vino, che dà gioia al cuore dell'uomo"
+    },
+    {
+      "id": "grazie-a-te",
+      "code": "DG044",
+      "title": "Grazie a Te",
+      "sectionId": "C",
+      "firstLyricsLine": "Ecco io vengo a te, oggi io vengo per dire grazie a te, mio Signor.",
+      "lyricsSnippet": "Ecco io vengo a te, oggi io vengo per dire grazie a te, mio Signor. Per tutto ciò che mi dai, per quel che hai fatto e p"
+    },
+    {
+      "id": "hope-of-peace",
+      "code": "DG045",
+      "title": "Hope of peace",
+      "sectionId": "C",
+      "firstLyricsLine": "Senti il cuore della tua città",
+      "lyricsSnippet": "Senti il cuore della tua città batte nella notte intorno a te"
+    },
+    {
+      "id": "invochiamo-la-tua-presenza",
+      "code": "DG048",
+      "title": "Invochiamo la tua presenza",
+      "sectionId": "C",
+      "firstLyricsLine": "tua presenza,",
+      "lyricsSnippet": "tua presenza, gnor,"
+    },
+    {
+      "id": "libera-il-tuo-si",
+      "code": "DG051",
+      "title": "Libera il tuo sì",
+      "sectionId": "C",
+      "firstLyricsLine": "Prendi il tuo coraggio tra le mani",
+      "lyricsSnippet": "Prendi il tuo coraggio tra le mani nei solchi getta un seme di speranza"
+    },
+    {
+      "id": "luce",
+      "code": "DG053",
+      "title": "Luce",
+      "sectionId": "C",
+      "firstLyricsLine": "C'è il segreto della libertà,",
+      "lyricsSnippet": "C'è il segreto della libertà, quella vera, batte dentro di te."
+    },
+    {
+      "id": "lui",
+      "code": "DG054",
+      "title": "Lui",
+      "sectionId": "C",
+      "firstLyricsLine": "Lui che può innalzare le montagne,",
+      "lyricsSnippet": "Lui che può innalzare le montagne, che può salvare un anima, oh oh oh.."
+    },
+    {
+      "id": "lui-m-ha-dato",
+      "code": "DG055",
+      "title": "Lui m'ha dato",
+      "sectionId": "C",
+      "firstLyricsLine": "Lui m'ha dato i cieli da guardar,",
+      "lyricsSnippet": "Lui m'ha dato i cieli da guardar, lui m'ha dato la bocca per cantar,"
+    },
+    {
+      "id": "magnificat-anima-mea",
+      "code": "DG057",
+      "title": "Magnificat anima mea",
+      "sectionId": "C",
+      "firstLyricsLine": "Magnificat, magnificat,",
+      "lyricsSnippet": "Magnificat, magnificat, magnificat anima mea Dominum."
+    },
+    {
+      "id": "manda-il-fuoco-dentro-di-me",
+      "code": "DG058",
+      "title": "Manda il fuoco dentro di me",
+      "sectionId": "C",
+      "firstLyricsLine": "Metti un fuoco nel mio cuor",
+      "lyricsSnippet": "Metti un fuoco nel mio cuor che io non possa trattenere"
+    },
+    {
+      "id": "maria-voglio-amarti",
+      "code": "DG061",
+      "title": "Maria, voglio amarti",
+      "sectionId": "M",
+      "firstLyricsLine": "Maria,             Maria,              Maria,    Maria.",
+      "lyricsSnippet": "Maria,             Maria,              Maria,    Maria. Siamo tutti tuoi e vogliamo amarti"
+    },
+    {
+      "id": "meraviglioso-sei",
+      "code": "DG062",
+      "title": "Meraviglioso Sei",
+      "sectionId": "C",
+      "firstLyricsLine": "Chi è pari a Te, Gesù?",
+      "lyricsSnippet": "Chi è pari a Te, Gesù? Solo Tu puoi ristorar"
+    },
+    {
+      "id": "ora-si-puo",
+      "code": "DG063",
+      "title": "Ora si può",
+      "sectionId": "C",
+      "firstLyricsLine": "Quale gioia restare qui",
+      "lyricsSnippet": "Quale gioia restare qui come fosse la nostra casa"
+    },
+    {
+      "id": "osanna-eh",
+      "code": "DG064",
+      "title": "Osanna eh",
+      "sectionId": "C",
+      "firstLyricsLine": "Solo:\t Coro:",
+      "lyricsSnippet": "Solo:\t Coro: Santo Santo     Osan - na"
+    },
+    {
+      "id": "pane-di-vita-nuova",
+      "code": "DG067",
+      "title": "Pane di vita nuova",
+      "sectionId": "C",
+      "firstLyricsLine": "vero cibo dato agli uomini,",
+      "lyricsSnippet": "vero cibo dato agli uomini, nutrimento che sostiene il mondo"
+    },
+    {
+      "id": "pentecoste",
+      "code": "DG068",
+      "title": "Pentecoste",
+      "sectionId": "C",
+      "firstLyricsLine": "Se senti un soffio nel cielo,",
+      "lyricsSnippet": "Se senti un soffio nel cielo, un vento che scuote le porte,"
+    },
+    {
+      "id": "perche-la-vostra-gioia-sia-piena",
+      "code": "DG069",
+      "title": "Perché la vostra gioia sia piena",
+      "sectionId": "C",
+      "firstLyricsLine": "perché la vostra gioia sia piena (2x)",
+      "lyricsSnippet": "perché la vostra gioia sia piena (2x) Prendi tra le mani prendi il mio Amore"
+    },
+    {
+      "id": "potente-sei-mio-signor",
+      "code": "DG071",
+      "title": "Potente sei mio Signor",
+      "sectionId": "C",
+      "firstLyricsLine": "Dio di misericordia, amore che non muore,",
+      "lyricsSnippet": "Dio di misericordia, amore che non muore, riempi il mio cuor."
+    },
+    {
+      "id": "preghiera-per-la-pace",
+      "code": "DG072",
+      "title": "Preghiera per la pace",
+      "sectionId": "H",
+      "firstLyricsLine": "O MARIA, Regina della pace:",
+      "lyricsSnippet": "O MARIA, Regina della pace: fa’ che non ci stanchiamo mai"
+    },
+    {
+      "id": "preghiera-semplice",
+      "code": "DG073",
+      "title": "Preghiera semplice",
+      "sectionId": "C",
+      "firstLyricsLine": "Dov’è odio fa ch’io porti amore,",
+      "lyricsSnippet": "Dov’è odio fa ch’io porti amore, dov’è offesa ch’io porti il perdono."
+    },
+    {
+      "id": "rendo-grazie-a-te-signor",
+      "code": "DG075",
+      "title": "Rendo grazie a Te Signor",
+      "sectionId": "C",
+      "firstLyricsLine": "mia roccia e mia fortezza sei,",
+      "lyricsSnippet": "mia roccia e mia fortezza sei, ascolti il grido della mia preghiera."
+    },
+    {
+      "id": "restate-qui",
+      "code": "DG076",
+      "title": "Restate qui",
+      "sectionId": "C",
+      "firstLyricsLine": "Restate qui e vegliate con me,",
+      "lyricsSnippet": "Restate qui e vegliate con me, vegliate e prega – te, vegliate e prega – te."
+    },
+    {
+      "id": "risplendi-gerusalemme",
+      "code": "DG077",
+      "title": "Risplendi, Gerusalemme",
+      "sectionId": "C",
+      "firstLyricsLine": "il tuo Dio sarà il tuo splendore.",
+      "lyricsSnippet": "il tuo Dio sarà il tuo splendore. Tutti i popoli in te dimoreranno,"
+    },
+    {
+      "id": "santo",
+      "code": "DG081",
+      "title": "Santo",
+      "sectionId": "G",
+      "firstLyricsLine": "Santo, Santo, Santo",
+      "lyricsSnippet": "Santo, Santo, Santo il Signore Dio dell’universo."
+    },
+    {
+      "id": "se-prendo-le-ali",
+      "code": "DG086",
+      "title": "Se prendo le ali",
+      "sectionId": "C",
+      "firstLyricsLine": "Nemmeno, le tenebre per te sono scure",
+      "lyricsSnippet": "Nemmeno, le tenebre per te sono scure e la notte è chiara come il giorno"
+    },
+    {
+      "id": "servire-e-regnare",
+      "code": "DG087",
+      "title": "Servire e’ regnare",
+      "sectionId": "C",
+      "firstLyricsLine": "Guardiamo a te che sei Maestro e Signore",
+      "lyricsSnippet": "Guardiamo a te che sei Maestro e Signore chinato a terra stai ci mostri che l'amore"
+    },
+    {
+      "id": "sono-qui",
+      "code": "DG088",
+      "title": "Sono qui",
+      "sectionId": "C",
+      "firstLyricsLine": "Luce Tu sei tra le ombre del mondo,",
+      "lyricsSnippet": "Luce Tu sei tra le ombre del mondo, apri i miei occhi al tuo amor."
+    },
+    {
+      "id": "specchio-dell-eternita",
+      "code": "DG089",
+      "title": "Specchio dell'eternità",
+      "sectionId": "C",
+      "firstLyricsLine": "Camminerò col sole che",
+      "lyricsSnippet": "Camminerò col sole che sarà luce sui miei giorni"
+    },
+    {
+      "id": "spirito-di-santita",
+      "code": "DG091",
+      "title": "Spirito di santità",
+      "sectionId": "C",
+      "firstLyricsLine": "Spirito di Luce",
+      "lyricsSnippet": "Spirito di Luce Spirito di Fuoco"
+    },
+    {
+      "id": "spirito-scendi",
+      "code": "DG092",
+      "title": "Spirito scendi",
+      "sectionId": "C",
+      "firstLyricsLine": "Spirito scendi su noi,",
+      "lyricsSnippet": "Spirito scendi su noi, spirito scendi su noi, scendi su noi."
+    },
+    {
+      "id": "stella-del-mattino",
+      "code": "DG093",
+      "title": "Stella del mattino",
+      "sectionId": "C",
+      "firstLyricsLine": "E lo vedrai venire in riva al mare tuo",
+      "lyricsSnippet": "E lo vedrai venire in riva al mare tuo t'inviterà a salpare verso l'infinito e scoprirai"
+    },
+    {
+      "id": "stupore-di-un-nuovo-canto",
+      "code": "DG094",
+      "title": "Stupore di un nuovo canto",
+      "sectionId": "C",
+      "firstLyricsLine": "E mi stupisce svegliarmi nel suono di un nuovo",
+      "lyricsSnippet": "E mi stupisce svegliarmi nel suono di un nuovo canto di un coro di gente e non so cos’è."
+    },
+    {
+      "id": "svegliati-o-sion",
+      "code": "DG095",
+      "title": "Svegliati o Sion",
+      "sectionId": "C",
+      "firstLyricsLine": "Svegliati svegliati o Sion",
+      "lyricsSnippet": "Svegliati svegliati o Sion metti le vesti più belle"
+    },
+    {
+      "id": "tu-che-nella-cena",
+      "code": "DG096",
+      "title": "Tu che nella cena",
+      "sectionId": "C",
+      "firstLyricsLine": "Prime 2 strofe arpeggiate. Terza gioiosa.",
+      "lyricsSnippet": "Prime 2 strofe arpeggiate. Terza gioiosa. Tu   che nella Cena parli d’amore,"
+    },
+    {
+      "id": "tu-sei-con-noi",
+      "code": "DG097",
+      "title": "Tu sei con noi",
+      "sectionId": "C",
+      "firstLyricsLine": "Vorrei cantarti, Signor,",
+      "lyricsSnippet": "Vorrei cantarti, Signor, lungo le strade;"
+    },
+    {
+      "id": "tu-sei-santo",
+      "code": "DG098",
+      "title": "Tu sei Santo",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu sei Santo Signore Dio,",
+      "lyricsSnippet": "Tu sei Santo Signore Dio, Tu sei forte, Tu sei grande,"
+    },
+    {
+      "id": "tutto-e-possibile",
+      "code": "DG099",
+      "title": "Tutto è possibile",
+      "sectionId": "C",
+      "firstLyricsLine": "Questo è il luogo che Dio ha scelto per te,",
+      "lyricsSnippet": "Questo è il luogo che Dio ha scelto per te, questo è il tempo pensato per te"
+    },
+    {
+      "id": "un-altra-umanita",
+      "code": "DG100",
+      "title": "Un’altra umanità",
+      "sectionId": "C",
+      "firstLyricsLine": "Ma dove andremo a finire se continua così?",
+      "lyricsSnippet": "Ma dove andremo a finire se continua così? si sente spesso dire dalla gente qua e là"
+    },
+    {
+      "id": "un-amore-imperfetto",
+      "code": "DG101",
+      "title": "Un amore imperfetto",
+      "sectionId": "C",
+      "firstLyricsLine": "Non saremo sempre qui",
+      "lyricsSnippet": "Non saremo sempre qui è una cosa a cui pensare"
+    },
+    {
+      "id": "veni-creator",
+      "code": "DG102",
+      "title": "Veni Creator",
+      "sectionId": "C",
+      "firstLyricsLine": "Veni Creator,   veni Creator,",
+      "lyricsSnippet": "Veni Creator,   veni Creator, veni Creator Spiritus."
+    },
+    {
+      "id": "vieni-spirito-forza-dall-alto",
+      "code": "DG105",
+      "title": "Vieni Spirito, forza dall'alto",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni Spirito,",
+      "lyricsSnippet": "Vieni Spirito, forza dall'alto, nel mio cuore"
+    },
+    {
+      "id": "vivi-con-noi-la-festa",
+      "code": "DG106",
+      "title": "Vivi con noi la festa",
+      "sectionId": "C",
+      "firstLyricsLine": "Grazie Gesù che vivi con noi la vita.",
+      "lyricsSnippet": "Grazie Gesù che vivi con noi la vita. Oggi è più bella ancora insieme a te."
+    },
+    {
+      "id": "volare-volare",
+      "code": "DG107",
+      "title": "Volare Volare",
+      "sectionId": "C",
+      "firstLyricsLine": "E il sole uscì color cinese",
+      "lyricsSnippet": "E il sole uscì color cinese e il suo ventaglio al cielo aprì"
+    },
+    {
+      "id": "canoni-di-taize",
+      "code": "DG109",
+      "title": "Canoni di Taizè",
+      "sectionId": "C",
+      "firstLyricsLine": "1) Ubi caritas et amor, ubi caritas Deus ibi est.",
+      "lyricsSnippet": "1) Ubi caritas et amor, ubi caritas Deus ibi est. 2) Magnificat, magnificat, magnificat anima mea Dominum."
+    },
+    {
+      "id": "bianco-natale",
+      "code": "DG110",
+      "title": "Bianco Natale",
+      "sectionId": "N",
+      "firstLyricsLine": "Quel lieve tuo candor, neve",
+      "lyricsSnippet": "Quel lieve tuo candor, neve discende lieto nel mio cuor."
+    },
+    {
+      "id": "esulta-il-cielo",
+      "code": "DG113",
+      "title": "Esulta il cielo",
+      "sectionId": "C",
+      "firstLyricsLine": "Esulta il cielo e canta a noi la novità:",
+      "lyricsSnippet": "Esulta il cielo e canta a noi la novità: Gesù è risorto dalla morte!"
+    },
+    {
+      "id": "gesu-e-vivo",
+      "code": "DG114",
+      "title": "Gesù è vivo",
+      "sectionId": "C",
+      "firstLyricsLine": "Alle – luia! Vive il nostro Re.",
+      "lyricsSnippet": "Alle – luia! Vive il nostro Re. La morte è sconfitta, la vittoria è del Signor."
+    },
+    {
+      "id": "lauda-jerusalem",
+      "code": "DG115",
+      "title": "Lauda Jerusalem",
+      "sectionId": "C",
+      "firstLyricsLine": "Lauda Jerusalem Dominum",
+      "lyricsSnippet": "Lauda Jerusalem Dominum Lauda Deum tuum Sion"
+    },
+    {
+      "id": "longarone-io-ti-prendo-come-mia-sposa",
+      "code": "LG001",
+      "title": "IO TI PRENDO COME MIA SPOSA",
+      "sectionId": "C",
+      "firstLyricsLine": "Tra le gioie e i dolori",
+      "lyricsSnippet": "Tra le gioie e i dolori tra la vita e la morte, nel bene e nel"
+    },
+    {
+      "id": "longarone-note-di-luce",
+      "code": "LG002",
+      "title": "NOTE DI LUCE",
+      "sectionId": "C",
+      "firstLyricsLine": "Quando solo nella strada",
+      "lyricsSnippet": "Quando solo nella strada stanco della povertà"
+    },
+    {
+      "id": "longarone-oggi-prendo-te",
+      "code": "LG003",
+      "title": "OGGI PRENDO TE",
+      "sectionId": "C",
+      "firstLyricsLine": "Davanti a Dio",
+      "lyricsSnippet": "Davanti a Dio ed al suo popolo riunito qui in"
+    },
+    {
+      "id": "longarone-ogni-mia-parola",
+      "code": "LG004",
+      "title": "OGNI MIA PAROLA",
+      "sectionId": "C",
+      "firstLyricsLine": "Come la poggia e la neve",
+      "lyricsSnippet": "Come la poggia e la neve scendono giù dal cielo"
+    },
+    {
+      "id": "longarone-padre-nostro-di-s-andrea",
+      "code": "LG008",
+      "title": "PADRE NOSTRO DI S. ANDREA",
+      "sectionId": "C",
+      "firstLyricsLine": "Padre nostro tu che stai",
+      "lyricsSnippet": "Padre nostro tu che stai in chi ama verità"
+    },
+    {
+      "id": "longarone-risuscito-alleluia",
+      "code": "LG013",
+      "title": "RISUSCITÒ ALLELUIA",
+      "sectionId": "D",
+      "firstLyricsLine": "Risuscitò, risuscitò, risuscitò, risuscitò",
+      "lyricsSnippet": "Risuscitò, risuscitò, risuscitò, risuscitò Alleluja, alleluja, alleluja, alleluja"
+    },
+    {
+      "id": "longarone-santo",
+      "code": "LG015",
+      "title": "SANTO",
+      "sectionId": "G",
+      "firstLyricsLine": "(Gen rosso)",
+      "lyricsSnippet": "(Gen rosso) Santo, Santo, Santo,"
+    },
+    {
+      "id": "longarone-segni-nuovi",
+      "code": "LG018",
+      "title": "SEGNI NUOVI",
+      "sectionId": "C",
+      "firstLyricsLine": "E segni nuovi oggi nascono già",
+      "lyricsSnippet": "E segni nuovi oggi nascono già e c'è più sole nelle nostre città,"
+    },
+    {
+      "id": "longarone-sei-solo-tu",
+      "code": "LG019",
+      "title": "SEI SOLO TU",
+      "sectionId": "C",
+      "firstLyricsLine": "Guarda più in là dell'orizzonte tuo,",
+      "lyricsSnippet": "Guarda più in là dell'orizzonte tuo, corre una via che va lontano:"
+    },
+    {
+      "id": "longarone-senza-frontiere",
+      "code": "LG020",
+      "title": "SENZA FRONTIERE",
+      "sectionId": "C",
+      "firstLyricsLine": "Chi può fermare in cielo",
+      "lyricsSnippet": "Chi può fermare in cielo Il volo dei gabbiani?"
+    },
+    {
+      "id": "longarone-sono-grazie",
+      "code": "LG022",
+      "title": "SONO GRAZIE",
+      "sectionId": "C",
+      "firstLyricsLine": "Perché Tu mi hai amato,",
+      "lyricsSnippet": "Perché Tu mi hai amato, come Tu sai amar."
+    },
+    {
+      "id": "longarone-tu-il-mio-rifugio-dio",
+      "code": "LG028",
+      "title": "TU IL MIO RIFUGIO DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu il mio rifugio o Dio.",
+      "lyricsSnippet": "Tu il mio rifugio o Dio. Solo Tu unica speranza"
+    },
+    {
+      "id": "longarone-un-cantico-nuovo",
+      "code": "LG029",
+      "title": "UN CANTICO NUOVO",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo al Signore un cantico nuovo",
+      "lyricsSnippet": "Cantiamo al Signore un cantico nuovo cantiamo la gloria del suo nome."
+    },
+    {
+      "id": "longarone-venite-alla-festa",
+      "code": "LG030",
+      "title": "VENITE ALLA FESTA",
+      "sectionId": "C",
+      "firstLyricsLine": "Oggi si prepara",
+      "lyricsSnippet": "Oggi si prepara un banchetto alla casa del re"
+    },
+    {
+      "id": "longarone-vieni-insieme-a-me",
+      "code": "LG032",
+      "title": "VIENI INSIEME A ME",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni insieme a me, guidami dove vorrai,",
+      "lyricsSnippet": "Vieni insieme a me, guidami dove vorrai, là dove sorge il sole, là dove nasce il nostro Amore"
+    },
+    {
+      "id": "longarone-insieme",
+      "code": "LG033",
+      "title": "INSIEME :",
+      "sectionId": "C",
+      "firstLyricsLine": "Vieni insieme a me,",
+      "lyricsSnippet": "Vieni insieme a me, guidami dove vorrai,"
+    },
+    {
+      "id": "longarone-tu-sia-benedetta",
+      "code": "LG040",
+      "title": "TU SIA BENEDETTA",
+      "sectionId": "C",
+      "firstLyricsLine": "(\"I'am blessed\")",
+      "lyricsSnippet": "(\"I'am blessed\") Qui nel silenzio, io pregherò"
+    },
+    {
+      "id": "longarone-credo-in-te",
+      "code": "LG046",
+      "title": "CREDO IN TE",
+      "sectionId": "C",
+      "firstLyricsLine": "(Giorgio Zanettin)",
+      "lyricsSnippet": "(Giorgio Zanettin) Credo in Te e so che sei... sei qui dentro di me"
+    },
+    {
+      "id": "seminario-colori",
+      "code": "SM016",
+      "title": "COLORI",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Questo prato verde ti ricorderà",
+      "lyricsSnippet": "1. Questo prato verde ti ricorderà la speranza del mattino,"
+    },
+    {
+      "id": "seminario-come-il-fiume",
+      "code": "SM018",
+      "title": "COME IL FIUME",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Come il fiume che scende nel mar,",
+      "lyricsSnippet": "1. Come il fiume che scende nel mar, come il vento su nel ciel."
+    },
+    {
+      "id": "seminario-come-maria",
+      "code": "SM019",
+      "title": "COME MARIA",
+      "sectionId": "M",
+      "firstLyricsLine": "1. Vogliamo vivere, Signore,",
+      "lyricsSnippet": "1. Vogliamo vivere, Signore, offrendo a te la nostra vita,"
+    },
+    {
+      "id": "seminario-dolce-sentire",
+      "code": "SM020",
+      "title": "DOLCE SENTIRE",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Dolce sentire come nel mio cuore",
+      "lyricsSnippet": "1. Dolce sentire come nel mio cuore ora umilmente sta nascendo amore."
+    },
+    {
+      "id": "seminario-e-bello-andar",
+      "code": "SM021",
+      "title": "È BELLO ANDAR",
+      "sectionId": "C",
+      "firstLyricsLine": "È bello andar coi miei fratelli",
+      "lyricsSnippet": "È bello andar coi miei fratelli per le vie del mondo e poi"
+    },
+    {
+      "id": "seminario-gesu-per-le-strade",
+      "code": "SM022",
+      "title": "GESÙ PER LE STRADE",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Gesù, per le strade vorrei te cantare,",
+      "lyricsSnippet": "1. Gesù, per le strade vorrei te cantare, Gesù, la tua vita al mondo annunciare vorrei."
+    },
+    {
+      "id": "seminario-gloria",
+      "code": "SM024",
+      "title": "GLORIA",
+      "sectionId": "B",
+      "firstLyricsLine": "Gloria, gloria, a Dio nell'alto dei cieli gloria, e pace e",
+      "lyricsSnippet": "Gloria, gloria, a Dio nell'alto dei cieli gloria, e pace e pace in terra agli uomini di buona volontà. Noi ti"
+    },
+    {
+      "id": "seminario-ho-abbandonato",
+      "code": "SM026",
+      "title": "HO ABBANDONATO",
+      "sectionId": "C",
+      "firstLyricsLine": "Ho abbandonato dietro di me",
+      "lyricsSnippet": "Ho abbandonato dietro di me ogni paura, ogni dubbio perché"
+    },
+    {
+      "id": "seminario-io-lo-so-signore",
+      "code": "SM027",
+      "title": "IO LO SO SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Io lo so Signore che vengo da lontano,",
+      "lyricsSnippet": "1. Io lo so Signore che vengo da lontano, prima nel pensiero e poi nella tua mano;"
+    },
+    {
+      "id": "seminario-lascia-che",
+      "code": "SM029",
+      "title": "LASCIA CHE",
+      "sectionId": "C",
+      "firstLyricsLine": "Lascia che il mondo vada per la sua strada;",
+      "lyricsSnippet": "Lascia che il mondo vada per la sua strada; do#- fa#- mi"
+    },
+    {
+      "id": "seminario-ma-il-vostro-posto",
+      "code": "SM032",
+      "title": "MA IL VOSTRO POSTO",
+      "sectionId": "C",
+      "firstLyricsLine": "1. Signore, come è bello, non andiamo via,",
+      "lyricsSnippet": "1. Signore, come è bello, non andiamo via, faremo delle tende e dormiremo qua,"
+    },
+    {
+      "id": "seminario-mio-signor-che-mattino",
+      "code": "SM033",
+      "title": "MIO SIGNOR CHE MATTINO",
+      "sectionId": "C",
+      "firstLyricsLine": "mio Signor che mattino!",
+      "lyricsSnippet": "mio Signor che mattino! Mio Signor che mattino"
+    },
+    {
+      "id": "seminario-risurrezione",
+      "code": "SM036",
+      "title": "RISURREZIONE",
+      "sectionId": "C",
+      "firstLyricsLine": "Che gioia ci hai dato, Signore del cielo",
+      "lyricsSnippet": "Che gioia ci hai dato, Signore del cielo Signore del grande universo."
+    },
+    {
+      "id": "seminario-siamo-arrivati",
+      "code": "SM038",
+      "title": "SIAMO ARRIVATI",
+      "sectionId": "C",
+      "firstLyricsLine": "in mille modi diversi,",
+      "lyricsSnippet": "in mille modi diversi, in mille momenti diversi"
+    },
+    {
+      "id": "seminario-signore-da-chi-andremo",
+      "code": "SM039",
+      "title": "SIGNORE DA CHI ANDREMO",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore da chi andremo?",
+      "lyricsSnippet": "Signore da chi andremo? Tu solo hai parole di vita,"
+    },
+    {
+      "id": "seminario-tutte-le-promesse",
+      "code": "SM040",
+      "title": "TUTTE LE PROMESSE",
+      "sectionId": "C",
+      "firstLyricsLine": "Tutte le promesse di Dio",
+      "lyricsSnippet": "Tutte le promesse di Dio sono divenute «sì» in Gesù Cristo:"
+    },
+    {
+      "id": "seminario-adesso-tu-sei-qui",
+      "code": "SM041",
+      "title": "ADESSO TU SEI QUI",
+      "sectionId": "C",
+      "firstLyricsLine": "Adesso tu sei qui Signor, qui nel mio cuore.",
+      "lyricsSnippet": "Adesso tu sei qui Signor, qui nel mio cuore. Mi dici parole nuove, parole d'amore"
+    },
+    {
+      "id": "seminario-va-per-le-vie-del-mondo",
+      "code": "SM042",
+      "title": "VA' PER LE VIE DEL MONDO",
+      "sectionId": "C",
+      "firstLyricsLine": "dove la gente cerca Pace.",
+      "lyricsSnippet": "dove la gente cerca Pace. Va' porta la Parola: è Cristo in mezzo a noi."
+    },
+    {
+      "id": "seminario-riuniti-dalla-tua-parola",
+      "code": "SM043",
+      "title": "RIUNITI DALLA TUA PAROLA",
+      "sectionId": "C",
+      "firstLyricsLine": "noi scopriamo che è bello",
+      "lyricsSnippet": "noi scopriamo che è bello servire Te."
+    },
+    {
+      "id": "atteso-l-atteso",
+      "code": "AT001",
+      "title": "L'Atteso",
+      "sectionId": "C",
+      "firstLyricsLine": "La notte è lunga,",
+      "lyricsSnippet": "La notte è lunga, la stanza è buia;"
+    },
+    {
+      "id": "frate-jacopa-2007-perche-tu-sei-con-me",
+      "code": "FJ001",
+      "title": "PERCHE' TU SEI CON ME",
+      "sectionId": "C",
+      "firstLyricsLine": "Solo Tu sei il mio pastore,",
+      "lyricsSnippet": "Solo Tu sei il mio pastore, niente mai mi mancherà,"
+    },
+    {
+      "id": "frate-jacopa-2007-lui-verra-e-ti-salvera",
+      "code": "FJ004",
+      "title": "LUI VERRA' E TI SALVERA'",
+      "sectionId": "C",
+      "firstLyricsLine": "A chi è nell'angoscia tu dirai:",
+      "lyricsSnippet": "A chi è nell'angoscia tu dirai: non devi temer, il tuo Signore è qui,"
+    },
+    {
+      "id": "frate-jacopa-2007-questa-e-la-mia-fede",
+      "code": "FJ006",
+      "title": "QUESTA E' LA MIA FEDE",
+      "sectionId": "C",
+      "firstLyricsLine": "Questa è la mia fede, proclamarti mio re, unico Dio, grande",
+      "lyricsSnippet": "Questa è la mia fede, proclamarti mio re, unico Dio, grande Signore. Questa è la speranza so che risorgerò e in Te"
+    },
+    {
+      "id": "frate-jacopa-2007-tieni-viva-la-tua-fiamma",
+      "code": "FJ010",
+      "title": "TIENI VIVA LA TUA FIAMMA",
+      "sectionId": "C",
+      "firstLyricsLine": "Tieni viva la tua fiamma che risplenda nella notte!",
+      "lyricsSnippet": "Tieni viva la tua fiamma che risplenda nella notte! Il Signore sta arrivando, la fatica finirà!"
+    },
+    {
+      "id": "frate-jacopa-2007-cantate-inni-a-dio",
+      "code": "FJ013",
+      "title": "CANTATE INNI A DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantate inni a Dio, cantate inni.",
+      "lyricsSnippet": "Cantate inni a Dio, cantate inni. Cantate al nostro Re, cantate inni."
+    },
+    {
+      "id": "frate-jacopa-2007-portami-con-te",
+      "code": "FJ014",
+      "title": "PORTAMI CON TE",
+      "sectionId": "C",
+      "firstLyricsLine": "Signore portami con Te per le strade",
+      "lyricsSnippet": "Signore portami con Te per le strade tra gli uomini che cercano amore."
+    },
+    {
+      "id": "frate-jacopa-2007-e-la-gioia",
+      "code": "FJ015",
+      "title": "E' LA GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "E' la gioia che fa cantare",
+      "lyricsSnippet": "E' la gioia che fa cantare celebrando il Signore."
+    },
+    {
+      "id": "frate-jacopa-2007-soffiera",
+      "code": "FJ016",
+      "title": "SOFFIERA'",
+      "sectionId": "C",
+      "firstLyricsLine": "Tu sei la prima stella del mattino,",
+      "lyricsSnippet": "Tu sei la prima stella del mattino, Tu sei la nostra grande nostalgia,"
+    },
+    {
+      "id": "frate-jacopa-2007-esultate-in-dio",
+      "code": "FJ018",
+      "title": "ESULTATE IN DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Esultate in Dio nostra forza,",
+      "lyricsSnippet": "Esultate in Dio nostra forza, lodate il Signor, il Dio di Giacobbe."
+    },
+    {
+      "id": "frate-jacopa-2007-isaia-sessantadue",
+      "code": "FJ019",
+      "title": "ISAIA SESSANTADUE",
+      "sectionId": "C",
+      "firstLyricsLine": "Io gioisco pienamente nel Signore,",
+      "lyricsSnippet": "Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio,"
+    },
+    {
+      "id": "frate-jacopa-2007-laudato-sii-mio-dolcissimo-signore",
+      "code": "FJ024",
+      "title": "LAUDATO SII MIO DOLCISSIMO SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Laudato sii mio dolcissimo Signore, con tutte quante le tue",
+      "lyricsSnippet": "Laudato sii mio dolcissimo Signore, con tutte quante le tue splendide creature specialmente frate sole, che fa giorno e"
+    },
+    {
+      "id": "frate-jacopa-2007-spirito-santo-dai-luce",
+      "code": "FJ025",
+      "title": "SPIRITO SANTO DAI LUCE",
+      "sectionId": "C",
+      "firstLyricsLine": "Spirito Santo scendi su di me,",
+      "lyricsSnippet": "Spirito Santo scendi su di me, infiamma il mio cuore, dai luce alla mia mente."
+    },
+    {
+      "id": "frate-jacopa-2007-acclamate-a-dio",
+      "code": "FJ027",
+      "title": "ACCLAMATE A DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Acclamate a Dio da tutta la terra,",
+      "lyricsSnippet": "Acclamate a Dio da tutta la terra, Cantate alla gloria del suo nome,"
+    },
+    {
+      "id": "frate-jacopa-2007-cibo-di-eternita",
+      "code": "FJ028",
+      "title": "CIBO DI ETERNITA'",
+      "sectionId": "C",
+      "firstLyricsLine": "Sei per noi cibo d'eternità",
+      "lyricsSnippet": "Sei per noi cibo d'eternità Vera bevanda che"
+    },
+    {
+      "id": "frate-jacopa-2007-nostra-gloria-e-la-croce",
+      "code": "FJ038",
+      "title": "NOSTRA GLORIA E' LA CROCE",
+      "sectionId": "P",
+      "firstLyricsLine": "Nostra gloria è la Croce di Cristo,",
+      "lyricsSnippet": "Nostra gloria è la Croce di Cristo, in lei la vittoria:"
+    },
+    {
+      "id": "frate-jacopa-2007-strade-e-pensieri-per-domani",
+      "code": "FJ040",
+      "title": "STRADE E PENSIERI PER DOMANI",
+      "sectionId": "C",
+      "firstLyricsLine": "Sai, da soli non si può...fare nulla",
+      "lyricsSnippet": "Sai, da soli non si può...fare nulla Sai, aspetto solo te."
+    },
+    {
+      "id": "frate-jacopa-2007-nella-luce-del-signore-marciamo",
+      "code": "FJ041",
+      "title": "NELLA LUCE DEL SIGNORE MARCIAMO",
+      "sectionId": "C",
+      "firstLyricsLine": "Nella luce del Signore marciamo, nella luce del Signore marciamo.",
+      "lyricsSnippet": "Nella luce del Signore marciamo, nella luce del Signore marciamo. Nella luce del Signore marciamo, nella luce del Signor"
+    },
+    {
+      "id": "frate-jacopa-2007-celebriamo-il-dio-d-amore",
+      "code": "FJ042",
+      "title": "CELEBRIAMO IL DIO D'AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Cambia il tuo dolor nella gioia sua,",
+      "lyricsSnippet": "Cambia il tuo dolor nella gioia sua, ha operato in te il Signor."
+    },
+    {
+      "id": "frate-jacopa-2007-dal-profondo-o-signore",
+      "code": "FJ043",
+      "title": "DAL PROFONDO O SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Dal profondo, o Signore, gridiamo il tuo nome",
+      "lyricsSnippet": "Dal profondo, o Signore, gridiamo il tuo nome Dalle strade del mondo vogliamo tornare a te"
+    },
+    {
+      "id": "frate-jacopa-2007-arderanno-sempre-i-nostri-cuori",
+      "code": "FJ044",
+      "title": "ARDERANNO SEMPRE I NOSTRI CUORI",
+      "sectionId": "C",
+      "firstLyricsLine": "Quando scende su di noi la sera e scopri che",
+      "lyricsSnippet": "Quando scende su di noi la sera e scopri che nel cuore resta nostalgia"
+    },
+    {
+      "id": "frate-jacopa-2007-saro-libero",
+      "code": "FJ046",
+      "title": "SARO' LIBERO",
+      "sectionId": "C",
+      "firstLyricsLine": "L'Amore mi chiama ad altezze vertiginose;",
+      "lyricsSnippet": "L'Amore mi chiama ad altezze vertiginose; l'Amore di un Padre che mi ha fatto figlio suo."
+    },
+    {
+      "id": "frate-jacopa-2007-ritmate-sui-tamburi",
+      "code": "FJ047",
+      "title": "RITMATE SUI TAMBURI",
+      "sectionId": "C",
+      "firstLyricsLine": "Ritmate sui tamburi un inno al mio Dio,",
+      "lyricsSnippet": "Ritmate sui tamburi un inno al mio Dio, sull'arpa e sulla cetra la lode per Lui."
+    },
+    {
+      "id": "frate-jacopa-2007-apri-gli-occhi",
+      "code": "FJ048",
+      "title": "APRI GLI OCCHI",
+      "sectionId": "C",
+      "firstLyricsLine": "Anche se ti scopri nell'oscurità,",
+      "lyricsSnippet": "Anche se ti scopri nell'oscurità, non aver paura della verità,"
+    },
+    {
+      "id": "frate-jacopa-2007-e-finita-l-attesa",
+      "code": "FJ049",
+      "title": "E' FINITA L'ATTESA",
+      "sectionId": "C",
+      "firstLyricsLine": "È finita l'attesa dell'uomo,",
+      "lyricsSnippet": "È finita l'attesa dell'uomo, È passata la notte del mondo,"
+    },
+    {
+      "id": "frate-jacopa-2007-in-questo-giorno-di-luce",
+      "code": "FJ050",
+      "title": "IN QUESTO GIORNO DI LUCE",
+      "sectionId": "C",
+      "firstLyricsLine": "in questa festa di pace",
+      "lyricsSnippet": "in questa festa di pace do#- la7+ si do#-"
+    },
+    {
+      "id": "frate-jacopa-2007-grida-nuova-umanita",
+      "code": "FJ052",
+      "title": "GRIDA NUOVA UMANITA'",
+      "sectionId": "C",
+      "firstLyricsLine": "Grida nuova umanità, grida il canto dell'amore.",
+      "lyricsSnippet": "Grida nuova umanità, grida il canto dell'amore. Il futuro è già presente dentro te !"
+    },
+    {
+      "id": "frate-jacopa-2007-ci-liberera-il-signor",
+      "code": "FJ055",
+      "title": "CI LIBERERA' IL SIGNOR",
+      "sectionId": "C",
+      "firstLyricsLine": "col suo braccio santo ci libererà. (2V)",
+      "lyricsSnippet": "col suo braccio santo ci libererà. (2V) Grande è il nostro Dio nella sua bontà,"
+    },
+    {
+      "id": "frate-jacopa-2007-benediro",
+      "code": "FJ056",
+      "title": "BENEDIRÒ",
+      "sectionId": "C",
+      "firstLyricsLine": "Benedirò... il Signore in ogni tempo,",
+      "lyricsSnippet": "Benedirò... il Signore in ogni tempo, benedirò... il Signore (2V)."
+    },
+    {
+      "id": "frate-jacopa-2007-osanna",
+      "code": "FJ059",
+      "title": "OSANNA",
+      "sectionId": "C",
+      "firstLyricsLine": "O.....sanna, O.....sanna, O.....sanna",
+      "lyricsSnippet": "O.....sanna, O.....sanna, O.....sanna Osanna al Re dei Re!"
+    },
+    {
+      "id": "frate-jacopa-2007-ho-il-cielo-dentro-il-cuor",
+      "code": "FJ060",
+      "title": "HO IL CIELO DENTRO IL  CUOR",
+      "sectionId": "C",
+      "firstLyricsLine": "Il Regno del Signore è qui",
+      "lyricsSnippet": "Il Regno del Signore è qui La presenza della tua maestà"
+    },
+    {
+      "id": "frate-jacopa-2007-tardi-t-amai",
+      "code": "FJ064",
+      "title": "TARDI T'AMAI",
+      "sectionId": "C",
+      "firstLyricsLine": "Tardi t'amai, Bellezza infinita,",
+      "lyricsSnippet": "Tardi t'amai, Bellezza infinita, tardi t'amai, tardi t'amai,"
+    },
+    {
+      "id": "frate-jacopa-2007-grande-e-la-tua-bonta",
+      "code": "FJ065",
+      "title": "GRANDE  E' LA TUA BONTA'",
+      "sectionId": "C",
+      "firstLyricsLine": "Grande è la Tua bontà, che riservi per chi Ti teme",
+      "lyricsSnippet": "Grande è la Tua bontà, che riservi per chi Ti teme Colmi della Tua grazia l'uomo che in Te si rifugia."
+    },
+    {
+      "id": "frate-jacopa-2007-fa-che-io-creda",
+      "code": "FJ067",
+      "title": "FA' CHE IO CREDA",
+      "sectionId": "C",
+      "firstLyricsLine": "Nel mio cuore credo che Tu sei il Figlio di Dio.",
+      "lyricsSnippet": "Nel mio cuore credo che Tu sei il Figlio di Dio. Tra le Tue mani, Signore, quest'acqua in vino si trasformerà,"
+    },
+    {
+      "id": "frate-jacopa-2007-glorificate-dio",
+      "code": "FJ069",
+      "title": "GLORIFICATE DIO",
+      "sectionId": "C",
+      "firstLyricsLine": "Glorificate Dio, glorificate il Santo,",
+      "lyricsSnippet": "Glorificate Dio, glorificate il Santo, Glorificate il Re dei Re!"
+    },
+    {
+      "id": "frate-jacopa-2007-gloria-al-signore-che-salva",
+      "code": "FJ070",
+      "title": "GLORIA AL SIGNORE CHE SALVA",
+      "sectionId": "B",
+      "firstLyricsLine": "gloria alla sua potenza!",
+      "lyricsSnippet": "gloria alla sua potenza! FA#- SOL#- LA"
+    },
+    {
+      "id": "frate-jacopa-2007-piedi-a-colori",
+      "code": "FJ072",
+      "title": "PIEDI A COLORI",
+      "sectionId": "C",
+      "firstLyricsLine": "Il mio mondo è fatto di colori",
+      "lyricsSnippet": "Il mio mondo è fatto di colori che disegnano l'unità"
+    },
+    {
+      "id": "frate-jacopa-2007-destinati-all-eternita",
+      "code": "FJ073",
+      "title": "DESTINATI ALL'ETERNITA'",
+      "sectionId": "C",
+      "firstLyricsLine": "Quando penso al tempo che è passato",
+      "lyricsSnippet": "Quando penso al tempo che è passato e che non ho più,"
+    },
+    {
+      "id": "frate-jacopa-2007-cantero-al-signore-per-sempre",
+      "code": "FJ075",
+      "title": "CANTERO' AL SIGNORE PER SEMPRE",
+      "sectionId": "C",
+      "firstLyricsLine": "Mi sol#- la7+ sol#- do#-",
+      "lyricsSnippet": "Mi sol#- la7+ sol#- do#- Canterò al Signor per sem pre,"
+    },
+    {
+      "id": "frate-jacopa-2007-grande-e-il-signore",
+      "code": "FJ076",
+      "title": "GRANDE E' IL SIGNORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Grande e degno di ogni lode è il Signore",
+      "lyricsSnippet": "Grande e degno di ogni lode è il Signore la città del nostro Dio è un luogo santo"
+    },
+    {
+      "id": "frate-jacopa-2007-cantiamo-con-gioia",
+      "code": "FJ077",
+      "title": "CANTIAMO CON GIOIA",
+      "sectionId": "C",
+      "firstLyricsLine": "Cantiamo con gioia al nostro Dio",
+      "lyricsSnippet": "Cantiamo con gioia al nostro Dio gridiamo con forza al nostro re!"
+    },
+    {
+      "id": "frate-jacopa-2007-davanti-a-questo-amore",
+      "code": "FJ078",
+      "title": "DAVANTI A QUESTO AMORE",
+      "sectionId": "C",
+      "firstLyricsLine": "Hai disteso le tue braccia anche per me Gesù,",
+      "lyricsSnippet": "Hai disteso le tue braccia anche per me Gesù, dal tuo cuore come fonte"
+    },
+    {
+      "id": "frate-jacopa-2007-sorgi-gerusalemme",
+      "code": "FJ081",
+      "title": "SORGI GERUSALEMME",
+      "sectionId": "C",
+      "firstLyricsLine": "Sorgi, risplendi, la tua luce è giunta,",
+      "lyricsSnippet": "Sorgi, risplendi, la tua luce è giunta, Gerusalemme, Gerusalemme."
+    },
+    {
+      "id": "frate-jacopa-2007-cantico",
+      "code": "FJ082",
+      "title": "CANTICO",
+      "sectionId": "C",
+      "firstLyricsLine": "Alzati mia diletta e vieni con me, dammi la mano",
+      "lyricsSnippet": "Alzati mia diletta e vieni con me, dammi la mano Nuove strade si aprono davanti ai nostri passi,"
+    }
+  ]
+}

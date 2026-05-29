@@ -1,0 +1,3986 @@
+{
+  "generatedAt": "2026-05-29T09:30:44.859Z",
+  "totalSongs": 1106,
+  "liturgicalGroupsSkipped": 18,
+  "groupsToClean": 170,
+  "songsToHide": 228,
+  "groups": [
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "scusa-signore-biagioli-in-re",
+        "code": "SP086",
+        "title": "Scusa Signore",
+        "subtitle": "biagioli (in Re)",
+        "lines": 35
+      },
+      "remove": [
+        {
+          "id": "a7",
+          "code": "A7",
+          "title": "Scusa Signore",
+          "lines": 13
+        },
+        {
+          "id": "scusa-signore-biagioli-in-sol",
+          "code": "SP085",
+          "title": "Scusa Signore",
+          "subtitle": "biagioli (in Sol)",
+          "lines": 34
+        }
+      ],
+      "preview": "scusa signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "acclamate-al-signore-m-frisina-in-do",
+        "code": "SP060",
+        "title": "Acclamate al Signore",
+        "subtitle": "m. frisina (in Do)",
+        "lines": 129
+      },
+      "remove": [
+        {
+          "id": "acclamate-al-signore",
+          "code": "LA2",
+          "title": "ACCLAMATE AL SIGNORE",
+          "lines": 20
+        }
+      ],
+      "preview": "acclamate al signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "alzati-e-risplendi",
+        "code": "LA14",
+        "title": "ALZATI E RISPLENDI",
+        "lines": 58
+      },
+      "remove": [
+        {
+          "id": "seminario-alzati-e-risplendi",
+          "code": "SM013",
+          "title": "ALZATI E RISPLENDI",
+          "lines": 45
+        }
+      ],
+      "preview": "alzati e risplendi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "alto-e-glorioso-dio",
+        "code": "LA18",
+        "title": "ALTO E GLORIOSO DIO",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-alto-e-glorioso-dio",
+          "code": "FJ002",
+          "title": "ALTO E GLORIOSO DIO",
+          "lines": 14
+        }
+      ],
+      "preview": "alto e glorioso dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "annunceremo-che-tu-p-auricchio",
+        "code": "SP177",
+        "title": "Annunceremo che Tu",
+        "subtitle": "p. auricchio",
+        "lines": 112
+      },
+      "remove": [
+        {
+          "id": "annunceremo-che-tu",
+          "code": "LA20",
+          "title": "ANNUNCEREMO CHE TU",
+          "lines": 22
+        },
+        {
+          "id": "frate-jacopa-2007-annunceremo-che-tu",
+          "code": "FJ058",
+          "title": "ANNUNCEREMO CHE TU",
+          "lines": 14
+        }
+      ],
+      "preview": "annunceremo che tu",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "amatevi-fratelli-in-fa",
+        "code": "SP124",
+        "title": "Amatevi fratelli",
+        "subtitle": "in Fa",
+        "lines": 18
+      },
+      "remove": [
+        {
+          "id": "amatevi-fratelli",
+          "code": "LA22",
+          "title": "AMATEVI FRATELLI",
+          "lines": 12
+        },
+        {
+          "id": "amatevi-fratelli-in-sol",
+          "code": "SP125",
+          "title": "Amatevi fratelli",
+          "subtitle": "in Sol",
+          "lines": 18
+        }
+      ],
+      "preview": "amatevi fratelli",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "andate-per-le-strade-a-roncari",
+        "code": "SP169",
+        "title": "Andate per le strade",
+        "subtitle": "a.roncari",
+        "lines": 115
+      },
+      "remove": [
+        {
+          "id": "andate-per-le-strade",
+          "code": "LA24",
+          "title": "ANDATE PER LE STRADE",
+          "lines": 57
+        },
+        {
+          "id": "seminario-andate-per-le-strade",
+          "code": "SM014",
+          "title": "ANDATE PER LE STRADE",
+          "lines": 22
+        }
+      ],
+      "preview": "andate per le strade",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "antica-eterna-danza-m-t-henderson-j-belamide-gen",
+        "code": "SP101",
+        "title": "Antica, eterna danza",
+        "subtitle": "m.t.henderson, j.belamide / gen v. Cerco il tuo volto",
+        "lines": 65
+      },
+      "remove": [
+        {
+          "id": "antica-eterna-danza",
+          "code": "LA26",
+          "title": "ANTICA, ETERNA DANZA",
+          "lines": 15
+        }
+      ],
+      "preview": "antica eterna danza",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "astro-del-ciel-in-la-e-sol",
+        "code": "SP199",
+        "title": "Astro del ciel",
+        "subtitle": "in La e Sol",
+        "lines": 34
+      },
+      "remove": [
+        {
+          "id": "astro-del-ciel",
+          "code": "LA29",
+          "title": "ASTRO DEL CIEL",
+          "lines": 14
+        },
+        {
+          "id": "longarone-astro-del-ciel",
+          "code": "LG044",
+          "title": "ASTRO DEL CIEL",
+          "lines": 12
+        }
+      ],
+      "preview": "astro del ciel",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "ave-maria-m-balduzzi-c-casucci-verbum-panis",
+        "code": "SP231",
+        "title": "Ave Maria",
+        "subtitle": "m. balduzzi–c. casucci verbum panis",
+        "lines": 188
+      },
+      "remove": [
+        {
+          "id": "ave-maria",
+          "code": "LA30",
+          "title": "AVE MARIA",
+          "lines": 15
+        },
+        {
+          "id": "longarone-ave-maria",
+          "code": "LG038",
+          "title": "AVE MARIA",
+          "lines": 19
+        }
+      ],
+      "preview": "ave maria",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "canta-alleluia-rns",
+        "code": "SP027",
+        "title": "Canta alleluia",
+        "subtitle": "rns",
+        "lines": 104
+      },
+      "remove": [
+        {
+          "id": "canta-alleluia",
+          "code": "LA32",
+          "title": "CANTA ALLELUIA",
+          "lines": 8
+        }
+      ],
+      "preview": "canta alleluia",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "benedetto-sei-tu-lit-gen-verde",
+        "code": "SP112",
+        "title": "Benedetto sei Tu",
+        "subtitle": "lit.-gen verde",
+        "lines": 133
+      },
+      "remove": [
+        {
+          "id": "benedetto-sei-tu",
+          "code": "LA35",
+          "title": "BENEDETTO SEI TU",
+          "lines": 17
+        },
+        {
+          "id": "seminario-benedetto-sei-tu",
+          "code": "SM015",
+          "title": "BENEDETTO SEI TU",
+          "lines": 24
+        }
+      ],
+      "preview": "benedetto sei tu",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "benedici-o-signore-gen-r-in-la",
+        "code": "SP105",
+        "title": "Benedici, o Signore",
+        "subtitle": "gen r. (in La-)",
+        "lines": 84
+      },
+      "remove": [
+        {
+          "id": "benedici-o-signore",
+          "code": "LA39",
+          "title": "BENEDICI, O SIGNORE",
+          "lines": 24
+        }
+      ],
+      "preview": "benedici o signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "canto-dei-tre-giovani-rns",
+        "code": "SP061",
+        "title": "Canto dei tre giovani",
+        "subtitle": "rns",
+        "lines": 88
+      },
+      "remove": [
+        {
+          "id": "canto-dei-tre-giovani",
+          "code": "LA47",
+          "title": "CANTO DEI TRE GIOVANI",
+          "lines": 34
+        }
+      ],
+      "preview": "canto dei tre giovani",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "come-fuoco-vivo-gen-v-gen-r-in-do",
+        "code": "SP158",
+        "title": "Come fuoco vivo",
+        "subtitle": "gen v.-gen r. (in Do)",
+        "lines": 65
+      },
+      "remove": [
+        {
+          "id": "come-fuoco-vivo",
+          "code": "LA48",
+          "title": "COME FUOCO VIVO",
+          "lines": 22
+        }
+      ],
+      "preview": "come fuoco vivo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "come-l-aurora-verrai-gen-verde",
+        "code": "SP191",
+        "title": "Come l’aurora verrai",
+        "subtitle": "gen verde",
+        "lines": 452
+      },
+      "remove": [
+        {
+          "id": "come-l-aurora-verrai",
+          "code": "LA51",
+          "title": "COME L’AURORA VERRAI",
+          "lines": 24
+        }
+      ],
+      "preview": "come l aurora verrai",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "seminario-come-maria",
+        "code": "SM019",
+        "title": "COME MARIA",
+        "lines": 84
+      },
+      "remove": [
+        {
+          "id": "come-maria",
+          "code": "LA52",
+          "title": "COME MARIA",
+          "lines": 22
+        }
+      ],
+      "preview": "come maria",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "chi-ci-separera-rm-8-31-39-m-frisina-chi-ci-sepa",
+        "code": "SP272",
+        "title": "Chi ci separerà",
+        "subtitle": "rm 8,31-39 - m. frisina chi ci separerà dall’amore di cristo? (in Re)",
+        "lines": 183
+      },
+      "remove": [
+        {
+          "id": "chi-ci-separera",
+          "code": "LA53",
+          "title": "CHI CI SEPARERA’",
+          "lines": 20
+        }
+      ],
+      "preview": "chi ci separera",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "custodiscimi",
+        "code": "LA56",
+        "title": "CUSTODISCIMI",
+        "lines": 50
+      },
+      "remove": [
+        {
+          "id": "custodiscimi-rns-in-mi",
+          "code": "SP265",
+          "title": "Custodiscimi",
+          "subtitle": "rns (in Mi-)",
+          "lines": 20
+        },
+        {
+          "id": "custodiscimi-rns-in-re",
+          "code": "SP266",
+          "title": "Custodiscimi",
+          "subtitle": "rns (in Re-)",
+          "lines": 20
+        }
+      ],
+      "preview": "custodiscimi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "come-e-grande-r-grotti-in-si",
+        "code": "SP282",
+        "title": "Come è grande",
+        "subtitle": "r. grotti (in Si-)",
+        "lines": 218
+      },
+      "remove": [
+        {
+          "id": "come-e-grande",
+          "code": "LA58",
+          "title": "COME E’ GRANDE",
+          "lines": 19
+        },
+        {
+          "id": "come-e-grande-r-grotti-in-re",
+          "code": "SP285",
+          "title": "Come è grande",
+          "subtitle": "r. grotti (in Re-)",
+          "lines": 32
+        },
+        {
+          "id": "seminario-come-e-grande",
+          "code": "SM017",
+          "title": "COME È GRANDE",
+          "lines": 20
+        }
+      ],
+      "preview": "come e grande",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "dall-aurora-al-tramonto-in-si",
+        "code": "SP171",
+        "title": "Dall’aurora al tramonto",
+        "subtitle": "in Si-",
+        "lines": 28
+      },
+      "remove": [
+        {
+          "id": "dall-aurora-al-tramonto",
+          "code": "LA66",
+          "title": "DALL’AURORA AL TRAMONTO",
+          "lines": 26
+        }
+      ],
+      "preview": "dall aurora al tramonto",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "dove-tu-sei-gen-rosso-in-re-e-do",
+        "code": "SP133",
+        "title": "Dove Tu sei",
+        "subtitle": "gen rosso)(in Re e Do",
+        "lines": 68
+      },
+      "remove": [
+        {
+          "id": "dove-tu-sei",
+          "code": "LA69",
+          "title": "DOVE TU SEI",
+          "lines": 12
+        }
+      ],
+      "preview": "dove tu sei",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "effondero-il-mio-spirito-m-frisina",
+        "code": "SP217",
+        "title": "Effonderò il mio Spirito",
+        "subtitle": "m.frisina",
+        "lines": 155
+      },
+      "remove": [
+        {
+          "id": "effondero-il-mio-spirito",
+          "code": "LA70",
+          "title": "EFFONDERO’ IL MIO SPIRITO",
+          "lines": 14
+        }
+      ],
+      "preview": "effondero il mio spirito",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "frate-jacopa-2007-davanti-a-questo-amore",
+        "code": "FJ078",
+        "title": "DAVANTI A QUESTO AMORE",
+        "lines": 70
+      },
+      "remove": [
+        {
+          "id": "davanti-a-questo-amore",
+          "code": "LA72",
+          "title": "DAVANTI A QUESTO AMORE",
+          "lines": 28
+        }
+      ],
+      "preview": "davanti a questo amore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "ecco-quel-che-abbiamo-gen-v-in-do",
+        "code": "SP111",
+        "title": "Ecco quel che abbiamo",
+        "subtitle": "gen v. (in Do)",
+        "lines": 200
+      },
+      "remove": [
+        {
+          "id": "ecco-quel-che-abbiamo",
+          "code": "LA81",
+          "title": "ECCO QUEL CHE ABBIAMO",
+          "lines": 31
+        },
+        {
+          "id": "ecco-quel-che-abbiamo-il-miracolo-del-pane",
+          "code": "DG036",
+          "title": "Ecco quel che abbiamo",
+          "subtitle": "Il miracolo del pane",
+          "lines": 43
+        }
+      ],
+      "preview": "ecco quel che abbiamo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "emmanuel",
+        "code": "DG037",
+        "title": "Emmanuel",
+        "lines": 194
+      },
+      "remove": [
+        {
+          "id": "emmanuel-gmg-2000",
+          "code": "LA86",
+          "title": "EMMANUEL",
+          "subtitle": "GMG 2000",
+          "lines": 64
+        },
+        {
+          "id": "emmanuel-m-brusati-m-labellarte-m-mammoli-m-vers",
+          "code": "SP161",
+          "title": "Emmanuel",
+          "subtitle": "m. brusati, m. labellarte, m.mammoli, m. versaci / rns nelle tue mani",
+          "lines": 56
+        },
+        {
+          "id": "emmanuel-g-difatta-v-avveduto-m-corallo",
+          "code": "SP201",
+          "title": "Emmanuel",
+          "subtitle": "g. difatta-v. avveduto-m. corallo",
+          "lines": 73
+        },
+        {
+          "id": "emmanuel-re",
+          "code": "DG111",
+          "title": "Emmanuel",
+          "subtitle": "RE",
+          "lines": 41
+        },
+        {
+          "id": "frate-jacopa-2007-emmanuel",
+          "code": "FJ020",
+          "title": "EMMANUEL",
+          "lines": 22
+        }
+      ],
+      "preview": "emmanuel",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "figlia-di-sion-v-nadalin",
+        "code": "SP262",
+        "title": "Figlia di Sion",
+        "subtitle": "v. nadalin",
+        "lines": 51
+      },
+      "remove": [
+        {
+          "id": "figlia-di-sion",
+          "code": "LA87",
+          "title": "FIGLIA DI SION",
+          "lines": 33
+        }
+      ],
+      "preview": "figlia di sion",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "gioisci-figlia-di-sion-in-mi",
+        "code": "SP248",
+        "title": "Gioisci figlia di Sion",
+        "subtitle": "in Mi-",
+        "lines": 295
+      },
+      "remove": [
+        {
+          "id": "gioisci-figlia-di-sion",
+          "code": "LA93",
+          "title": "GIOISCI FIGLIA DI SION",
+          "lines": 46
+        },
+        {
+          "id": "gioisci-figlia-di-sion-gen-v-in-sib",
+          "code": "SP247",
+          "title": "Gioisci figlia di Sion",
+          "subtitle": "gen v. (in Sib)",
+          "lines": 38
+        },
+        {
+          "id": "frate-jacopa-2007-gioisci-figlia-di-sion",
+          "code": "FJ079",
+          "title": "GIOISCI FIGLIA DI SION",
+          "lines": 18
+        }
+      ],
+      "preview": "gioisci figlia di sion",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "i-cieli-narrano-m-frisina-in-do",
+        "code": "SP064",
+        "title": "I cieli narrano",
+        "subtitle": "m. frisina (in Do)",
+        "lines": 38
+      },
+      "remove": [
+        {
+          "id": "i-cieli-narrano",
+          "code": "LA100",
+          "title": "I CIELI NARRANO",
+          "lines": 26
+        },
+        {
+          "id": "i-cieli-narrano-m-frisina-in-la",
+          "code": "SP065",
+          "title": "I cieli narrano",
+          "subtitle": "m. frisina (in La)",
+          "lines": 38
+        }
+      ],
+      "preview": "i cieli narrano",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "giovane-donna-l-scaglianti-l-bancolini",
+        "code": "SP251",
+        "title": "Giovane donna",
+        "subtitle": "l.scaglianti-l.bancolini",
+        "lines": 28
+      },
+      "remove": [
+        {
+          "id": "giovane-donna",
+          "code": "LA103",
+          "title": "GIOVANE DONNA",
+          "lines": 20
+        },
+        {
+          "id": "seminario-giovane-donna",
+          "code": "SM023",
+          "title": "GIOVANE DONNA",
+          "lines": 20
+        }
+      ],
+      "preview": "giovane donna",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "grandi-cose-gen-rosso-se-siamo-uniti",
+        "code": "SP073",
+        "title": "Grandi cose",
+        "subtitle": "gen rosso se siamo uniti",
+        "lines": 29
+      },
+      "remove": [
+        {
+          "id": "grandi-cose",
+          "code": "LA112",
+          "title": "GRANDI COSE",
+          "lines": 16
+        },
+        {
+          "id": "seminario-grandi-cose",
+          "code": "SM025",
+          "title": "GRANDI COSE",
+          "lines": 22
+        }
+      ],
+      "preview": "grandi cose",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "io-ti-offro-cd-cloninger-d-moen-in-re",
+        "code": "SP104",
+        "title": "Io ti offro",
+        "subtitle": "cd.cloninger-d. moen (in Re)",
+        "lines": 127
+      },
+      "remove": [
+        {
+          "id": "io-ti-offro",
+          "code": "LA128",
+          "title": "IO TI OFFRO",
+          "lines": 10
+        },
+        {
+          "id": "io-ti-offro-cd-cloninger-d-moen-in-fa",
+          "code": "SP103",
+          "title": "Io ti offro",
+          "subtitle": "cd. cloninger-d. moen (in Fa)",
+          "lines": 28
+        },
+        {
+          "id": "seminario-io-ti-offro",
+          "code": "SM028",
+          "title": "IO TI OFFRO",
+          "lines": 16
+        }
+      ],
+      "preview": "io ti offro",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "io-saro-con-te-p-cori",
+        "code": "SP183",
+        "title": "Io sarò con te",
+        "subtitle": "p. cori",
+        "lines": 48
+      },
+      "remove": [
+        {
+          "id": "io-saro-con-te",
+          "code": "LA137",
+          "title": "IO SARO’ CON TE",
+          "lines": 22
+        }
+      ],
+      "preview": "io saro con te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "l-acqua-viva-m-frisina-in-re",
+        "code": "SP276",
+        "title": "L’acqua viva",
+        "subtitle": "m. frisina (in Re-)",
+        "lines": 76
+      },
+      "remove": [
+        {
+          "id": "l-acqua-viva",
+          "code": "LA140",
+          "title": "L’ACQUA VIVA",
+          "lines": 24
+        },
+        {
+          "id": "l-acqua-viva-m-frisina-in-do",
+          "code": "SP275",
+          "title": "L’acqua viva",
+          "subtitle": "m. frisina (in Do-)",
+          "lines": 40
+        }
+      ],
+      "preview": "l acqua viva",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "laudato-sii-o-mi-signore-agape",
+        "code": "LA142",
+        "title": "LAUDATO SII, O MI’ SIGNORE",
+        "subtitle": "Agape",
+        "lines": 18
+      },
+      "remove": [
+        {
+          "id": "laudato-sii-o-mi-signore",
+          "code": "DG050",
+          "title": "Laudato sii, o mi Signore",
+          "lines": 20
+        }
+      ],
+      "preview": "laudato sii o mi signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "lodate-cieli-dei-cieli",
+        "code": "LA148",
+        "title": "LODATE CIELI DEI CIELI",
+        "lines": 14
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-lodate-cieli-dei-cieli",
+          "code": "FJ011",
+          "title": "LODATE CIELI DEI CIELI",
+          "lines": 12
+        }
+      ],
+      "preview": "lodate cieli dei cieli",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "lodate-il-signore-dai-cieli-in-do",
+        "code": "SP063",
+        "title": "Lodate il Signore dai cieli",
+        "subtitle": "in Do",
+        "lines": 37
+      },
+      "remove": [
+        {
+          "id": "lodate-il-signore-dai-cieli-frisina",
+          "code": "LA154",
+          "title": "LODATE IL SIGNORE DAI CIELI",
+          "subtitle": "Frisina",
+          "lines": 16
+        }
+      ],
+      "preview": "lodate il signore dai cieli",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "non-temere-m-frisina",
+        "code": "SP274",
+        "title": "Non temere",
+        "subtitle": "m. frisina",
+        "lines": 36
+      },
+      "remove": [
+        {
+          "id": "non-temere",
+          "code": "LA156",
+          "title": "NON TEMERE",
+          "lines": 14
+        }
+      ],
+      "preview": "non temere",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "le-tue-meraviglie-in-re",
+        "code": "SP174",
+        "title": "Le tue meraviglie",
+        "subtitle": "in Re",
+        "lines": 40
+      },
+      "remove": [
+        {
+          "id": "le-tue-meraviglie",
+          "code": "LA158",
+          "title": "LE TUE MERAVIGLIE",
+          "lines": 21
+        },
+        {
+          "id": "le-tue-meraviglie-in-fa",
+          "code": "SP173",
+          "title": "Le tue meraviglie",
+          "subtitle": "in Fa",
+          "lines": 38
+        },
+        {
+          "id": "frate-jacopa-2007-le-tue-meraviglie",
+          "code": "FJ066",
+          "title": "LE TUE MERAVIGLIE",
+          "lines": 31
+        }
+      ],
+      "preview": "le tue meraviglie",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "magnificat-com-taize-in-sol-e-re",
+        "code": "SP260",
+        "title": "Magnificat",
+        "subtitle": "com. taizè) (in Sol e Re",
+        "lines": 123
+      },
+      "remove": [
+        {
+          "id": "magnificat",
+          "code": "LA164",
+          "title": "MAGNIFICAT",
+          "lines": 25
+        },
+        {
+          "id": "magnificat-gen-verde",
+          "code": "SP239",
+          "title": "Magnificat",
+          "subtitle": "gen verde",
+          "lines": 25
+        },
+        {
+          "id": "magnificat-ciardella",
+          "code": "DG056",
+          "title": "Magnificat",
+          "subtitle": "Ciardella",
+          "lines": 28
+        },
+        {
+          "id": "frate-jacopa-2007-magnificat",
+          "code": "FJ031",
+          "title": "MAGNIFICAT",
+          "lines": 34
+        }
+      ],
+      "preview": "magnificat",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "longarone-ogni-mia-parola",
+        "code": "LG004",
+        "title": "OGNI MIA PAROLA",
+        "lines": 73
+      },
+      "remove": [
+        {
+          "id": "ogni-mia-parola",
+          "code": "LA167",
+          "title": "OGNI MIA PAROLA",
+          "lines": 16
+        }
+      ],
+      "preview": "ogni mia parola",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "nelle-tue-mani",
+        "code": "LA169",
+        "title": "NELLE TUE MANI",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-nelle-tue-mani",
+          "code": "FJ017",
+          "title": "NELLE TUE MANI",
+          "lines": 26
+        }
+      ],
+      "preview": "nelle tue mani",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "o-signore-nostro-dio-m-frisina",
+        "code": "SP286",
+        "title": "O Signore, nostro Dio",
+        "subtitle": "m. frisina",
+        "lines": 156
+      },
+      "remove": [
+        {
+          "id": "o-signore-nostro-dio",
+          "code": "LA177",
+          "title": "O SIGNORE NOSTRO DIO",
+          "lines": 28
+        }
+      ],
+      "preview": "o signore nostro dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "pace-sia-pace-a-voi-gen-v-gen-r",
+        "code": "SP096",
+        "title": "Pace sia, pace a voi",
+        "subtitle": "gen v.-gen r.",
+        "lines": 37
+      },
+      "remove": [
+        {
+          "id": "pace-sia-pace-a-voi",
+          "code": "LA179",
+          "title": "PACE SIA, PACE A VOI",
+          "lines": 29
+        }
+      ],
+      "preview": "pace sia pace a voi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "ora-e-tempo-di-gioia",
+        "code": "LA182",
+        "title": "ORA E’ TEMPO DI GIOIA",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "longarone-ora-e-tempo-di-gioia",
+          "code": "LG005",
+          "title": "ORA È TEMPO DI GIOIA",
+          "lines": 26
+        }
+      ],
+      "preview": "ora e tempo di gioia",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "padre-nostro-m-giombini-in-do",
+        "code": "SP054",
+        "title": "Padre nostro",
+        "subtitle": "m. giombini (in Do)",
+        "lines": 47
+      },
+      "remove": [
+        {
+          "id": "padre-nostro-frisina",
+          "code": "LA183",
+          "title": "PADRE NOSTRO",
+          "subtitle": "FRISINA",
+          "lines": 28
+        },
+        {
+          "id": "padre-nostro-m-giombini-in-la",
+          "code": "SP053",
+          "title": "Padre nostro",
+          "subtitle": "m. giombini (in La)",
+          "lines": 28
+        },
+        {
+          "id": "padre-nostro-gregoriano",
+          "code": "DG066",
+          "title": "Padre nostro",
+          "subtitle": "Gregoriano",
+          "lines": 32
+        },
+        {
+          "id": "seminario-padre-nostro",
+          "code": "SM035",
+          "title": "PADRE NOSTRO",
+          "lines": 24
+        }
+      ],
+      "preview": "padre nostro",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "pane-del-cielo-gen-rosso-in-re",
+        "code": "SP138",
+        "title": "Pane del cielo",
+        "subtitle": "gen rosso (in Re)",
+        "lines": 122
+      },
+      "remove": [
+        {
+          "id": "pane-del-cielo",
+          "code": "LA190",
+          "title": "PANE DEL CIELO",
+          "lines": 20
+        },
+        {
+          "id": "pane-del-cielo-gen-rosso-in-do",
+          "code": "SP137",
+          "title": "Pane del cielo",
+          "subtitle": "gen rosso (in Do)",
+          "lines": 36
+        },
+        {
+          "id": "longarone-pane-del-cielo",
+          "code": "LG009",
+          "title": "PANE DEL CIELO",
+          "lines": 34
+        }
+      ],
+      "preview": "pane del cielo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "padre-mio",
+        "code": "LA192",
+        "title": "PADRE MIO",
+        "lines": 27
+      },
+      "remove": [
+        {
+          "id": "longarone-padre-mio",
+          "code": "LG007",
+          "title": "PADRE MIO",
+          "lines": 28
+        }
+      ],
+      "preview": "padre mio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "pane-di-vita-nuova",
+        "code": "DG067",
+        "title": "Pane di vita nuova",
+        "lines": 76
+      },
+      "remove": [
+        {
+          "id": "pane-di-vita-nuova-frisina",
+          "code": "LA194",
+          "title": "PANE DI VITA NUOVA",
+          "subtitle": "Frisina",
+          "lines": 32
+        }
+      ],
+      "preview": "pane di vita nuova",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "pane-di-vita-rns",
+        "code": "LA195",
+        "title": "PANE DI VITA",
+        "subtitle": "RnS",
+        "lines": 27
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-pane-di-vita",
+          "code": "FJ039",
+          "title": "PANE DI VITA",
+          "lines": 24
+        }
+      ],
+      "preview": "pane di vita",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "popoli-tutti-acclamate-in-la-sl-98-d-zschech-rns",
+        "code": "SP059",
+        "title": "Popoli tutti acclamate",
+        "subtitle": "in La) (sl 98 - d.zschech / rns eterna è la sua misericordia 1993",
+        "lines": 93
+      },
+      "remove": [
+        {
+          "id": "popoli-tutti-acclamate",
+          "code": "LA205",
+          "title": "POPOLI TUTTI ACCLAMATE",
+          "lines": 22
+        },
+        {
+          "id": "frate-jacopa-2007-popoli-tutti-acclamate",
+          "code": "FJ008",
+          "title": "POPOLI TUTTI ACCLAMATE",
+          "lines": 26
+        }
+      ],
+      "preview": "popoli tutti acclamate",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "quando-bussero",
+        "code": "LA206",
+        "title": "QUANDO BUSSERO’",
+        "lines": 16
+      },
+      "remove": [
+        {
+          "id": "longarone-quando-bussero",
+          "code": "LG011",
+          "title": "QUANDO BUSSERÒ",
+          "lines": 36
+        }
+      ],
+      "preview": "quando bussero",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "resta-accanto-a-me-gen-verde",
+        "code": "SP175",
+        "title": "Resta accanto a me",
+        "subtitle": "gen verde",
+        "lines": 105
+      },
+      "remove": [
+        {
+          "id": "resta-accanto-a-me",
+          "code": "LA207",
+          "title": "RESTA ACCANTO A ME",
+          "lines": 24
+        },
+        {
+          "id": "frate-jacopa-2007-resta-accanto-a-me",
+          "code": "FJ005",
+          "title": "RESTA ACCANTO A ME",
+          "lines": 5
+        }
+      ],
+      "preview": "resta accanto a me",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "salve-regina-gen-v-e-bello-lodarti",
+        "code": "SP235",
+        "title": "Salve Regina",
+        "subtitle": "gen v. è bello lodarti",
+        "lines": 26
+      },
+      "remove": [
+        {
+          "id": "salve-regina-greg",
+          "code": "LA208",
+          "title": "SALVE REGINA",
+          "subtitle": "greg",
+          "lines": 18
+        },
+        {
+          "id": "salve-regina",
+          "code": "DG079",
+          "title": "Salve Regina",
+          "lines": 5
+        },
+        {
+          "id": "salve-regina-latino",
+          "code": "DG080",
+          "title": "Salve Regina",
+          "subtitle": "latino",
+          "lines": 24
+        },
+        {
+          "id": "longarone-salve-regina",
+          "code": "LG041",
+          "title": "SALVE REGINA",
+          "lines": 9
+        }
+      ],
+      "preview": "salve regina",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "quale-gioia",
+        "code": "LA213",
+        "title": "QUALE GIOIA",
+        "lines": 22
+      },
+      "remove": [
+        {
+          "id": "longarone-quale-gioia",
+          "code": "LG010",
+          "title": "QUALE GIOIA",
+          "lines": 28
+        }
+      ],
+      "preview": "quale gioia",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "symbolum-77-pa-sequeri",
+        "code": "SP127",
+        "title": "Symbolum ‘77",
+        "subtitle": "pa. sequeri",
+        "lines": 155
+      },
+      "remove": [
+        {
+          "id": "symbolum-77",
+          "code": "LA226",
+          "title": "SYMBOLUM 77",
+          "lines": 30
+        }
+      ],
+      "preview": "symbolum 77",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "samuel",
+        "code": "LA227",
+        "title": "SAMUEL",
+        "lines": 22
+      },
+      "remove": [
+        {
+          "id": "longarone-samuel",
+          "code": "LG016",
+          "title": "SAMUEL",
+          "lines": 31
+        }
+      ],
+      "preview": "samuel",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "segni-del-tuo-amore",
+        "code": "LA232",
+        "title": "SEGNI DEL TUO AMORE",
+        "lines": 19
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-segni-del-tuo-amore",
+          "code": "FJ080",
+          "title": "SEGNI DEL TUO AMORE",
+          "lines": 22
+        }
+      ],
+      "preview": "segni del tuo amore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "san-francesco",
+        "code": "LA234",
+        "title": "SAN FRANCESCO",
+        "lines": 42
+      },
+      "remove": [
+        {
+          "id": "longarone-san-francesco",
+          "code": "LG014",
+          "title": "SAN FRANCESCO",
+          "lines": 63
+        }
+      ],
+      "preview": "san francesco",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "resta-qui-con-noi-gen-r-in-do",
+        "code": "SP168",
+        "title": "Resta qui con noi",
+        "subtitle": "gen r. (in Do)",
+        "lines": 85
+      },
+      "remove": [
+        {
+          "id": "resta-qui-con-noi",
+          "code": "LA235",
+          "title": "RESTA QUI CON NOI",
+          "lines": 30
+        },
+        {
+          "id": "resta-qui-con-noi-gen-rosso-in-re",
+          "code": "SP167",
+          "title": "Resta qui con noi",
+          "subtitle": "gen rosso (in Re)",
+          "lines": 42
+        },
+        {
+          "id": "longarone-resta-qui-con-noi",
+          "code": "LG012",
+          "title": "RESTA QUI CON NOI",
+          "lines": 56
+        }
+      ],
+      "preview": "resta qui con noi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "servo-per-amore-in-si",
+        "code": "SP107",
+        "title": "Servo per amore",
+        "subtitle": "in Si-",
+        "lines": 91
+      },
+      "remove": [
+        {
+          "id": "servo-per-amore",
+          "code": "LA237",
+          "title": "SERVO PER AMORE",
+          "lines": 31
+        },
+        {
+          "id": "servo-per-amore-in-mi",
+          "code": "SP106",
+          "title": "Servo per amore",
+          "subtitle": "in Mi-",
+          "lines": 33
+        },
+        {
+          "id": "longarone-servo-per-amore",
+          "code": "LG021",
+          "title": "SERVO PER AMORE",
+          "lines": 37
+        }
+      ],
+      "preview": "servo per amore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "se-m-accogli-pa-sequeri-in-la",
+        "code": "SP109",
+        "title": "Se m’accogli",
+        "subtitle": "pa. sequeri (in La)",
+        "lines": 156
+      },
+      "remove": [
+        {
+          "id": "se-m-accogli",
+          "code": "LA240",
+          "title": "SE M’ACCOGLI",
+          "lines": 20
+        },
+        {
+          "id": "se-m-accogli-pa-sequeri-in-do",
+          "code": "SP108",
+          "title": "Se m’accogli",
+          "subtitle": "pa. sequeri (in Do)",
+          "lines": 31
+        }
+      ],
+      "preview": "se m accogli",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "symbolum-80-pa-sequeri-in-re",
+        "code": "SP131",
+        "title": "Symbolum ‘80",
+        "subtitle": "pa. sequeri (in Re-)",
+        "lines": 56
+      },
+      "remove": [
+        {
+          "id": "symbolum-80",
+          "code": "LA241",
+          "title": "SYMBOLUM 80",
+          "lines": 37
+        },
+        {
+          "id": "symbolum-80-pa-sequeri-in-mi",
+          "code": "SP132",
+          "title": "Symbolum ‘80",
+          "subtitle": "pa. sequeri (in Mi-)",
+          "lines": 56
+        }
+      ],
+      "preview": "symbolum 80",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "su-ali-d-aquila-m-joncas-in-re7",
+        "code": "SP270",
+        "title": "Su ali d’aquila",
+        "subtitle": "m. joncas)(in Re7+",
+        "lines": 105
+      },
+      "remove": [
+        {
+          "id": "su-ali-d-aquila",
+          "code": "LA249",
+          "title": "SU ALI D’AQUILA",
+          "lines": 31
+        },
+        {
+          "id": "su-ali-d-aquila-m-joncas-in-si",
+          "code": "SP268",
+          "title": "Su ali d’aquila",
+          "subtitle": "m. joncas (in Si-)",
+          "lines": 43
+        }
+      ],
+      "preview": "su ali d aquila",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "tu-sei",
+        "code": "LA251",
+        "title": "TU SEI",
+        "lines": 23
+      },
+      "remove": [
+        {
+          "id": "longarone-tu-sei",
+          "code": "LG027",
+          "title": "TU SEI",
+          "lines": 39
+        }
+      ],
+      "preview": "tu sei",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "te-al-centro-del-mio-cuore",
+        "code": "LA253",
+        "title": "TE AL CENTRO DEL MIO CUORE",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "longarone-te-al-centro-del-mio-cuore",
+          "code": "LG026",
+          "title": "TE AL CENTRO DEL MIO CUORE",
+          "lines": 31
+        }
+      ],
+      "preview": "te al centro del mio cuore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "voglio-cantare-al-signor",
+        "code": "LA260",
+        "title": "VOGLIO CANTARE AL SIGNOR",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-voglio-cantare-al-signor",
+          "code": "FJ009",
+          "title": "VOGLIO CANTARE AL  SIGNOR",
+          "lines": 24
+        }
+      ],
+      "preview": "voglio cantare al signor",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "viaggio-nella-vita-g-cento",
+        "code": "SP190",
+        "title": "Viaggio nella vita",
+        "subtitle": "g. cento",
+        "lines": 143
+      },
+      "remove": [
+        {
+          "id": "viaggio-nella-vita",
+          "code": "LA265",
+          "title": "VIAGGIO NELLA VITA",
+          "lines": 28
+        }
+      ],
+      "preview": "viaggio nella vita",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vieni-con-me-g-cento",
+        "code": "SP172",
+        "title": "Vieni con me",
+        "subtitle": "g. cento",
+        "lines": 282
+      },
+      "remove": [
+        {
+          "id": "vieni-con-me",
+          "code": "LA266",
+          "title": "VIENI CON ME",
+          "lines": 30
+        }
+      ],
+      "preview": "vieni con me",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "verbum-panis-m-balduzzi-c-casucci",
+        "code": "SP202",
+        "title": "Verbum panis",
+        "subtitle": "m. balduzzi-c. casucci",
+        "lines": 161
+      },
+      "remove": [
+        {
+          "id": "verbum-panis",
+          "code": "LA268",
+          "title": "VERBUM PANIS",
+          "lines": 29
+        },
+        {
+          "id": "frate-jacopa-2007-verbum-panis",
+          "code": "FJ034",
+          "title": "VERBUM PANIS",
+          "lines": 46
+        }
+      ],
+      "preview": "verbum panis",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "venite-applaudiamo-al-signore-sal-94-in-sol",
+        "code": "SP067",
+        "title": "Venite, applaudiamo al Signore",
+        "subtitle": "sal 94 (in Sol)",
+        "lines": 82
+      },
+      "remove": [
+        {
+          "id": "venite-applaudiamo-al-signore",
+          "code": "LA269",
+          "title": "VENITE APPLAUDIAMO AL SIGNORE",
+          "lines": 29
+        }
+      ],
+      "preview": "venite applaudiamo al signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vocazione-pa-sequeri-in-cerca-d-autore",
+        "code": "SP188",
+        "title": "Vocazione",
+        "subtitle": "pa. sequeri in cerca d’autore",
+        "lines": 48
+      },
+      "remove": [
+        {
+          "id": "vocazione",
+          "code": "LA270",
+          "title": "VOCAZIONE",
+          "lines": 38
+        },
+        {
+          "id": "longarone-vocazione",
+          "code": "LG035",
+          "title": "VOCAZIONE",
+          "lines": 24
+        }
+      ],
+      "preview": "vocazione",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "te-deum-rns",
+        "code": "SP071",
+        "title": "Te Deum",
+        "subtitle": "rns",
+        "lines": 43
+      },
+      "remove": [
+        {
+          "id": "te-deum",
+          "code": "LA273",
+          "title": "TE DEUM",
+          "lines": 45
+        }
+      ],
+      "preview": "te deum",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vivere-la-vita-gen-verde",
+        "code": "SP163",
+        "title": "Vivere la vita",
+        "subtitle": "gen verde",
+        "lines": 52
+      },
+      "remove": [
+        {
+          "id": "vivere-la-vita",
+          "code": "LA280",
+          "title": "VIVERE LA VITA",
+          "lines": 33
+        },
+        {
+          "id": "longarone-vivere-la-vita",
+          "code": "LG034",
+          "title": "VIVERE LA VITA",
+          "lines": 34
+        }
+      ],
+      "preview": "vivere la vita",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vieni-e-seguimi-gen-r-se-siamo-uniti",
+        "code": "SP280",
+        "title": "Vieni e seguimi",
+        "subtitle": "gen r. se siamo uniti",
+        "lines": 71
+      },
+      "remove": [
+        {
+          "id": "vieni-e-seguimi",
+          "code": "LA281",
+          "title": "VIENI E SEGUIMI",
+          "lines": 29
+        },
+        {
+          "id": "longarone-vieni-e-seguimi",
+          "code": "LG031",
+          "title": "VIENI E SEGUIMI",
+          "lines": 39
+        }
+      ],
+      "preview": "vieni e seguimi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vieni-nasci-ancora-d-ricci",
+        "code": "SP208",
+        "title": "Vieni, nasci ancora",
+        "subtitle": "d. ricci",
+        "lines": 282
+      },
+      "remove": [
+        {
+          "id": "vieni-nasci-ancora",
+          "code": "LA286",
+          "title": "VIENI NASCI ANCORA",
+          "lines": 33
+        }
+      ],
+      "preview": "vieni nasci ancora",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "lodi-di-dio-altissimo",
+        "code": "LA289",
+        "title": "LODI DI DIO ALTISSIMO",
+        "lines": 25
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-lodi-di-dio-altissimo",
+          "code": "FJ007",
+          "title": "LODI DI DIO ALTISSIMO",
+          "lines": 24
+        }
+      ],
+      "preview": "lodi di dio altissimo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "come-tu-mi-vuoi-d-branca-rns",
+        "code": "SP166",
+        "title": "Come Tu mi vuoi",
+        "subtitle": "d. branca / rns",
+        "lines": 61
+      },
+      "remove": [
+        {
+          "id": "come-tu-mi-vuoi",
+          "code": "LA294",
+          "title": "COME TU MI VUOI",
+          "lines": 38
+        },
+        {
+          "id": "frate-jacopa-2007-come-tu-mi-vuoi",
+          "code": "FJ083",
+          "title": "COME TU MI VUOI",
+          "lines": 34
+        }
+      ],
+      "preview": "come tu mi vuoi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "voi-siete-di-dio",
+        "code": "LA295",
+        "title": "VOI SIETE DI DIO",
+        "lines": 29
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-voi-siete-di-dio",
+          "code": "FJ037",
+          "title": "VOI SIETE DI DIO",
+          "lines": 38
+        }
+      ],
+      "preview": "voi siete di dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "scatenate-la-gioia",
+        "code": "LA301",
+        "title": "SCATENATE LA GIOIA",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-scatenate-la-gioia",
+          "code": "FJ061",
+          "title": "SCATENATE LA GIOIA",
+          "lines": 13
+        }
+      ],
+      "preview": "scatenate la gioia",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "meraviglie-in-te-in-la",
+        "code": "SP246",
+        "title": "Meraviglie in Te",
+        "subtitle": "in La",
+        "lines": 118
+      },
+      "remove": [
+        {
+          "id": "meraviglie-in-te",
+          "code": "LA306",
+          "title": "MERAVIGLIE IN TE",
+          "lines": 32
+        },
+        {
+          "id": "meraviglie-in-te-in-do",
+          "code": "SP245",
+          "title": "Meraviglie in Te",
+          "subtitle": "in Do",
+          "lines": 42
+        }
+      ],
+      "preview": "meraviglie in te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "su-tutte-le-strade-del-mondo-g-cento",
+        "code": "SP193",
+        "title": "Su tutte le strade del mondo",
+        "subtitle": "g.cento",
+        "lines": 121
+      },
+      "remove": [
+        {
+          "id": "su-tutte-le-strade-del-mondo",
+          "code": "LA321",
+          "title": "SU TUTTE LE STRADE DEL MONDO",
+          "lines": 42
+        }
+      ],
+      "preview": "su tutte le strade del mondo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "preghiera-p-fanelli",
+        "code": "SP182",
+        "title": "Preghiera",
+        "subtitle": "p. fanelli",
+        "lines": 32
+      },
+      "remove": [
+        {
+          "id": "preghiera",
+          "code": "LA332",
+          "title": "PREGHIERA",
+          "lines": 27
+        }
+      ],
+      "preview": "preghiera",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "venite-a-me-l-mariano",
+        "code": "SP082",
+        "title": "Venite a Me",
+        "subtitle": "l. mariano",
+        "lines": 240
+      },
+      "remove": [
+        {
+          "id": "venite-a-me",
+          "code": "LA336",
+          "title": "VENITE A ME",
+          "lines": 19
+        }
+      ],
+      "preview": "venite a me",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "ecco-il-pane",
+        "code": "LA341",
+        "title": "ECCO IL PANE",
+        "lines": 33
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-ecco-il-pane",
+          "code": "FJ071",
+          "title": "ECCO IL PANE",
+          "lines": 16
+        }
+      ],
+      "preview": "ecco il pane",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "vieni-al-signor-rns",
+        "code": "SP087",
+        "title": "Vieni al Signor",
+        "subtitle": "rns",
+        "lines": 77
+      },
+      "remove": [
+        {
+          "id": "vieni-al-signor",
+          "code": "003",
+          "title": "Vieni al Signor",
+          "lines": 26
+        }
+      ],
+      "preview": "vieni al signor",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "e-bello-lodarti-gen-verde",
+        "code": "SP121",
+        "title": "È bello lodarti",
+        "subtitle": "gen verde",
+        "lines": 28
+      },
+      "remove": [
+        {
+          "id": "e-bello-lodarti",
+          "code": "010",
+          "title": "E’ bello lodarti",
+          "lines": 20
+        }
+      ],
+      "preview": "e bello lodarti",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "solo-in-dio-rns",
+        "code": "SP284",
+        "title": "Solo in Dio",
+        "subtitle": "rns",
+        "lines": 177
+      },
+      "remove": [
+        {
+          "id": "solo-in-dio",
+          "code": "024",
+          "title": "Solo in Dio",
+          "lines": 14
+        }
+      ],
+      "preview": "solo in dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "benedici",
+        "code": "062",
+        "title": "Benedici",
+        "lines": 33
+      },
+      "remove": [
+        {
+          "id": "longarone-benedici",
+          "code": "LG042",
+          "title": "BENEDICI",
+          "lines": 56
+        }
+      ],
+      "preview": "benedici",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "dov-e-carita-e-amore-in-si7",
+        "code": "SP128",
+        "title": "Dov’è carità e amore",
+        "subtitle": "in Si7",
+        "lines": 83
+      },
+      "remove": [
+        {
+          "id": "dov-e-carita-e-amore",
+          "code": "086",
+          "title": "Dov’è carità e amore",
+          "lines": 26
+        }
+      ],
+      "preview": "dov e carita e amore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "ora-so",
+        "code": "091",
+        "title": "Ora so",
+        "lines": 19
+      },
+      "remove": [
+        {
+          "id": "longarone-ora-so",
+          "code": "LG006",
+          "title": "ORA SO",
+          "lines": 16
+        }
+      ],
+      "preview": "ora so",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "san-damiano",
+        "code": "093",
+        "title": "San Damiano",
+        "lines": 31
+      },
+      "remove": [
+        {
+          "id": "seminario-san-damiano",
+          "code": "SM037",
+          "title": "SAN DAMIANO",
+          "lines": 24
+        }
+      ],
+      "preview": "san damiano",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "seminario-e-bello-andar",
+        "code": "SM021",
+        "title": "È BELLO ANDAR",
+        "lines": 89
+      },
+      "remove": [
+        {
+          "id": "e-bello-andar",
+          "code": "117",
+          "title": "E’ bello andar",
+          "lines": 30
+        }
+      ],
+      "preview": "e bello andar",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "figli-di-dio",
+        "code": "131",
+        "title": "Figli di Dio",
+        "lines": 30
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-figli-di-dio",
+          "code": "FJ057",
+          "title": "FIGLI DI DIO",
+          "lines": 23
+        }
+      ],
+      "preview": "figli di dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "frate-jacopa-2007-benediro",
+        "code": "FJ056",
+        "title": "BENEDIRÒ",
+        "lines": 64
+      },
+      "remove": [
+        {
+          "id": "benediro",
+          "code": "132",
+          "title": "Benedirò",
+          "lines": 33
+        }
+      ],
+      "preview": "benediro",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "spirito-di-dio-riempici",
+        "code": "DG090",
+        "title": "Spirito di Dio",
+        "subtitle": "riempici",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "spirito-di-dio",
+          "code": "145",
+          "title": "Spirito di Dio",
+          "lines": 14
+        }
+      ],
+      "preview": "spirito di dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "signore-sei-venuto-l-scaglianti",
+        "code": "SP206",
+        "title": "Signore sei venuto",
+        "subtitle": "l. scaglianti",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "signore-sei-venuto",
+          "code": "161",
+          "title": "Signore sei venuto",
+          "lines": 20
+        }
+      ],
+      "preview": "signore sei venuto",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "dio-s-e-fatto-come-noi-in-do-e-re",
+        "code": "SP197",
+        "title": "Dio s’è fatto come noi",
+        "subtitle": "in Do e Re",
+        "lines": 37
+      },
+      "remove": [
+        {
+          "id": "dio-s-e-fatto-come-noi",
+          "code": "169",
+          "title": "Dio s’è fatto come noi",
+          "lines": 24
+        }
+      ],
+      "preview": "dio s e fatto come noi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "lodate-dio-gen-rosso-dove-tu-sei",
+        "code": "SP080",
+        "title": "Lodate Dio",
+        "subtitle": "gen rosso dove tu sei",
+        "lines": 14
+      },
+      "remove": [
+        {
+          "id": "lodate-dio",
+          "code": "220",
+          "title": "Lodate Dio",
+          "lines": 14
+        }
+      ],
+      "preview": "lodate dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "tu-chi-sei",
+        "code": "227",
+        "title": "Tu chi sei",
+        "lines": 33
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-tu-chi-sei",
+          "code": "FJ032",
+          "title": "TU CHI SEI",
+          "lines": 9
+        }
+      ],
+      "preview": "tu chi sei",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "cerco-la-tua-voce-gen-rosso",
+        "code": "246",
+        "title": "Cerco la Tua voce",
+        "subtitle": "Gen Rosso",
+        "lines": 44
+      },
+      "remove": [
+        {
+          "id": "cerco-la-tua-voce",
+          "code": "DG021",
+          "title": "Cerco la tua voce",
+          "lines": 42
+        }
+      ],
+      "preview": "cerco la tua voce",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "creati-per-te",
+        "code": "280",
+        "title": "Creati per Te",
+        "lines": 30
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-creati-per-te",
+          "code": "FJ035",
+          "title": "CREATI PER TE",
+          "lines": 24
+        }
+      ],
+      "preview": "creati per te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "nascera-gen-rosso",
+        "code": "284",
+        "title": "Nascerà",
+        "subtitle": "Gen Rosso",
+        "lines": 38
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-nascera",
+          "code": "FJ033",
+          "title": "NASCERÀ",
+          "lines": 38
+        }
+      ],
+      "preview": "nascera",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "cristo-e-risorto-rns-in-do",
+        "code": "SP214",
+        "title": "Cristo è risorto",
+        "subtitle": "rns (in Do)",
+        "lines": 40
+      },
+      "remove": [
+        {
+          "id": "cristo-e-risorto",
+          "code": "286",
+          "title": "Cristo è risorto",
+          "lines": 32
+        },
+        {
+          "id": "cristo-e-risorto-rns-in-fa",
+          "code": "SP215",
+          "title": "Cristo è risorto",
+          "subtitle": "rns (in Fa)",
+          "lines": 40
+        }
+      ],
+      "preview": "cristo e risorto",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "hai-dato-un-cibo-in-re-e-do",
+        "code": "SP149",
+        "title": "Hai dato un cibo",
+        "subtitle": "in Re e Do",
+        "lines": 158
+      },
+      "remove": [
+        {
+          "id": "hai-dato-un-cibo",
+          "code": "297",
+          "title": "Hai dato un cibo",
+          "lines": 14
+        }
+      ],
+      "preview": "hai dato un cibo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "canto-a-te-maria-gen-v-in-re",
+        "code": "SP237",
+        "title": "Canto a te, Maria",
+        "subtitle": "gen v. (in Re)",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "canto-a-te-maria",
+          "code": "314",
+          "title": "Canto a Te Maria",
+          "lines": 20
+        },
+        {
+          "id": "canto-a-te-maria-gen-v-in-mi",
+          "code": "SP238",
+          "title": "Canto a te, Maria",
+          "subtitle": "gen v. (in Mi)",
+          "lines": 20
+        }
+      ],
+      "preview": "canto a te maria",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "laudato-sii-forza-venite-gente",
+        "code": "322",
+        "title": "Laudato Sii",
+        "subtitle": "forza venite gente",
+        "lines": 65
+      },
+      "remove": [
+        {
+          "id": "seminario-laudato-sii",
+          "code": "SM031",
+          "title": "LAUDATO SII",
+          "lines": 24
+        }
+      ],
+      "preview": "laudato sii",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "popoli-tutti-p-cori-noi-tuo-popolo",
+        "code": "SP062",
+        "title": "Popoli tutti",
+        "subtitle": "p. cori noi tuo popolo",
+        "lines": 99
+      },
+      "remove": [
+        {
+          "id": "popoli-tutti",
+          "code": "324",
+          "title": "Popoli tutti",
+          "lines": 35
+        }
+      ],
+      "preview": "popoli tutti",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "alla-tua-mensa",
+        "code": "328",
+        "title": "Alla Tua mensa",
+        "lines": 27
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-alla-tua-mensa",
+          "code": "FJ062",
+          "title": "ALLA TUA MENSA",
+          "lines": 25
+        }
+      ],
+      "preview": "alla tua mensa",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "danza-la-vita",
+        "code": "336",
+        "title": "Danza la vita",
+        "lines": 43
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-danza-la-vita",
+          "code": "FJ003",
+          "title": "DANZA LA VITA",
+          "lines": 36
+        }
+      ],
+      "preview": "danza la vita",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "spirito-santo-vieni-c-recalcati",
+        "code": "SP221",
+        "title": "Spirito santo vieni",
+        "subtitle": "c. recalcati",
+        "lines": 36
+      },
+      "remove": [
+        {
+          "id": "spirito-santo-vieni",
+          "code": "343",
+          "title": "Spirito Santo vieni",
+          "lines": 29
+        }
+      ],
+      "preview": "spirito santo vieni",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "io-non-sono-degno-c-chieffo",
+        "code": "SP091",
+        "title": "Io non sono degno",
+        "subtitle": "c. chieffo",
+        "lines": 89
+      },
+      "remove": [
+        {
+          "id": "io-non-sono-degno-claudio-chieffo",
+          "code": "346",
+          "title": "Io non sono degno",
+          "subtitle": "Claudio Chieffo",
+          "lines": 22
+        }
+      ],
+      "preview": "io non sono degno",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "venimus-adorare-eum-inno-della-xx-gmg",
+        "code": "357",
+        "title": "Venimus adorare Eum",
+        "subtitle": "INNO DELLA XX GMG",
+        "lines": 22
+      },
+      "remove": [
+        {
+          "id": "venimus-adorare-eum",
+          "code": "DG104",
+          "title": "Venimus adorare eum",
+          "lines": 17
+        }
+      ],
+      "preview": "venimus adorare eum",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "luce",
+        "code": "DG053",
+        "title": "Luce",
+        "lines": 48
+      },
+      "remove": [
+        {
+          "id": "luce-alessandro-gallo",
+          "code": "360",
+          "title": "Luce",
+          "subtitle": "Alessandro Gallo",
+          "lines": 42
+        }
+      ],
+      "preview": "luce",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "rallegriamoci-don-paolo-auricchio",
+        "code": "362",
+        "title": "Rallegriamoci",
+        "subtitle": "Don Paolo Auricchio",
+        "lines": 29
+      },
+      "remove": [
+        {
+          "id": "rallegriamoci",
+          "code": "DG112",
+          "title": "Rallegriamoci",
+          "lines": 18
+        },
+        {
+          "id": "frate-jacopa-2007-rallegriamoci",
+          "code": "FJ029",
+          "title": "RALLEGRIAMOCI",
+          "lines": 36
+        }
+      ],
+      "preview": "rallegriamoci",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "luce-che-sorgi",
+        "code": "379",
+        "title": "Luce che sorgi",
+        "lines": 28
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-luce-che-sorgi",
+          "code": "FJ023",
+          "title": "LUCE CHE SORGI",
+          "lines": 16
+        }
+      ],
+      "preview": "luce che sorgi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "cosa-offrirti-rns",
+        "code": "SP110",
+        "title": "Cosa offrirti",
+        "subtitle": "rns",
+        "lines": 70
+      },
+      "remove": [
+        {
+          "id": "cosa-offrirti",
+          "code": "406",
+          "title": "Cosa offrirti",
+          "lines": 24
+        }
+      ],
+      "preview": "cosa offrirti",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "lode-al-nome-tuo-rns",
+        "code": "412",
+        "title": "Lode al nome Tuo",
+        "subtitle": "RNS",
+        "lines": 56
+      },
+      "remove": [
+        {
+          "id": "lode-al-nome-tuo",
+          "code": "DG052",
+          "title": "Lode al nome tuo",
+          "lines": 37
+        }
+      ],
+      "preview": "lode al nome tuo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "re-dei-re-rns",
+        "code": "415",
+        "title": "Re dei Re",
+        "subtitle": "RNS",
+        "lines": 57
+      },
+      "remove": [
+        {
+          "id": "re-dei-re",
+          "code": "DG074",
+          "title": "Re dei Re",
+          "lines": 24
+        }
+      ],
+      "preview": "re dei re",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "benediro-il-signore-in-do",
+        "code": "SP070",
+        "title": "Benedirò il Signore",
+        "subtitle": "in Do",
+        "lines": 32
+      },
+      "remove": [
+        {
+          "id": "benediro-il-signore-in-re",
+          "code": "SP069",
+          "title": "Benedirò il Signore",
+          "subtitle": "in Re",
+          "lines": 28
+        },
+        {
+          "id": "benediro-il-signore",
+          "code": "DG017",
+          "title": "Benedirò il Signore",
+          "lines": 9
+        }
+      ],
+      "preview": "benediro il signore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "eccomi-gesu-gen-verde-in-mi",
+        "code": "SP077",
+        "title": "Eccomi Gesù",
+        "subtitle": "gen verde (in Mi)",
+        "lines": 68
+      },
+      "remove": [
+        {
+          "id": "eccomi-gesu-gen-verde-in-re",
+          "code": "SP076",
+          "title": "Eccomi Gesù",
+          "subtitle": "gen verde (in Re)",
+          "lines": 29
+        }
+      ],
+      "preview": "eccomi gesu",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "pace-a-te-m-giombini",
+        "code": "SP093",
+        "title": "Pace a te",
+        "subtitle": "m. giombini",
+        "lines": 14
+      },
+      "remove": [
+        {
+          "id": "pace-a-te",
+          "code": "DG065",
+          "title": "Pace a te",
+          "lines": 16
+        }
+      ],
+      "preview": "pace a te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "speranze-di-pace-gen-rosso-in-re",
+        "code": "SP095",
+        "title": "Speranze di pace",
+        "subtitle": "gen rosso (in Re)",
+        "lines": 43
+      },
+      "remove": [
+        {
+          "id": "speranze-di-pace-gen-rosso-in-mi",
+          "code": "SP094",
+          "title": "Speranze di pace",
+          "subtitle": "gen rosso (in Mi)",
+          "lines": 24
+        }
+      ],
+      "preview": "speranze di pace",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "donaci-te-stesso-p-migani-in-re",
+        "code": "SP115",
+        "title": "Donaci Te stesso",
+        "subtitle": "p migani (in Re-)",
+        "lines": 89
+      },
+      "remove": [
+        {
+          "id": "donaci-te-stesso-p-migani-in-mi",
+          "code": "SP114",
+          "title": "Donaci Te stesso",
+          "subtitle": "p.migani (in Mi-)",
+          "lines": 43
+        }
+      ],
+      "preview": "donaci te stesso",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "sei-dio-gen-rosso-in-do",
+        "code": "SP117",
+        "title": "Sei Dio",
+        "subtitle": "gen rosso (in Do)",
+        "lines": 120
+      },
+      "remove": [
+        {
+          "id": "sei-dio-gen-r-dove-tu-sei-in-re",
+          "code": "SP116",
+          "title": "Sei Dio",
+          "subtitle": "gen r. dove tu sei (in Re)",
+          "lines": 20
+        }
+      ],
+      "preview": "sei dio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "venite-dal-profondo-rns",
+        "code": "SP120",
+        "title": "Venite dal profondo",
+        "subtitle": "rns",
+        "lines": 97
+      },
+      "remove": [
+        {
+          "id": "venite-dal-profondo",
+          "code": "DG103",
+          "title": "Venite dal profondo",
+          "lines": 21
+        }
+      ],
+      "preview": "venite dal profondo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "davanti-al-re-rns-in-sol",
+        "code": "SP122",
+        "title": "Davanti al Re",
+        "subtitle": "rns (in Sol)",
+        "lines": 8
+      },
+      "remove": [
+        {
+          "id": "davanti-al-re-rns-in-fa",
+          "code": "SP123",
+          "title": "Davanti al Re",
+          "subtitle": "rns (in Fa)",
+          "lines": 8
+        },
+        {
+          "id": "davanti-al-re",
+          "code": "DG029",
+          "title": "Davanti al Re",
+          "lines": 8
+        }
+      ],
+      "preview": "davanti al re",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "passa-questo-mondo-in-fa",
+        "code": "SP130",
+        "title": "Passa questo mondo",
+        "subtitle": "in Fa",
+        "lines": 72
+      },
+      "remove": [
+        {
+          "id": "passa-questo-mondo-in-re",
+          "code": "SP129",
+          "title": "Passa questo mondo",
+          "subtitle": "in Re",
+          "lines": 20
+        }
+      ],
+      "preview": "passa questo mondo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "adoro-te-rns-in-re-e-do",
+        "code": "SP135",
+        "title": "Adoro Te",
+        "subtitle": "rns) (in Re e Do",
+        "lines": 48
+      },
+      "remove": [
+        {
+          "id": "adoro-te",
+          "code": "DG002",
+          "title": "Adoro Te",
+          "lines": 20
+        }
+      ],
+      "preview": "adoro te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "nel-tuo-silenzio-gen-v-r-in-re",
+        "code": "SP142",
+        "title": "Nel tuo silenzio",
+        "subtitle": "gen v.- r. (in Re)",
+        "lines": 74
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-nel-tuo-silenzio",
+          "code": "FJ051",
+          "title": "NEL TUO SILENZIO",
+          "lines": 16
+        }
+      ],
+      "preview": "nel tuo silenzio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "nel-mistero-in-fa-sol",
+        "code": "SP147",
+        "title": "Nel mistero",
+        "subtitle": "in Fa/Sol",
+        "lines": 53
+      },
+      "remove": [
+        {
+          "id": "nel-mistero-in-re-mi",
+          "code": "SP146",
+          "title": "Nel mistero",
+          "subtitle": "in Re/Mi",
+          "lines": 22
+        }
+      ],
+      "preview": "nel mistero",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "cerco-solo-te-rns-in-si",
+        "code": "SP165",
+        "title": "Cerco solo Te",
+        "subtitle": "rns (in Si-)",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "cerco-solo-te-rns-in-do",
+          "code": "SP164",
+          "title": "Cerco solo Te",
+          "subtitle": "rns (in Do#-)",
+          "lines": 22
+        }
+      ],
+      "preview": "cerco solo te",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "non-fermarti-ora-gen-rosso",
+        "code": "SP181",
+        "title": "Non fermarti ora",
+        "subtitle": "gen rosso",
+        "lines": 80
+      },
+      "remove": [
+        {
+          "id": "longarone-non-fermarti-ora",
+          "code": "LG039",
+          "title": "NON FERMARTI ORA",
+          "lines": 18
+        }
+      ],
+      "preview": "non fermarti ora",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "gente-di-tutto-il-mondo-in-mi",
+        "code": "SP212",
+        "title": "Gente di tutto il mondo",
+        "subtitle": "in Mi",
+        "lines": 361
+      },
+      "remove": [
+        {
+          "id": "gente-di-tutto-il-mondo-in-sol",
+          "code": "SP211",
+          "title": "Gente di tutto il mondo",
+          "subtitle": "in Sol",
+          "lines": 26
+        }
+      ],
+      "preview": "gente di tutto il mondo",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "invochiamo-la-tua-presenza",
+        "code": "DG048",
+        "title": "Invochiamo la tua presenza",
+        "lines": 195
+      },
+      "remove": [
+        {
+          "id": "invochiamo-la-tua-presenza-rns",
+          "code": "SP220",
+          "title": "Invochiamo la tua presenza",
+          "subtitle": "rns",
+          "lines": 32
+        }
+      ],
+      "preview": "invochiamo la tua presenza",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "e-piena-la-terra-sal-103-in-fa",
+        "code": "SP222",
+        "title": "è piena la terra",
+        "subtitle": "sal 103 (in Fa)",
+        "lines": 31
+      },
+      "remove": [
+        {
+          "id": "e-piena-la-terra-sal-103-in-re",
+          "code": "SP223",
+          "title": "è piena la terra",
+          "subtitle": "sal 103 (in Re)",
+          "lines": 24
+        }
+      ],
+      "preview": "e piena la terra",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "del-tuo-spirito-gen-verde",
+        "code": "SP225",
+        "title": "Del tuo Spirito",
+        "subtitle": "gen verde",
+        "lines": 65
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-del-tuo-spirito",
+          "code": "FJ074",
+          "title": "DEL TUO SPIRITO",
+          "lines": 12
+        }
+      ],
+      "preview": "del tuo spirito",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "litanie-a-maria-g-cento-in-re",
+        "code": "SP229",
+        "title": "Litanie a Maria",
+        "subtitle": "g. cento (in Re)",
+        "lines": 60
+      },
+      "remove": [
+        {
+          "id": "litanie-a-maria-g-cento-in-fa",
+          "code": "SP228",
+          "title": "Litanie a Maria",
+          "subtitle": "g. cento (in Fa)",
+          "lines": 53
+        }
+      ],
+      "preview": "litanie a maria",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "maria-quando-l-amor-in-sol",
+        "code": "SP234",
+        "title": "Maria quando l’Amor",
+        "subtitle": "in Sol",
+        "lines": 53
+      },
+      "remove": [
+        {
+          "id": "maria-quando-l-amor-gen-r",
+          "code": "SP232",
+          "title": "Maria quando l’Amor",
+          "subtitle": "gen r.",
+          "lines": 32
+        },
+        {
+          "id": "maria-quando-l-amor-in-mi",
+          "code": "SP233",
+          "title": "Maria quando l’Amor",
+          "subtitle": "in Mi",
+          "lines": 32
+        }
+      ],
+      "preview": "maria quando l amor",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "in-me-cose-grandi-rns-in-re",
+        "code": "SP242",
+        "title": "in me cose grandi",
+        "subtitle": "rns (in Re)",
+        "lines": 110
+      },
+      "remove": [
+        {
+          "id": "in-me-cose-grandi-rns-in-fa",
+          "code": "SP241",
+          "title": "in me cose grandi",
+          "subtitle": "rns (in Fa)",
+          "lines": 31
+        }
+      ],
+      "preview": "in me cose grandi",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "gioisci-regina-in-do",
+        "code": "SP244",
+        "title": "Gioisci regina",
+        "subtitle": "in Do",
+        "lines": 52
+      },
+      "remove": [
+        {
+          "id": "gioisci-regina-in-mi",
+          "code": "SP243",
+          "title": "Gioisci Regina",
+          "subtitle": "in Mi",
+          "lines": 24
+        }
+      ],
+      "preview": "gioisci regina",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "maria-tu-sei-gen-rosso",
+        "code": "SP258",
+        "title": "Maria tu sei",
+        "subtitle": "gen rosso",
+        "lines": 32
+      },
+      "remove": [
+        {
+          "id": "maria-tu-sei",
+          "code": "DG060",
+          "title": "Maria tu sei",
+          "lines": 28
+        }
+      ],
+      "preview": "maria tu sei",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "gesu-e-la-samaritana-rns-in-si",
+        "code": "SP263",
+        "title": "Gesù e la Samaritana",
+        "subtitle": "rns (in Si-)",
+        "lines": 15
+      },
+      "remove": [
+        {
+          "id": "gesu-e-la-samaritana-in-do",
+          "code": "SP264",
+          "title": "Gesù e la Samaritana",
+          "subtitle": "in Do#-",
+          "lines": 15
+        },
+        {
+          "id": "gesu-e-la-samaritana",
+          "code": "DG041",
+          "title": "Gesù e la samaritana",
+          "lines": 18
+        }
+      ],
+      "preview": "gesu e la samaritana",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "mia-forza-e-mio-canto-pa-comi",
+        "code": "SP271",
+        "title": "Mia forza e mio canto",
+        "subtitle": "pa. comi",
+        "lines": 106
+      },
+      "remove": [
+        {
+          "id": "longarone-mia-forza-e-mio-canto",
+          "code": "LG043",
+          "title": "MIA FORZA E MIO CANTO",
+          "lines": 30
+        }
+      ],
+      "preview": "mia forza e mio canto",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "tutto-il-mio-amore-os-2-p-cori-in-fa",
+        "code": "SP273",
+        "title": "Tutto il mio amore",
+        "subtitle": "os 2 - p.cori (in Fa)",
+        "lines": 64
+      },
+      "remove": [
+        {
+          "id": "longarone-tutto-il-mio-amore",
+          "code": "LG045",
+          "title": "TUTTO IL MIO AMORE",
+          "lines": 30
+        }
+      ],
+      "preview": "tutto il mio amore",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "silenzio-sir-p-cori-in-la",
+        "code": "SP279",
+        "title": "Silenzio",
+        "subtitle": "sir – p. cori (in La)",
+        "lines": 171
+      },
+      "remove": [
+        {
+          "id": "silenzio-sir-p-cori-in-do",
+          "code": "SP278",
+          "title": "Silenzio",
+          "subtitle": "sir – p. cori (in Do)",
+          "lines": 14
+        }
+      ],
+      "preview": "silenzio",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "omnipotens-franc-as-g-difatta-in-mi",
+        "code": "SP289",
+        "title": "Omnipotens",
+        "subtitle": "franc. as.-g.difatta (in Mi-)",
+        "lines": 28
+      },
+      "remove": [
+        {
+          "id": "omnipotens-franc-as-g-difatta-in-re",
+          "code": "SP290",
+          "title": "Omnipotens",
+          "subtitle": "franc. as.-g.difatta (in Re-)",
+          "lines": 28
+        }
+      ],
+      "preview": "omnipotens",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "dalla-tristezza-alla-danza",
+        "code": "DG028",
+        "title": "Dalla tristezza alla danza",
+        "lines": 29
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-dalla-tristezza-alla-danza",
+          "code": "FJ053",
+          "title": "DALLA TRISTEZZA ALLA DANZA",
+          "lines": 43
+        }
+      ],
+      "preview": "dalla tristezza alla danza",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "longarone-io-ti-prendo-come-mia-sposa",
+        "code": "LG001",
+        "title": "IO TI PRENDO COME MIA SPOSA",
+        "lines": 93
+      },
+      "remove": [
+        {
+          "id": "io-ti-prendo-come-mia-sposa",
+          "code": "DG049",
+          "title": "Io ti prendo come mia sposa",
+          "lines": 22
+        }
+      ],
+      "preview": "io ti prendo come mia sposa",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "osanna-eh",
+        "code": "DG064",
+        "title": "Osanna eh",
+        "lines": 13
+      },
+      "remove": [
+        {
+          "id": "seminario-osanna-eh",
+          "code": "SM034",
+          "title": "OSANNA EH",
+          "lines": 16
+        }
+      ],
+      "preview": "osanna eh",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "same_title",
+      "keep": {
+        "id": "risplendi-gerusalemme",
+        "code": "DG077",
+        "title": "Risplendi, Gerusalemme",
+        "lines": 8
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-risplendi-gerusalemme",
+          "code": "FJ012",
+          "title": "RISPLENDI GERUSALEMME",
+          "lines": 10
+        }
+      ],
+      "preview": "risplendi gerusalemme",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "alto-e-glorioso",
+        "code": "DG012",
+        "title": "Alto e glorioso",
+        "lines": 32
+      },
+      "remove": [
+        {
+          "id": "alto-e-glorioso-dio",
+          "code": "LA18",
+          "title": "ALTO E GLORIOSO DIO",
+          "lines": 20
+        }
+      ],
+      "preview": "alto e glorioso dio illumina il cuore mio dammi fede retta speranza certa carita",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "cantate-inni",
+        "code": "LA44",
+        "title": "CANTATE INNI",
+        "lines": 23
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-cantate-inni-a-dio",
+          "code": "FJ013",
+          "title": "CANTATE INNI A DIO",
+          "lines": 24
+        }
+      ],
+      "preview": "cantate inni a dio cantate in ni cantate al nostro re cantate in ni cantate inni",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "com-e-bello-come-da-gioia",
+        "code": "392",
+        "title": "Com'è bello, come da gioia",
+        "lines": 14
+      },
+      "remove": [
+        {
+          "id": "come-e-bello",
+          "code": "LA54",
+          "title": "COME E’ BELLO",
+          "lines": 14
+        }
+      ],
+      "preview": "com'e bello come da' gioia che i fratelli stiano insieme e' come unguento che da",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "tu-sei-santo",
+        "code": "DG098",
+        "title": "Tu sei Santo",
+        "lines": 42
+      },
+      "remove": [
+        {
+          "id": "lodi-all-altissimo",
+          "code": "LA143",
+          "title": "LODI ALL’ALTISSIMO",
+          "lines": 28
+        }
+      ],
+      "preview": "tu sei santo signore dio tu sei forte tu sei grande tu sei l altissimo l onnipot",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "salve-regina-gen-v-e-bello-lodarti",
+        "code": "SP235",
+        "title": "Salve Regina",
+        "subtitle": "gen v. è bello lodarti",
+        "lines": 26
+      },
+      "remove": [
+        {
+          "id": "salve-regina-madre-di-misericordia",
+          "code": "LA159",
+          "title": "SALVE REGINA, MADRE DI MISERICORDIA",
+          "lines": 20
+        }
+      ],
+      "preview": "salve regina madre di misericordia vita dolcezza speranza nostra salve salve reg",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "madre-io-vorrei-pierangelo-sequeri",
+        "code": "192",
+        "title": "Madre io vorrei [Pierangelo Sequeri]",
+        "lines": 34
+      },
+      "remove": [
+        {
+          "id": "madre-io-vorrei",
+          "code": "LA163",
+          "title": "MADRE IO VORREI",
+          "lines": 20
+        }
+      ],
+      "preview": "io vorrei tanto parlare con te di quel figlio che amavi io vorrei tanto sapere d",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "near_lyrics",
+      "keep": {
+        "id": "perche-tu-sei-con-me",
+        "code": "LA199",
+        "title": "PERCHE’ TU SEI CON ME",
+        "lines": 26
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-perche-tu-sei-con-me",
+          "code": "FJ001",
+          "title": "PERCHE' TU SEI CON ME",
+          "lines": 16
+        }
+      ],
+      "preview": "solo tu sei il mio pastore niente mai mi manchera solo tu sei il mio pastore o s",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "perfetta-letizia",
+        "code": "LA203",
+        "title": "PERFETTA LETIZIA",
+        "lines": 63
+      },
+      "remove": [
+        {
+          "id": "perfetta-letitia",
+          "code": "DG070",
+          "title": "Perfetta letitia",
+          "lines": 36
+        }
+      ],
+      "preview": "frate leone agnello del signore per quanto possa un frate sull'acqua camminare s",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "e-sono-solo-un-uomo",
+        "code": "077",
+        "title": "E sono solo un uomo",
+        "lines": 36
+      },
+      "remove": [
+        {
+          "id": "symbolum-78",
+          "code": "LA244",
+          "title": "SYMBOLUM 78",
+          "lines": 32
+        }
+      ],
+      "preview": "io lo so signore che vengo da lontano prima nel pensiero e poi nella tua mano io",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "svegliati-o-sion",
+        "code": "DG095",
+        "title": "Svegliati o Sion",
+        "lines": 24
+      },
+      "remove": [
+        {
+          "id": "svegliati-sion",
+          "code": "LA246",
+          "title": "SVEGLIATI SION!",
+          "lines": 12
+        }
+      ],
+      "preview": "svegliati svegliati o sion metti le vesti piu belle scuoti la polvere ed alzati ",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "un-giorno-fra-le-mie-mani",
+        "code": "219",
+        "title": "Un giorno fra le mie mani",
+        "lines": 45
+      },
+      "remove": [
+        {
+          "id": "un-giorno-tra-le-mie-mani",
+          "code": "LA267",
+          "title": "UN GIORNO TRA LE MIE MANI",
+          "lines": 37
+        }
+      ],
+      "preview": "un giorno fra le mie mani un giorno qui davanti a me che cosa mai faro perche al",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "grande-e-la-tua-bonta",
+        "code": "LA299",
+        "title": "GRANDE E’ LA TUA BONTA’",
+        "lines": 18
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-grande-e-la-tua-bonta",
+          "code": "FJ065",
+          "title": "GRANDE  E' LA TUA BONTA'",
+          "lines": 20
+        }
+      ],
+      "preview": "grande e la tua bonta che riservi per chi ti teme colmi della tua grazia l uomo ",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "del-tuo-spirito-signore",
+        "code": "LA342",
+        "title": "DEL TUO SPIRITO SIGNORE",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "del-tuo-spirito-signore-e-piena-la-terra",
+          "code": "407",
+          "title": "Del tuo Spirito, Signore, è piena la terra",
+          "lines": 23
+        }
+      ],
+      "preview": "del tuo spirito signore e piena la ter ra e piena la ter ra benedici il signore ",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "cantiamo-a-te",
+        "code": "011",
+        "title": "Cantiamo a Te",
+        "lines": 18
+      },
+      "remove": [
+        {
+          "id": "cantiamo-te",
+          "code": "DG019",
+          "title": "Cantiamo Te",
+          "lines": 16
+        }
+      ],
+      "preview": "cantiamo a te signore della vita il nome tuo e grande sulla terra tutto parla di",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "insieme-come-fratelli",
+        "code": "310",
+        "title": "Insieme come fratelli",
+        "lines": 14
+      },
+      "remove": [
+        {
+          "id": "oh-come-e-bello-e-gioioso-salmo-132",
+          "code": "270",
+          "title": "Oh come è bello e gioioso",
+          "subtitle": "SALMO 132",
+          "lines": 12
+        }
+      ],
+      "preview": "oh come e bello e gioioso stare insieme come fratelli come olio che scende sulla",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "near_lyrics",
+      "keep": {
+        "id": "e-la-gioia-che-fa-cantare",
+        "code": "278",
+        "title": "E' la gioia che fa cantare",
+        "lines": 20
+      },
+      "remove": [
+        {
+          "id": "frate-jacopa-2007-e-la-gioia",
+          "code": "FJ015",
+          "title": "E' LA GIOIA",
+          "lines": 18
+        }
+      ],
+      "preview": "b conte p ferrante e' la gioia che fa cantare celebrando il signore il suo spiri",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "genti-tutte-proclamate-in-do",
+        "code": "SP140",
+        "title": "Genti tutte proclamate",
+        "subtitle": "in Do",
+        "lines": 146
+      },
+      "remove": [
+        {
+          "id": "genti-tutte",
+          "code": "292",
+          "title": "Genti tutte",
+          "lines": 36
+        }
+      ],
+      "preview": "genti tutte proclamate il mistero del signor del suo corpo e del suo sangue che ",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "servire-e-regnare",
+        "code": "DG087",
+        "title": "Servire e’ regnare",
+        "lines": 21
+      },
+      "remove": [
+        {
+          "id": "servire-e-regnare-gen-verde",
+          "code": "418",
+          "title": "Servire è regnare (Gen Verde) ♫",
+          "lines": 39
+        }
+      ],
+      "preview": "guardiamo a te che sei maestro e signore chinato a terra stai ci mostri che l'am",
+      "skippedLiturgical": false
+    },
+    {
+      "reason": "truncated",
+      "keep": {
+        "id": "longarone-symbolum-80",
+        "code": "LG025",
+        "title": "SYMBOLUM '80",
+        "lines": 64
+      },
+      "remove": [
+        {
+          "id": "symbolum-80-pa-sequeri-in-re",
+          "code": "SP131",
+          "title": "Symbolum ‘80",
+          "subtitle": "pa. sequeri (in Re-)",
+          "lines": 56
+        }
+      ],
+      "preview": "oltre la memoria del tempo che ho vissuto oltre la speranza che serve al mio dom",
+      "skippedLiturgical": false
+    }
+  ],
+  "hideIds": [
+    "a7",
+    "acclamate-al-signore",
+    "adoro-te",
+    "alto-e-glorioso-dio",
+    "amatevi-fratelli",
+    "amatevi-fratelli-in-sol",
+    "andate-per-le-strade",
+    "annunceremo-che-tu",
+    "antica-eterna-danza",
+    "astro-del-ciel",
+    "ave-maria",
+    "benedetto-sei-tu",
+    "benedici-o-signore",
+    "benediro",
+    "benediro-il-signore",
+    "benediro-il-signore-in-re",
+    "canta-alleluia",
+    "cantiamo-te",
+    "canto-a-te-maria",
+    "canto-a-te-maria-gen-v-in-mi",
+    "canto-dei-tre-giovani",
+    "cerco-la-tua-voce",
+    "cerco-solo-te-rns-in-do",
+    "chi-ci-separera",
+    "come-e-bello",
+    "come-e-grande",
+    "come-e-grande-r-grotti-in-re",
+    "come-fuoco-vivo",
+    "come-l-aurora-verrai",
+    "come-maria",
+    "come-tu-mi-vuoi",
+    "cosa-offrirti",
+    "cristo-e-risorto",
+    "cristo-e-risorto-rns-in-fa",
+    "custodiscimi-rns-in-mi",
+    "custodiscimi-rns-in-re",
+    "dall-aurora-al-tramonto",
+    "davanti-a-questo-amore",
+    "davanti-al-re",
+    "davanti-al-re-rns-in-fa",
+    "del-tuo-spirito-signore-e-piena-la-terra",
+    "dio-s-e-fatto-come-noi",
+    "donaci-te-stesso-p-migani-in-mi",
+    "dov-e-carita-e-amore",
+    "dove-tu-sei",
+    "e-bello-andar",
+    "e-bello-lodarti",
+    "e-piena-la-terra-sal-103-in-re",
+    "ecco-quel-che-abbiamo",
+    "ecco-quel-che-abbiamo-il-miracolo-del-pane",
+    "eccomi-gesu-gen-verde-in-re",
+    "effondero-il-mio-spirito",
+    "emmanuel-g-difatta-v-avveduto-m-corallo",
+    "emmanuel-gmg-2000",
+    "emmanuel-m-brusati-m-labellarte-m-mammoli-m-vers",
+    "emmanuel-re",
+    "figlia-di-sion",
+    "frate-jacopa-2007-alla-tua-mensa",
+    "frate-jacopa-2007-alto-e-glorioso-dio",
+    "frate-jacopa-2007-annunceremo-che-tu",
+    "frate-jacopa-2007-cantate-inni-a-dio",
+    "frate-jacopa-2007-come-tu-mi-vuoi",
+    "frate-jacopa-2007-creati-per-te",
+    "frate-jacopa-2007-dalla-tristezza-alla-danza",
+    "frate-jacopa-2007-danza-la-vita",
+    "frate-jacopa-2007-del-tuo-spirito",
+    "frate-jacopa-2007-e-la-gioia",
+    "frate-jacopa-2007-ecco-il-pane",
+    "frate-jacopa-2007-emmanuel",
+    "frate-jacopa-2007-figli-di-dio",
+    "frate-jacopa-2007-gioisci-figlia-di-sion",
+    "frate-jacopa-2007-grande-e-la-tua-bonta",
+    "frate-jacopa-2007-le-tue-meraviglie",
+    "frate-jacopa-2007-lodate-cieli-dei-cieli",
+    "frate-jacopa-2007-lodi-di-dio-altissimo",
+    "frate-jacopa-2007-luce-che-sorgi",
+    "frate-jacopa-2007-magnificat",
+    "frate-jacopa-2007-nascera",
+    "frate-jacopa-2007-nel-tuo-silenzio",
+    "frate-jacopa-2007-nelle-tue-mani",
+    "frate-jacopa-2007-pane-di-vita",
+    "frate-jacopa-2007-perche-tu-sei-con-me",
+    "frate-jacopa-2007-popoli-tutti-acclamate",
+    "frate-jacopa-2007-rallegriamoci",
+    "frate-jacopa-2007-resta-accanto-a-me",
+    "frate-jacopa-2007-risplendi-gerusalemme",
+    "frate-jacopa-2007-scatenate-la-gioia",
+    "frate-jacopa-2007-segni-del-tuo-amore",
+    "frate-jacopa-2007-tu-chi-sei",
+    "frate-jacopa-2007-verbum-panis",
+    "frate-jacopa-2007-voglio-cantare-al-signor",
+    "frate-jacopa-2007-voi-siete-di-dio",
+    "gente-di-tutto-il-mondo-in-sol",
+    "genti-tutte",
+    "gesu-e-la-samaritana",
+    "gesu-e-la-samaritana-in-do",
+    "gioisci-figlia-di-sion",
+    "gioisci-figlia-di-sion-gen-v-in-sib",
+    "gioisci-regina-in-mi",
+    "giovane-donna",
+    "grandi-cose",
+    "hai-dato-un-cibo",
+    "i-cieli-narrano",
+    "i-cieli-narrano-m-frisina-in-la",
+    "in-me-cose-grandi-rns-in-fa",
+    "invochiamo-la-tua-presenza-rns",
+    "io-non-sono-degno-claudio-chieffo",
+    "io-saro-con-te",
+    "io-ti-offro",
+    "io-ti-offro-cd-cloninger-d-moen-in-fa",
+    "io-ti-prendo-come-mia-sposa",
+    "l-acqua-viva",
+    "l-acqua-viva-m-frisina-in-do",
+    "laudato-sii-o-mi-signore",
+    "le-tue-meraviglie",
+    "le-tue-meraviglie-in-fa",
+    "litanie-a-maria-g-cento-in-fa",
+    "lodate-dio",
+    "lodate-il-signore-dai-cieli-frisina",
+    "lode-al-nome-tuo",
+    "lodi-all-altissimo",
+    "longarone-astro-del-ciel",
+    "longarone-ave-maria",
+    "longarone-benedici",
+    "longarone-mia-forza-e-mio-canto",
+    "longarone-non-fermarti-ora",
+    "longarone-ora-e-tempo-di-gioia",
+    "longarone-ora-so",
+    "longarone-padre-mio",
+    "longarone-pane-del-cielo",
+    "longarone-quale-gioia",
+    "longarone-quando-bussero",
+    "longarone-resta-qui-con-noi",
+    "longarone-salve-regina",
+    "longarone-samuel",
+    "longarone-san-francesco",
+    "longarone-servo-per-amore",
+    "longarone-te-al-centro-del-mio-cuore",
+    "longarone-tu-sei",
+    "longarone-tutto-il-mio-amore",
+    "longarone-vieni-e-seguimi",
+    "longarone-vivere-la-vita",
+    "longarone-vocazione",
+    "luce-alessandro-gallo",
+    "madre-io-vorrei",
+    "magnificat",
+    "magnificat-ciardella",
+    "magnificat-gen-verde",
+    "maria-quando-l-amor-gen-r",
+    "maria-quando-l-amor-in-mi",
+    "maria-tu-sei",
+    "meraviglie-in-te",
+    "meraviglie-in-te-in-do",
+    "nel-mistero-in-re-mi",
+    "non-temere",
+    "o-signore-nostro-dio",
+    "ogni-mia-parola",
+    "oh-come-e-bello-e-gioioso-salmo-132",
+    "omnipotens-franc-as-g-difatta-in-re",
+    "pace-a-te",
+    "pace-sia-pace-a-voi",
+    "padre-nostro-frisina",
+    "padre-nostro-gregoriano",
+    "padre-nostro-m-giombini-in-la",
+    "pane-del-cielo",
+    "pane-del-cielo-gen-rosso-in-do",
+    "pane-di-vita-nuova-frisina",
+    "passa-questo-mondo-in-re",
+    "perfetta-letitia",
+    "popoli-tutti",
+    "popoli-tutti-acclamate",
+    "preghiera",
+    "rallegriamoci",
+    "re-dei-re",
+    "resta-accanto-a-me",
+    "resta-qui-con-noi",
+    "resta-qui-con-noi-gen-rosso-in-re",
+    "salve-regina",
+    "salve-regina-greg",
+    "salve-regina-latino",
+    "salve-regina-madre-di-misericordia",
+    "scusa-signore-biagioli-in-sol",
+    "se-m-accogli",
+    "se-m-accogli-pa-sequeri-in-do",
+    "sei-dio-gen-r-dove-tu-sei-in-re",
+    "seminario-alzati-e-risplendi",
+    "seminario-andate-per-le-strade",
+    "seminario-benedetto-sei-tu",
+    "seminario-come-e-grande",
+    "seminario-giovane-donna",
+    "seminario-grandi-cose",
+    "seminario-io-ti-offro",
+    "seminario-laudato-sii",
+    "seminario-osanna-eh",
+    "seminario-padre-nostro",
+    "seminario-san-damiano",
+    "servire-e-regnare-gen-verde",
+    "servo-per-amore",
+    "servo-per-amore-in-mi",
+    "signore-sei-venuto",
+    "silenzio-sir-p-cori-in-do",
+    "solo-in-dio",
+    "speranze-di-pace-gen-rosso-in-mi",
+    "spirito-di-dio",
+    "spirito-santo-vieni",
+    "su-ali-d-aquila",
+    "su-ali-d-aquila-m-joncas-in-si",
+    "su-tutte-le-strade-del-mondo",
+    "svegliati-sion",
+    "symbolum-77",
+    "symbolum-78",
+    "symbolum-80",
+    "symbolum-80-pa-sequeri-in-mi",
+    "symbolum-80-pa-sequeri-in-re",
+    "te-deum",
+    "un-giorno-tra-le-mie-mani",
+    "venimus-adorare-eum",
+    "venite-a-me",
+    "venite-applaudiamo-al-signore",
+    "venite-dal-profondo",
+    "verbum-panis",
+    "viaggio-nella-vita",
+    "vieni-al-signor",
+    "vieni-con-me",
+    "vieni-e-seguimi",
+    "vieni-nasci-ancora",
+    "vivere-la-vita",
+    "vocazione"
+  ]
+}
