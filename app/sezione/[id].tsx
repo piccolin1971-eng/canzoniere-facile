@@ -16,9 +16,7 @@ export default function SezioneScreen() {
   const { colors } = useSettings();
   const { songsBySection } = useSongCatalog();
   const section = getSection(id ?? "");
-  const songs = songsBySection(id ?? "").sort((a, b) =>
-    a.code.localeCompare(b.code, undefined, { numeric: true }),
-  );
+  const songs = songsBySection(id ?? "");
   const styles = useMemo(() => makeStyles(colors), [colors]);
 
   useLayoutEffect(() => {

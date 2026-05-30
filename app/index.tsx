@@ -15,9 +15,9 @@ export default function HomeScreen() {
   const router = useRouter();
   const { recentIds, colors } = useSettings();
   const { getResolvedSong } = useSongEdits();
-  const { totalCount, songsAlphabetical } = useSongCatalog();
+  const { totalCount, songsAlphabeticalList } = useSongCatalog();
   const recentSongs = recentIds.map((id) => getResolvedSong(id)).filter(Boolean);
-  const featuredSongs = useMemo(() => songsAlphabetical().slice(0, 4), [songsAlphabetical]);
+  const featuredSongs = useMemo(() => songsAlphabeticalList.slice(0, 4), [songsAlphabeticalList]);
   const styles = useMemo(() => makeStyles(colors), [colors]);
 
   return (

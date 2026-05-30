@@ -10,8 +10,8 @@ import { spacing } from "@/src/theme";
 export default function AlfabetoScreen() {
   const router = useRouter();
   const { colors } = useSettings();
-  const { songsAlphabetical } = useSongCatalog();
-  const songs = songsAlphabetical();
+  const { songsAlphabeticalList } = useSongCatalog();
+  const songs = songsAlphabeticalList;
   const styles = useMemo(() => makeStyles(colors), [colors]);
 
   return (

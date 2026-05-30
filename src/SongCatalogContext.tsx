@@ -42,8 +42,16 @@ type SongCatalogState = {
   loaded: boolean;
   userSongs: Song[];
   totalCount: number;
+  /** Elenco A–Z in cache (stessa istanza finché il catalogo non cambia). */
+  songsAlphabeticalList: Song[];
+  getAlphabeticalNeighbors: (id: string) => {
+    prev: Song | null;
+    next: Song | null;
+    index: number;
+  };
   getBaseSong: (id: string) => Song | undefined;
   searchSongs: (query: string) => Song[];
+  /** @deprecated Preferire songsAlphabeticalList */
   songsAlphabetical: () => Song[];
   songsBySection: (sectionId: string) => Song[];
   getSongsByTheme: (theme: string) => Song[];
@@ -133,14 +141,54 @@ export function SongCatalogProvider({ children }: { children: ReactNode }) {
     [allSongs],
   );
 
-  const songsAlphabetical = useCallback(
+  const songsAlphabeticalList = useMemo(
     () => [...allSongs].sort((a, b) => a.title.localeCompare(b.title, "it")),
     [allSongs],
   );
 
+  const alphabeticalIndexById = useMemo(() => {
+    const map = new Map<string, number>();
+    songsAlphabeticalList.forEach((s, i) => map.set(s.id, i));
+    return map;
+  }, [songsAlphabeticalList]);
+
+  const songsAlphabetical = useCallback(
+    () => songsAlphabeticalList,
+    [songsAlphabeticalList],
+  );
+
+  const getAlphabeticalNeighbors = useCallback(
+    (id: string) => {
+      const index = alphabeticalIndexById.get(id) ?? -1;
+      if (index < 0) {
+        return { prev: null, next: null, index: -1 };
+      }
+      return {
+        prev: index > 0 ? songsAlphabeticalList[index - 1] : null,
+        next: index < songsAlphabeticalList.length - 1 ? songsAlphabeticalList[index + 1] : null,
+        index,
+      };
+    },
+    [alphabeticalIndexById, songsAlphabeticalList],
+  );
+
+  const songsBySectionMap = useMemo(() => {
+    const map = new Map<string, Song[]>();
+    for (const s of allSongs) {
+      const list = map.get(s.sectionId);
+      if (list) list.push(s);
+      else map.set(s.sectionId, [s]);
+    }
+    for (const [key, list] of map) {
+      list.sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }));
+      map.set(key, list);
+    }
+    return map;
+  }, [allSongs]);
+
   const songsBySection = useCallback(
-    (sectionId: string) => allSongs.filter((s) => s.sectionId === sectionId),
-    [allSongs],
+    (sectionId: string) => songsBySectionMap.get(sectionId) ?? [],
+    [songsBySectionMap],
   );
 
   const getSongsByTheme = useCallback(
@@ -229,6 +277,8 @@ export function SongCatalogProvider({ children }: { children: ReactNode }) {
       loaded,
       userSongs,
       totalCount: allSongs.length,
+      songsAlphabeticalList,
+      getAlphabeticalNeighbors,
       getBaseSong,
       searchSongs,
       songsAlphabetical,
@@ -246,6 +296,8 @@ export function SongCatalogProvider({ children }: { children: ReactNode }) {
       loaded,
       userSongs,
       allSongs.length,
+      songsAlphabeticalList,
+      getAlphabeticalNeighbors,
       getBaseSong,
       searchSongs,
       songsAlphabetical,
@@ -259,8 +311,6 @@ export function SongCatalogProvider({ children }: { children: ReactNode }) {
       deleteSong,
     ],
   );
-
-  if (!loaded) return null;
 
   return <SongCatalogContext.Provider value={value}>{children}</SongCatalogContext.Provider>;
 }

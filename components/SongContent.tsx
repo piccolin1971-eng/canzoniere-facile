@@ -1,10 +1,10 @@
 import { Platform, StyleSheet, Text, View } from "react-native";
-import { useMemo } from "react";
+import { memo, useMemo } from "react";
 import { useSettings } from "@/src/SettingsContext";
 import { resolveBodyFont } from "@/src/fontFamily";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
-import type { Song, SongLine } from "@/src/types";
+import type { Song, SongLine, LineType } from "@/src/types";
 import { transposeChordLine } from "@/src/transpose";
 
 type Props = {
@@ -13,7 +13,27 @@ type Props = {
   transposeSemis?: number;
 };
 
-export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
+type DisplayBlock = { type: LineType; text: string };
+
+/** Unisce righe consecutive dello stesso tipo: stesso aspetto, meno view native. */
+function buildDisplayBlocks(lines: SongLine[], transposeSemis: number): DisplayBlock[] {
+  const blocks: DisplayBlock[] = [];
+  for (const line of lines) {
+    const text =
+      line.type === "chords" && transposeSemis
+        ? transposeChordLine(line.text, transposeSemis)
+        : line.text;
+    const last = blocks[blocks.length - 1];
+    if (last && last.type === line.type) {
+      last.text = `${last.text}\n${text}`;
+    } else {
+      blocks.push({ type: line.type, text });
+    }
+  }
+  return blocks;
+}
+
+function SongContentInner({ song, fontSize, transposeSemis = 0 }: Props) {
   const { colors, fontFamilyId, isBold } = useSettings();
   const bodyFont = resolveBodyFont(fontFamilyId, isBold);
   const styles = useMemo(() => makeStyles(colors), [colors]);
@@ -25,24 +45,25 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
     fontWeight: bodyFont.fontWeight,
   } as const;
 
+  const blocks = useMemo(
+    () => buildDisplayBlocks(song.lines, transposeSemis),
+    [song.lines, transposeSemis],
+  );
+
   return (
     <View style={styles.wrap}>
-      {song.lines.map((line, i) => {
-        const displayLine: SongLine =
-          line.type === "chords" && transposeSemis
-            ? { ...line, text: transposeChordLine(line.text, transposeSemis) }
-            : line;
-        if (displayLine.type === "chords") {
+      {blocks.map((block, i) => {
+        if (block.type === "chords") {
           return (
             <Text
               key={i}
               style={[styles.chords, { fontSize: chordSize, lineHeight: chordSize * 1.35 }]}
             >
-              {displayLine.text}
+              {block.text}
             </Text>
           );
         }
-        if (displayLine.type === "note") {
+        if (block.type === "note") {
           return (
             <Text
               key={i}
@@ -52,7 +73,7 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
                 { fontSize: noteSize, lineHeight: noteSize * 1.4 },
               ]}
             >
-              {displayLine.text}
+              {block.text}
             </Text>
           );
         }
@@ -65,13 +86,16 @@ export function SongContent({ song, fontSize, transposeSemis = 0 }: Props) {
               { fontSize: lyricSize, lineHeight: lyricSize * 1.55 },
             ]}
           >
-            {displayLine.text}
+            {block.text}
           </Text>
         );
       })}
     </View>
   );
 }
+
+export const SongContent = memo(SongContentInner);
+
 function makeStyles(colors: AppColors) {
   return StyleSheet.create({
     wrap: { paddingBottom: spacing.xl },

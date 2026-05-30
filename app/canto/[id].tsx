@@ -77,7 +77,7 @@ export default function CantoScreen() {
   } = useSettings();
   const { getResolvedSong, isEdited, resetEdit } = useSongEdits();
   const { getSavedTranspose, saveTranspose, resetTranspose, purgeSong } = useLibrary();
-  const { songsAlphabetical, deleteSong } = useSongCatalog();
+  const { getAlphabeticalNeighbors, deleteSong } = useSongCatalog();
   const styles = useMemo(() => makeStyles(colors), [colors]);
   const song = getResolvedSong(id ?? "");
   const savedTranspose = song ? getSavedTranspose(song.id) : 0;
@@ -90,10 +90,10 @@ export default function CantoScreen() {
   const containerHeightRef = useRef(0);
   const autoScrollTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const userScrolledRef = useRef(false);
-  const allSorted = useMemo(() => songsAlphabetical(), [songsAlphabetical]);
-  const idx = allSorted.findIndex((s) => s.id === id);
-  const prev = idx > 0 ? allSorted[idx - 1] : null;
-  const next = idx >= 0 && idx < allSorted.length - 1 ? allSorted[idx + 1] : null;
+  const { prev, next } = useMemo(
+    () => getAlphabeticalNeighbors(id ?? ""),
+    [getAlphabeticalNeighbors, id],
+  );
   const recentMarked = useRef<string | null>(null);
 
   useEffect(() => {

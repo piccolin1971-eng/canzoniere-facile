@@ -83,8 +83,6 @@ function SongEditsProviderInner({ children }: { children: ReactNode }) {
     [loaded, getResolvedSong, isEdited, saveEdit, resetEdit],
   );
 
-  if (!loaded) return null;
-
   return <SongEditsContext.Provider value={value}>{children}</SongEditsContext.Provider>;
 }
 
