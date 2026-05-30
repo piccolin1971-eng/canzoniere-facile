@@ -28,6 +28,7 @@ import {
   useSettings,
 } from "@/src/SettingsContext";
 import { formatTransposeLabel } from "@/src/transpose";
+import { fixItalianApostropheAccents } from "@/src/textNormalize";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
 function FontHeaderButtons({
@@ -196,7 +197,7 @@ export default function CantoScreen() {
   useLayoutEffect(() => {
     if (!song) return;
     navigation.setOptions({
-      title: song.title,
+      title: fixItalianApostropheAccents(song.title),
       headerTitle: () => (
         <View style={styles.headerTitleRow}>
           <View style={[styles.headerBadge, { backgroundColor: sectionAccent + "33" }]}>
@@ -208,7 +209,7 @@ export default function CantoScreen() {
             style={[styles.headerTitle, { color: colors.headerTint }]}
             numberOfLines={1}
           >
-            {song.title}
+            {fixItalianApostropheAccents(song.title)}
           </Text>
         </View>
       ),
@@ -287,7 +288,7 @@ export default function CantoScreen() {
           <View style={styles.metaRow}>
             {song.subtitle ? (
               <Text style={styles.authorLine} numberOfLines={2}>
-                {song.subtitle}
+                {fixItalianApostropheAccents(song.subtitle)}
               </Text>
             ) : null}
             {isEdited(song.id) || song.isCustom ? (

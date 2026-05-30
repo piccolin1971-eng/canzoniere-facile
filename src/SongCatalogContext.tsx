@@ -9,10 +9,11 @@ import React, {
   useState,
 } from "react";
 import {
-  getSong as getBuiltinSong,
   getThemes as getBuiltinThemes,
+  getSong as getBuiltinSong,
   SONGS,
 } from "./songs";
+import { songMatchesTheme } from "./themeRules";
 import { Song } from "./types";
 
 const STORAGE_KEY = "canzoniere_user_songs";
@@ -192,23 +193,7 @@ export function SongCatalogProvider({ children }: { children: ReactNode }) {
   );
 
   const getSongsByTheme = useCallback(
-    (theme: string) => {
-      const t = theme.toLowerCase();
-      return allSongs.filter((s) => {
-        const title = s.title.toLowerCase();
-        if (t === "kyrie") return title.includes("kyrie") || title.includes("pietà");
-        if (t === "gloria") return title.includes("gloria");
-        if (t === "alleluia") return title.includes("alleluia");
-        if (t === "agnello di dio") return title.includes("agnello");
-        if (t === "maria") return title.includes("maria");
-        if (t === "santo") return title.includes("santo");
-        if (t === "penitenza") return s.sectionId === "A";
-        if (t === "natale") return s.sectionId === "N";
-        if (t === "pasqua") return s.sectionId === "P";
-        if (t === "liturgia") return true;
-        return s.themes?.some((x) => x.toLowerCase() === t) ?? false;
-      });
-    },
+    (theme: string) => allSongs.filter((s) => songMatchesTheme(s, theme)),
     [allSongs],
   );
 

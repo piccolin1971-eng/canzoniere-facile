@@ -5224,6 +5224,7 @@ export const IMPORTED_SONGS: Song[] = [
     id: "shema-israel",
     code: "LA245",
     title: "SHEMA’ ISRAEL",
+    subtitle: "E. Preghiere",
     sectionId: "C",
     lines: [
       c("RE-  LA-/DO  SIB  FA  DO  (LA)"),

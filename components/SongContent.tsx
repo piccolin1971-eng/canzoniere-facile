@@ -6,6 +6,7 @@ import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
 import type { Song, SongLine, LineType } from "@/src/types";
 import { transposeChordLine } from "@/src/transpose";
+import { fixItalianApostropheAccents } from "@/src/textNormalize";
 
 type Props = {
   song: Song;
@@ -19,10 +20,13 @@ type DisplayBlock = { type: LineType; text: string };
 function buildDisplayBlocks(lines: SongLine[], transposeSemis: number): DisplayBlock[] {
   const blocks: DisplayBlock[] = [];
   for (const line of lines) {
-    const text =
+    let text =
       line.type === "chords" && transposeSemis
         ? transposeChordLine(line.text, transposeSemis)
         : line.text;
+    if (line.type === "lyrics" || line.type === "note") {
+      text = fixItalianApostropheAccents(text);
+    }
     const last = blocks[blocks.length - 1];
     if (last && last.type === line.type) {
       last.text = `${last.text}\n${text}`;

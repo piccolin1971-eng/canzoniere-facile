@@ -6,6 +6,7 @@ import { useSettings } from "@/src/SettingsContext";
 import type { AppColors } from "@/src/themeColors";
 import { spacing } from "@/src/theme";
 import type { Song } from "@/src/types";
+import { fixItalianApostropheAccents } from "@/src/textNormalize";
 import { SongMarkers } from "./SongMarkers";
 
 type Props = {
@@ -38,7 +39,7 @@ export function SongCard({
       <View style={styles.body}>
         <View style={styles.titleRow}>
           <Text style={styles.title} numberOfLines={2}>
-            {song.title}
+            {fixItalianApostropheAccents(song.title)}
           </Text>
           {showMarkers && (
             <SongMarkers songId={song.id} size={20} showSetlistAction={showSetlistAction} />
@@ -46,7 +47,7 @@ export function SongCard({
         </View>
         {song.subtitle ? (
           <Text style={styles.subtitle} numberOfLines={1}>
-            {song.subtitle}
+            {fixItalianApostropheAccents(song.subtitle)}
           </Text>
         ) : null}
         <Text style={styles.section}>{section?.name ?? song.sectionId}</Text>

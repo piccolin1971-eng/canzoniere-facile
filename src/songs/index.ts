@@ -1,4 +1,5 @@
 import { Song, SongLine } from "../types";
+import { getThemeLabels, songMatchesTheme } from "../themeRules";
 import { IMPORTED_SONGS } from "./imported";
 
 const c = (text: string): SongLine => ({ type: "chords", text });
@@ -447,39 +448,11 @@ export function searchSongs(query: string): Song[] {
 }
 
 export function getThemes(): string[] {
-  const set = new Set<string>();
-  for (const s of SONGS) {
-    const t = s.title.toLowerCase();
-    if (t.includes("kyrie") || t.includes("pietà")) set.add("Kyrie");
-    if (t.includes("gloria")) set.add("Gloria");
-    if (t.includes("alleluia")) set.add("Alleluia");
-    if (t.includes("agnello")) set.add("Agnello di Dio");
-    if (t.includes("maria") || t.includes("ave maria")) set.add("Maria");
-    if (t.includes("santo") && !t.includes("santuario")) set.add("Santo");
-    if (s.sectionId === "A") set.add("Penitenza");
-    if (s.sectionId === "N") set.add("Natale");
-    if (s.sectionId === "P") set.add("Pasqua");
-  }
-  set.add("Liturgia");
-  return [...set].sort((a, b) => a.localeCompare(b, "it"));
+  return getThemeLabels();
 }
 
 export function getSongsByTheme(theme: string): Song[] {
-  const t = theme.toLowerCase();
-  return SONGS.filter((s) => {
-    const title = s.title.toLowerCase();
-    if (t === "kyrie") return title.includes("kyrie") || title.includes("pietà");
-    if (t === "gloria") return title.includes("gloria");
-    if (t === "alleluia") return title.includes("alleluia");
-    if (t === "agnello di dio") return title.includes("agnello");
-    if (t === "maria") return title.includes("maria");
-    if (t === "santo") return title.includes("santo");
-    if (t === "penitenza") return s.sectionId === "A";
-    if (t === "natale") return s.sectionId === "N";
-    if (t === "pasqua") return s.sectionId === "P";
-    if (t === "liturgia") return true;
-    return s.themes?.some((x) => x.toLowerCase() === t) ?? false;
-  });
+  return SONGS.filter((s) => songMatchesTheme(s, theme));
 }
 
 export function songsBySection(sectionId: string): Song[] {
